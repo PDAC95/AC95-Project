@@ -1,0 +1,474 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HA1" xml:space="preserve">
+    <value>Innovación digital</value>
+  </data>
+  <data name="HA2" xml:space="preserve">
+    <value>al</value>
+  </data>
+  <data name="HA3" xml:space="preserve">
+    <value>servicio de</value>
+  </data>
+  <data name="HA4" xml:space="preserve">
+    <value>tu negocio.</value>
+  </data>
+  <data name="HA5" xml:space="preserve">
+    <value>Bienvenido a AC95, donde la imaginación no tiene límites y la creatividad da vida a tus proyectos digitales. Nos especializamos en ofrecer soluciones integrales de diseño y desarrollo web, gráfico y de marketing por correo electrónico. Juntos, convertiremos tus visiones en realidades exitosas y tangibles.</value>
+  </data>
+  <data name="HA6" xml:space="preserve">
+    <value>Lo que hacemos</value>
+  </data>
+  <data name="HA7" xml:space="preserve">
+    <value>¿Cómo funciona?</value>
+  </data>
+  <data name="HB1" xml:space="preserve">
+    <value>Diseños Innovadores</value>
+  </data>
+  <data name="HB10" xml:space="preserve">
+    <value>Elige el servicio y una plantilla pre-diseñada de nuestro catálogo.</value>
+  </data>
+  <data name="HB11" xml:space="preserve">
+    <value>Define:</value>
+  </data>
+  <data name="HB12" xml:space="preserve">
+    <value>Completa un breve cuestionario para especificar detalles como fotos, logotipos y textos.</value>
+  </data>
+  <data name="HB13" xml:space="preserve">
+    <value>Recibe:</value>
+  </data>
+  <data name="HB14" xml:space="preserve">
+    <value>Obtén tu diseño listo para usar, entregado a tiempo.</value>
+  </data>
+  <data name="HB15" xml:space="preserve">
+    <value>Descubre Cómo Funciona:</value>
+  </data>
+  <data name="HB16" xml:space="preserve">
+    <value>Mira Ahora</value>
+  </data>
+  <data name="HB2" xml:space="preserve">
+    <value>para</value>
+  </data>
+  <data name="HB3" xml:space="preserve">
+    <value>Impulsar tu Negocio</value>
+  </data>
+  <data name="HB4" xml:space="preserve">
+    <value>En AC95, entendemos que cada negocio es único y merece soluciones de diseño adaptadas a sus necesidades específicas. Es por eso que ofrecemos total flexibilidad, ya sea que necesites una membresía mensual o servicios puntuales. Desde el diseño de sitios web hasta creativos para campañas de correo electrónico y gráficos impresionantes, nuestro estudio está preparado para ser tu socio creativo continuo o tu recurso basado en proyectos. Explora nuestras opciones y descubre cómo podemos ayudar a que tu negocio se destaque y prospere en el mundo digital.</value>
+  </data>
+  <data name="HB5" xml:space="preserve">
+    <value>Comienza</value>
+  </data>
+  <data name="HB6" xml:space="preserve">
+    <value>Fácilmente</value>
+  </data>
+  <data name="HB7" xml:space="preserve">
+    <value>en Solo</value>
+  </data>
+  <data name="HB8" xml:space="preserve">
+    <value>Unos Pasos.</value>
+  </data>
+  <data name="HB9" xml:space="preserve">
+    <value>Selecciona:</value>
+  </data>
+  <data name="HC1" xml:space="preserve">
+    <value>Profesionales enfocados en ayudar a tu marca</value>
+  </data>
+  <data name="HC10" xml:space="preserve">
+    <value>Creación de Tiendas</value>
+  </data>
+  <data name="HC11" xml:space="preserve">
+    <value>de Comercio Electrónico</value>
+  </data>
+  <data name="HC12" xml:space="preserve">
+    <value>Desarrolla tiendas en línea eficientes para aumentar las ventas y optimizar la gestión de productos.</value>
+  </data>
+  <data name="HC13" xml:space="preserve">
+    <value>Campañas Publicitarias y</value>
+  </data>
+  <data name="HC14" xml:space="preserve">
+    <value>de Marketing</value>
+  </data>
+  <data name="HC15" xml:space="preserve">
+    <value>Diseños atractivos para redes sociales, publicidad y folletos que comunican tu mensaje de manera efectiva.</value>
+  </data>
+  <data name="HC16" xml:space="preserve">
+    <value>Diseño de Correos Electrónicos para</value>
+  </data>
+  <data name="HC17" xml:space="preserve">
+    <value>Envios Masivos</value>
+  </data>
+  <data name="HC18" xml:space="preserve">
+    <value>Campañas de correo electrónico atractivas y optimizadas para aumentar la participación y retención de clientes.</value>
+  </data>
+  <data name="HC2" xml:space="preserve">
+    <value>a crecer y avanzar.</value>
+  </data>
+  <data name="HC3" xml:space="preserve">
+    <value>Ideas</value>
+  </data>
+  <data name="HC4" xml:space="preserve">
+    <value>Únicas</value>
+  </data>
+  <data name="HC4.1" xml:space="preserve">
+    <value>Para Tu</value>
+  </data>
+  <data name="HC5" xml:space="preserve">
+    <value>Negocio.</value>
+  </data>
+  <data name="HC6" xml:space="preserve">
+    <value>Lo que hacemos</value>
+  </data>
+  <data name="HC7" xml:space="preserve">
+    <value>Diseño y Desarrollo</value>
+  </data>
+  <data name="HC8" xml:space="preserve">
+    <value>de Sitios Web</value>
+  </data>
+  <data name="HC9" xml:space="preserve">
+    <value>Crea sitios web únicos que reflejen tu marca y conecten con los visitantes.</value>
+  </data>
+  <data name="HD1" xml:space="preserve">
+    <value>Planes Mensuales</value>
+  </data>
+  <data name="HD10" xml:space="preserve">
+    <value>Plan de Mantenimiento de Sitios Web</value>
+  </data>
+  <data name="HD11" xml:space="preserve">
+    <value>Mantén el rendimiento óptimo de tu sitio web con actualizaciones regulares, soporte técnico y optimización SEO.</value>
+  </data>
+  <data name="HD12" xml:space="preserve">
+    <value>Explora Opciones</value>
+  </data>
+  <data name="HD13" xml:space="preserve">
+    <value>Mantenimiento de Tiendas en Línea</value>
+  </data>
+  <data name="HD14" xml:space="preserve">
+    <value>Mantén tu comercio electrónico en crecimiento con gestión de inventario, actualizaciones de seguridad y soporte técnico continuo.</value>
+  </data>
+  <data name="HD15" xml:space="preserve">
+    <value>Explora Opciones</value>
+  </data>
+  <data name="HD16" xml:space="preserve">
+    <value>¡Explora las posibilidades hoy mismo!</value>
+  </data>
+  <data name="HD17" xml:space="preserve">
+    <value>Solución Gráfica</value>
+  </data>
+  <data name="HD18" xml:space="preserve">
+    <value>Renueva tu marca mensualmente con nuevos diseños para redes sociales, publicidad y más.</value>
+  </data>
+  <data name="HD19" xml:space="preserve">
+    <value>Explora Opciones</value>
+  </data>
+  <data name="HD2" xml:space="preserve">
+    <value>Personalizados</value>
+  </data>
+  <data name="HD20" xml:space="preserve">
+    <value>Diseño de Marketing por Correo Electrónico</value>
+  </data>
+  <data name="HD21" xml:space="preserve">
+    <value>Mejora tus campañas de correo electrónico con diseños personalizados, optimizados para la interacción y conversión, perfectos para boletines, promociones y más.</value>
+  </data>
+  <data name="HD22" xml:space="preserve">
+    <value>Explora Opciones</value>
+  </data>
+  <data name="HD3" xml:space="preserve">
+    <value>En AC95, ofrecemos soluciones integrales y personalizadas para satisfacer todas las necesidades de tu negocio a un costo eficiente. Desde el mantenimiento de sitios web hasta el diseño de campañas de marketing por correo electrónico, nuestros planes mensuales están diseñados para adaptarse perfectamente a tus requisitos, asegurando calidad y consistencia en cada proyecto.</value>
+  </data>
+  <data name="HD4" xml:space="preserve">
+    <value>Juntos, nuestro equipo creativo se compromete a entregar un trabajo impactante que supere las expectativas.</value>
+  </data>
+  <data name="HD5" xml:space="preserve">
+    <value>Ver Planes</value>
+  </data>
+  <data name="HD6" xml:space="preserve">
+    <value>Nosotros</value>
+  </data>
+  <data name="HD7" xml:space="preserve">
+    <value>entregamos</value>
+  </data>
+  <data name="HD8" xml:space="preserve">
+    <value>resultados</value>
+  </data>
+  <data name="HD9" xml:space="preserve">
+    <value>excepcionales.</value>
+  </data>
+  <data name="HE1" xml:space="preserve">
+    <value>Voces de</value>
+  </data>
+  <data name="HE10" xml:space="preserve">
+    <value>El soporte técnico y el mantenimiento del sitio web nunca han sido tan eficientes. Con AC95, realmente siento que tenemos un aliado tecnológico en el que podemos confiar.</value>
+  </data>
+  <data name="HE11" xml:space="preserve">
+    <value>Chloe W</value>
+  </data>
+  <data name="HE12" xml:space="preserve">
+    <value>AC95 transformó nuestra estrategia de marketing por correo electrónico. Sus diseños y la segmentación personalizada han duplicado nuestras tasas de apertura y conversión. ¡Excepcional!</value>
+  </data>
+  <data name="HE13" xml:space="preserve">
+    <value>Yuto T.</value>
+  </data>
+  <data name="HE14" xml:space="preserve">
+    <value>La capacidad de AC95 para actualizar y mantener nuestra tienda en línea ha sido crucial para nuestro crecimiento. Su enfoque proactivo y soluciones personalizadas son exactamente lo que necesitábamos.</value>
+  </data>
+  <data name="HE15" xml:space="preserve">
+    <value>Fatima Z</value>
+  </data>
+  <data name="HE16" xml:space="preserve">
+    <value>Cada proyecto que hemos realizado con AC95 ha superado nuestras expectativas. Su equipo no solo entrega a tiempo, sino que también agrega valor con ideas innovadoras y resultados de alta calidad.</value>
+  </data>
+  <data name="HE17" xml:space="preserve">
+    <value>David P</value>
+  </data>
+  <data name="HE18" xml:space="preserve">
+    <value>El paquete mensual de diseño gráfico de AC95 ha sido un cambio total para nosotros. Tener recursos gráficos frescos y profesionales cada mes de manera tan sencilla es increíble.</value>
+  </data>
+  <data name="HE2" xml:space="preserve">
+    <value>Clientes:</value>
+  </data>
+  <data name="HE3" xml:space="preserve">
+    <value>¡Escucha lo que</value>
+  </data>
+  <data name="HE4" xml:space="preserve">
+    <value>Ellos Dicen!</value>
+  </data>
+  <data name="HE5" xml:space="preserve">
+    <value>Michelle L</value>
+  </data>
+  <data name="HE6" xml:space="preserve">
+    <value>Desde que comenzamos a utilizar los servicios de diseño de AC95, hemos notado un aumento notable en la participación de los clientes. Su creatividad y atención al detalle realmente marcan la diferencia.</value>
+  </data>
+  <data name="HE7" xml:space="preserve">
+    <value>Lucia M</value>
+  </data>
+  <data name="HE8" xml:space="preserve">
+    <value>Tuve el placer de trabajar con esta agencia creativa, y debo decir que realmente me impresionaron. Constantemente piensan fuera de lo convencional, lo que resulta en un trabajo impresionante y de gran impacto. Recomiendo encarecidamente esta agencia por su entrega constante de soluciones creativas excepcionales.</value>
+  </data>
+  <data name="HE9" xml:space="preserve">
+    <value>Rajesh K</value>
+  </data>
+  <data name="HF1" xml:space="preserve">
+    <value>Publicaciones Populares:</value>
+  </data>
+  <data name="HF10" xml:space="preserve">
+    <value>Guía Completa de Gestión Financiera para Pequeñas Empresas</value>
+  </data>
+  <data name="HF11" xml:space="preserve">
+    <value>Una gestión financiera efectiva es esencial para la sostenibilidad y el crecimiento de cualquier pequeña empresa. Esta guía completa te guiará a través de las mejores prácticas y herramientas para mantener tus finanzas en orden.</value>
+  </data>
+  <data name="HF12" xml:space="preserve">
+    <value>Leer más</value>
+  </data>
+  <data name="HF2" xml:space="preserve">
+    <value>Ver todas</value>
+  </data>
+  <data name="HF3" xml:space="preserve">
+    <value>EMPRENDIMIENTO</value>
+  </data>
+  <data name="HF4" xml:space="preserve">
+    <value>10 de abril de 2024</value>
+  </data>
+  <data name="HF5" xml:space="preserve">
+    <value>Emprendimiento 101: Consejos Prácticos para Iniciar tu Negocio con Éxito</value>
+  </data>
+  <data name="HF6" xml:space="preserve">
+    <value>Comenzar un nuevo negocio puede ser tanto emocionante como desafiante. En este artículo, compartimos consejos prácticos y perspectivas para ayudarte a navegar las primeras etapas del emprendimiento y preparar tu empresa para el éxito.</value>
+  </data>
+  <data name="HF7" xml:space="preserve">
+    <value>Leer más</value>
+  </data>
+  <data name="HF8" xml:space="preserve">
+    <value>FINANZAS</value>
+  </data>
+  <data name="HF9" xml:space="preserve">
+    <value>20 de marzo de 2024</value>
+  </data>
+  <data name="M1" xml:space="preserve">
+    <value>Inicio</value>
+  </data>
+  <data name="M10" xml:space="preserve">
+    <value>Nuestras Soluciones</value>
+  </data>
+  <data name="M11" xml:space="preserve">
+    <value>Desarrollo de Software</value>
+  </data>
+  <data name="M12" xml:space="preserve">
+    <value>Desarrollo de Apps</value>
+  </data>
+  <data name="M13" xml:space="preserve">
+    <value>WebApps</value>
+  </data>
+  <data name="M14" xml:space="preserve">
+    <value>Tiendas de E-Commerce</value>
+  </data>
+  <data name="M15" xml:space="preserve">
+    <value>Diseño Grafico</value>
+  </data>
+  <data name="M16" xml:space="preserve">
+    <value>Marketing Digital</value>
+  </data>
+  <data name="M17" xml:space="preserve">
+    <value>Liks Utiles</value>
+  </data>
+  <data name="M18" xml:space="preserve">
+    <value>Politicas de Privacidad</value>
+  </data>
+  <data name="M19" xml:space="preserve">
+    <value>Terminos y condiciones</value>
+  </data>
+  <data name="M2" xml:space="preserve">
+    <value>Acerca de Nosotros</value>
+  </data>
+  <data name="M20" xml:space="preserve">
+    <value>Politica de Cookies</value>
+  </data>
+  <data name="M21" xml:space="preserve">
+    <value>Unete a nuestro Equipo</value>
+  </data>
+  <data name="M22" xml:space="preserve">
+    <value>Estados Unidos</value>
+  </data>
+  <data name="M3" xml:space="preserve">
+    <value>Como Trabajamos</value>
+  </data>
+  <data name="M4" xml:space="preserve">
+    <value>Soluciones de Software</value>
+  </data>
+  <data name="M5" xml:space="preserve">
+    <value>Planes Mensuales</value>
+  </data>
+  <data name="M6" xml:space="preserve">
+    <value>Contrata a tu Propio Equipo</value>
+  </data>
+  <data name="M7" xml:space="preserve">
+    <value>Soluciones para tu Marca</value>
+  </data>
+  <data name="M8" xml:space="preserve">
+    <value>Newsletter</value>
+  </data>
+  <data name="M9" xml:space="preserve">
+    <value>Contactanos</value>
+  </data>
+  <data name="P1" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="P2" xml:space="preserve">
+    <value>Inicio</value>
+  </data>
+</root>

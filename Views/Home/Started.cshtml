@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Started";
+}
+
+<div class="mil-content">
+    <div id="swupMain" class="mil-main-transition">
+
+        <!-- banner -->
+        <div class="mil-inner-banner mil-p-0-120">
+            <div class="mil-banner-content mil-center mil-up">
+                <div class="container">
+                    <ul class="mil-breadcrumbs mil-center mil-mb-60">
+                        <li><a href="home-1.html">Homepage</a></li>
+                        <li><a href="contact.html">New Project</a></li>
+                    </ul>
+                    <h1 class="mil-mb-60">Let's Bring Your Vision to Life</h1>
+                    <a href="#contact" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
+                        <span>Start</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- banner end -->
+
+        <!-- contact form -->
+        <section id="contact">
+            <div class="container mil-p-120-90">
+                <h3 class="mil-center mil-up mil-mb-120">Tell Us <span class="mil-thin">About Your Project</span></h3>
+                <form asp-action="StartProject" asp-controller="Project" method="post" class="row align-items-center">
+                    <!-- Nombre -->
+                    <div class="col-lg-6 mil-up">
+                        <input type="text" name="Name" class="form-control" placeholder="What's your name" required>
+                    </div>
+                    <!-- Email -->
+                    <div class="col-lg-6 mil-up">
+                        <input type="email" name="Email" class="form-control" placeholder="Your Email" required>
+                    </div>
+                    <!-- Teléfono -->
+                    <div class="col-lg-6 mil-up">
+                        <input type="text" name="Phone" class="form-control" placeholder="Your Phone Number (Optional)">
+                    </div>
+                    <!-- Tipo de proyecto -->
+                    <div class="col-lg-6 mil-up">
+                        <input type="text" name="ProjectType" class="form-control" placeholder="What type of project?" required>
+                    </div>
+                    <!-- Presupuesto estimado -->
+                    <div class="col-lg-6 mil-up">
+                        <input type="text" name="Budget" class="form-control" placeholder="Estimated Budget" required>
+                    </div>
+                    <!-- Plazo -->
+                    <div class="col-lg-6 mil-up">
+                        <input type="text" name="Deadline" class="form-control" placeholder="Deadline / Timeline" required>
+                    </div>
+                    <!-- Descripción del proyecto -->
+                    <div class="col-lg-12 mil-up">
+                        <textarea name="Message" class="form-control" placeholder="Tell us about your project in detail" required></textarea>
+                    </div>
+                    <!-- Cómo nos conocieron -->
+                    <div class="col-lg-12 mil-up">
+                        <input type="text" name="HowDidYouHear" class="form-control" placeholder="How did you hear about us? (Optional)">
+                    </div>
+                    <!-- Adjuntar archivo (opcional) -->
+                    <div class="col-lg-12 mil-up">
+                        <input type="file" name="Attachment" class="form-control" accept=".png,.jpg,.jpeg,.pdf">
+                    </div>
+                    <!-- Nota -->
+                    <div class="col-lg-8">
+                        <p class="mil-up mil-mb-30"><span class="mil-accent">*</span> We promise not to disclose your personal information to third parties.</p>
+                    </div>
+                    <!-- Botón -->
+                    <div class="col-lg-4">
+                        <div class="mil-adaptive-right mil-up mil-mb-30">
+                            <button type="submit" class="mil-button mil-arrow-place">
+                                <span>Send Message</span> <!-- Corregido a inglés -->
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+
+
+

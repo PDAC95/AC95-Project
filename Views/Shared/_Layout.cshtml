@@ -1,0 +1,233 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!--bootstrap grid css-->
+    <link rel="stylesheet" href="~/css/plugins/bootstrap-grid.css">
+    <!--font awesome css-->
+    <link rel="stylesheet" href="~/css/plugins/font-awesome.min.css">
+    <!--swiper css-->
+    <link rel="stylesheet" href="~/css/plugins/swiper.min.css">
+    <!--fancybox css-->
+    <link rel="stylesheet" href="~/css/plugins/fancybox.min.css">
+    <!--scss -->
+    <link rel="stylesheet" href="~/css/style.css">
+    <!-- page name -->
+    <title>AC95</title>
+
+</head>
+
+<body>
+    <!-- wrapper -->
+    <div class="mil-wrapper" id="top">
+        <!--cursor-->
+        <div class="mil-ball">
+            <span class="mil-icon-1">
+                <svg viewBox="0 0 128 128">
+                    <path d="M106.1,41.9c-1.2-1.2-3.1-1.2-4.2,0c-1.2,1.2-1.2,3.1,0,4.2L116.8,61H11.2l14.9-14.9c1.2-1.2,1.2-3.1,0-4.2	c-1.2-1.2-3.1-1.2-4.2,0l-20,20c-1.2,1.2-1.2,3.1,0,4.2l20,20c0.6,0.6,1.4,0.9,2.1,0.9s1.5-0.3,2.1-0.9c1.2-1.2,1.2-3.1,0-4.2	L11.2,67h105.5l-14.9,14.9c-1.2,1.2-1.2,3.1,0,4.2c0.6,0.6,1.4,0.9,2.1,0.9s1.5-0.3,2.1-0.9l20-20c1.2-1.2,1.2-3.1,0-4.2L106.1,41.9	z" />
+                </svg>
+            </span>
+            <div class="mil-more-text">More</div>
+            <div class="mil-choose-text">Сhoose</div>
+        </div>
+        <!-- cursor end -->
+        <!-- menu -->
+            <div class="mil-menu-frame">
+                <!-- frame clone -->
+                <div class="mil-frame-top">
+                    <img id="logoac95" src="/img/logo/logo-ac95-w.png" alt="logo">
+                    <div class="mil-menu-btn">
+                        <span>test</span>
+                    </div>
+
+                </div>
+                <!-- frame clone end -->
+                <div class="container">
+                    <div class="mil-menu-content">
+                        <div class="row">
+                            <div class="col-xl-5">
+                           
+                                <nav class="mil-main-menu" id="swupMenu">
+                               
+                                    <ul>
+                                        <li class="mil-has-children">
+                                        <a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Resource.M1</a>
+                                        </li>
+                                        <li class="mil-has-children">
+                                        <a asp-controller="Home" asp-action="About">@MultiLanguages.Resources.Resource.M2</a>
+                                        </li>
+                                        <li class="mil-has-children">
+                                        <a asp-controller="Home" asp-action="HowWeWork">@MultiLanguages.Resources.Resource.M3</a>
+                                        </li>
+                                        <li class="mil-has-children mil-active">
+                                            <a href="#.">@MultiLanguages.Resources.Resource.M4</a>
+                                            <ul>
+                                            <li><a asp-controller="Home" asp-action="Web">Web Sites</a></li>
+                                            <li><a asp-controller="Home" asp-action="Ecommerce">E-commerce Stores</a></li>
+                                            <li><a asp-controller="Home" asp-action="App">App Development</a></li>
+                                            <li><a asp-controller="Home" asp-action="Software">Software Development</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="mil-has-children">
+                                            <a href="#.">@MultiLanguages.Resources.Resource.M5</a>
+                                            <ul>
+                                            <li><a asp-controller="Home" asp-action="monthlyweb">Web Maintenance</a></li>
+                                            <li><a asp-controller="Home" asp-action="monthlyecommerce">E-commerce Management</a></li>
+                                            <li><a asp-controller="Home" asp-action="monthlyapp">App Maintenance</a></li>
+                                            <li><a asp-controller="Home" asp-action="monthlysoftware">Software Development</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="mil-has-children">
+                                            <a href="#.">@MultiLanguages.Resources.Resource.M6</a>
+                                            <ul>
+                                            <li><a asp-controller="Home" asp-action="teammonth">Hire Monthly</a></li>
+                                            <li><a asp-controller="Home" asp-action="teamproject">Hire by Project</a></li>
+                                            <li><a asp-controller="Home" asp-action="teamsprint">Hire by Sprint</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="mil-has-children">
+                                            <a href="#.">@MultiLanguages.Resources.Resource.M7</a>
+                                            <ul>
+                                            <li><a asp-controller="Home" asp-action="design">Graphic Design</a></li>
+                                            <li><a asp-controller="Home" asp-action="marketing">Digital Marketing</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="mil-has-children">
+                                        <a asp-controller="Home" asp-action="newsletter">@MultiLanguages.Resources.Resource.M8</a>
+                                        </li>
+                                        <li class="mil-has-children">
+                                        <a asp-controller="Home" asp-action="contact">@MultiLanguages.Resources.Resource.M9</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+
+                            </div>
+                            <div class="col-xl-7">
+
+                                <div class="mil-menu-right-frame">
+                                    <div class="mil-animation-in">
+                                        <div class="mil-animation-frame">
+                                            <div class="mil-animation mil-position-1 mil-scale" data-value-1="2" data-value-2="2"></div>
+                                        </div>
+                                    </div>
+                                    <div class="mil-menu-right">
+                                        <div class="row">
+                                            <div class="col-lg-8 mil-mb-60">
+
+                                                <h6 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Resource.M10</h6>
+
+                                                <ul class="mil-menu-list">
+                                                <li><a asp-controller="Home" asp-action="software" class="mil-light-soft">@MultiLanguages.Resources.Resource.M11</a></li>
+                                                <li><a asp-controller="Home" asp-action="app" class="mil-light-soft">@MultiLanguages.Resources.Resource.M12</a></li>
+                                                <li><a asp-controller="Home" asp-action="web" class="mil-light-soft">@MultiLanguages.Resources.Resource.M13</a></li>
+                                                <li><a asp-controller="Home" asp-action="E-commerce Stores" class="mil-light-soft">@MultiLanguages.Resources.Resource.M14</a></li>
+                                                <li><a asp-controller="Home" asp-action="design" class="mil-light-soft">@MultiLanguages.Resources.Resource.M15</a></li>
+                                                <li><a asp-controller="Home" asp-action="marketing" class="mil-light-soft">@MultiLanguages.Resources.Resource.M16</a></li>
+                                                </ul>
+
+                                            </div>
+
+                                        <div class="col-lg-4 mil-mb-60">
+
+                                            <h6 class="mil-muted mil-mb-30">Select Lenguage</h6>
+
+                                            <ul class="mil-menu-list">
+                                                <li><a asp-controller="Home" asp-action="privacy" class="mil-light-soft">English</a></li>
+                                                <li><a asp-controller="Home" asp-action="terms" class="mil-light-soft">Spanish</a></li>
+                                            </ul>
+
+                                        </div>
+                                            <!--<div class="col-lg-4 mil-mb-60">
+
+                                                <h6 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Resource.M17</h6>
+
+                                                <ul class="mil-menu-list">
+                                                <li><a asp-controller="Home" asp-action="privacy" class="mil-light-soft">@MultiLanguages.Resources.Resource.M18</a></li>
+                                                <li><a asp-controller="Home" asp-action="terms" class="mil-light-soft">@MultiLanguages.Resources.Resource.M19</a></li>
+                                                <li><a asp-controller="Home" asp-action="cookies" class="mil-light-soft">@MultiLanguages.Resources.Resource.M20</a></li>
+                                                <li><a asp-controller="Home" asp-action="careers" class="mil-light-soft">@MultiLanguages.Resources.Resource.M21</a></li>
+                                                </ul>
+
+                                            </div>-->
+        
+                                        </div>
+                                        <div class="mil-divider mil-mb-60"></div>
+                                        <div class="row justify-content-between">
+
+                                            <div class="col-lg-4 mil-mb-60">
+
+                                                <h6 class="mil-muted mil-mb-30">Canada</h6>
+
+                                                <p class="mil-light-soft mil-up">151 Charles St W Suite 100,<span class="mil-no-wrap"> Kitchener, ON N2G 1H6</span></p>
+
+                                            </div>
+                                            <div class="col-lg-4 mil-mb-60">
+
+                                                <h6 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Resource.M22</h6>
+
+                                                <p class="mil-light-soft">609 Greenwich Street<span class="mil-no-wrap"> <br> New York, NY 10014</span></p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- curtain -->
+            <div class="mil-curtain"></div>
+            <!-- curtain end -->
+            <!-- frame -->
+            <div class="mil-frame">
+                <div class="mil-frame-top">
+                    <a asp-controller="Home" asp-action="Home">
+                        <img class="logoac95" src="/img/logo/ficon.png" alt="logo">
+                    </a>
+                    <div class="mil-menu-btn">
+                        <span></span>
+                    </div>
+                </div>
+                <div class="mil-frame-bottom">
+                    <div class="mil-current-page"></div>
+                    <div class="mil-back-to-top">
+                        <a href="#top" class="mil-link mil-dark mil-arrow-place">
+                            <span>Back to top</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- frame end -->
+        <!--Main Render-->
+        @RenderBody()
+        <!-- jQuery js -->
+        <script src="~/js/plugins/jquery.min.js"></script>
+        <!-- swup js -->
+        <script src="~/js/plugins/swup.min.js"></script>
+        <!-- swiper js -->
+        <script src="~/js/plugins/swiper.min.js"></script>
+        <!-- fancybox js -->
+        <script src="~/js/plugins/fancybox.min.js"></script>
+        <!-- gsap js -->
+        <script src="~/js/plugins/gsap.min.js"></script>
+        <!-- scroll smoother -->
+        <script src="~/js/plugins/smooth-scroll.js"></script>
+        <!-- scroll trigger js -->
+        <script src="~/js/plugins/ScrollTrigger.min.js"></script>
+        <!-- scroll to js -->
+        <script src="~/js/plugins/ScrollTo.min.js"></script>
+        <!-- ashley js -->
+        <script src="~/js/main.js"></script>
+
+</body>
+
+
+</html>
