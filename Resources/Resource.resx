@@ -280,10 +280,10 @@
     <value>Monthly Plans</value>
   </data>
   <data name="HD20" xml:space="preserve">
-    <value>Email Marketing Design</value>
+    <value>Digital Marketing</value>
   </data>
   <data name="HD21" xml:space="preserve">
-    <value>Enhance your email campaigns with custom designs, optimized for engagement and conversion, perfect for newsletters, promotions, and more.</value>
+    <value>Boost your brand with custom digital marketing, optimized for engagement and conversions.</value>
   </data>
   <data name="HD22" xml:space="preserve">
     <value>Explore Options</value>
@@ -473,5 +473,8 @@
   </data>
   <data name="test" xml:space="preserve">
     <value>test</value>
+  </data>
+  <data name="HC4.1" xml:space="preserve">
+    <value />
   </data>
 </root>

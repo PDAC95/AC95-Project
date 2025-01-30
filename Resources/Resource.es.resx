@@ -225,9 +225,6 @@
   <data name="HC4" xml:space="preserve">
     <value>Únicas</value>
   </data>
-  <data name="HC4.1" xml:space="preserve">
-    <value>Para Tu</value>
-  </data>
   <data name="HC5" xml:space="preserve">
     <value>Negocio.</value>
   </data>
@@ -280,10 +277,10 @@
     <value>Personalizados</value>
   </data>
   <data name="HD20" xml:space="preserve">
-    <value>Diseño de Marketing por Correo Electrónico</value>
+    <value>Marketing DIgital</value>
   </data>
   <data name="HD21" xml:space="preserve">
-    <value>Mejora tus campañas de correo electrónico con diseños personalizados, optimizados para la interacción y conversión, perfectos para boletines, promociones y más.</value>
+    <value>Eleva tu marca con estrategias de marketing digital personalizadas, optimizadas para el engagement y la conversión. Perfectas para redes sociales, publicidad, marketing de contenidos y más.</value>
   </data>
   <data name="HD22" xml:space="preserve">
     <value>Explora Opciones</value>
@@ -470,5 +467,8 @@
   </data>
   <data name="P2" xml:space="preserve">
     <value>Inicio</value>
+  </data>
+  <data name="HC4.1" xml:space="preserve">
+    <value>Para Tu</value>
   </data>
 </root>
