@@ -117,316 +117,274 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="10HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="1HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="2HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="3HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="4HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="5HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="6HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="7HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="8HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="9HA" xml:space="preserve">
-    <value />
-  </data>
-  <data name="A1" xml:space="preserve">
-    <value>Digital Innovation</value>
-  </data>
-  <data name="A2" xml:space="preserve">
+  <data name="at" xml:space="preserve">
     <value>at Your</value>
   </data>
-  <data name="A3" xml:space="preserve">
+  <data name="Business" xml:space="preserve">
     <value>Business's </value>
   </data>
-  <data name="A4" xml:space="preserve">
-    <value>Service</value>
+  <data name="Digital" xml:space="preserve">
+    <value>Digital Innovation </value>
   </data>
-  <data name="A5" xml:space="preserve">
+  <data name="Welcome" xml:space="preserve">
     <value>Welcome to AC95, where imagination knows no bounds and creativity brings your digital projects to life. We specialize in providing comprehensive web, graphic, and email marketing design and development solutions. Together, we will turn your visions into successful, tangible realities.</value>
   </data>
-  <data name="A6" xml:space="preserve">
+  <data name="Service" xml:space="preserve">
+    <value>Service</value>
+  </data>
+  <data name="What" xml:space="preserve">
     <value>What we do</value>
   </data>
-  <data name="A7" xml:space="preserve">
+  <data name="How" xml:space="preserve">
     <value>How it works</value>
   </data>
-  <data name="B1" xml:space="preserve">
+  <data name="Innovative" xml:space="preserve">
     <value>Innovative Designs</value>
   </data>
-  <data name="B10" xml:space="preserve">
-    <value>Choose the service and a pre-designed template from our catalog.</value>
-  </data>
-  <data name="B11" xml:space="preserve">
-    <value>Define:</value>
-  </data>
-  <data name="B12" xml:space="preserve">
-    <value>Fill out a brief questionnaire to specify details like photos, logos, and texts.</value>
-  </data>
-  <data name="B13" xml:space="preserve">
-    <value>Receive:</value>
-  </data>
-  <data name="B14" xml:space="preserve">
-    <value>Get your ready-to-use design, delivered on time.</value>
-  </data>
-  <data name="B15" xml:space="preserve">
-    <value>Discover How It Works:</value>
-  </data>
-  <data name="B16" xml:space="preserve">
-    <value>Watch Now</value>
-  </data>
-  <data name="B2" xml:space="preserve">
+  <data name="to" xml:space="preserve">
     <value>to</value>
   </data>
-  <data name="B3" xml:space="preserve">
+  <data name="Elevate" xml:space="preserve">
     <value>Elevate Your Business</value>
   </data>
-  <data name="B4" xml:space="preserve">
+  <data name="AtAC95" xml:space="preserve">
     <value>At AC95, we understand that every business is unique and deserves design solutions tailored to its specific needs. That's why we offer total flexibility, whether you need a monthly membership or one-off services. From website design to email campaign creatives and stunning graphics, our studio is equipped to be your ongoing creative partner or your project-based resource. Explore our options and discover how we can help your business stand out and thrive in the digital world.</value>
   </data>
-  <data name="B5" xml:space="preserve">
+  <data name="Start" xml:space="preserve">
     <value>Start</value>
   </data>
-  <data name="B6" xml:space="preserve">
+  <data name="Easily" xml:space="preserve">
     <value>Easily</value>
   </data>
-  <data name="B7" xml:space="preserve">
+  <data name="Injust" xml:space="preserve">
     <value>in Just a</value>
   </data>
-  <data name="B8" xml:space="preserve">
+  <data name="Few" xml:space="preserve">
     <value>Few Steps.</value>
   </data>
-  <data name="B9" xml:space="preserve">
+  <data name="Select" xml:space="preserve">
     <value>Select:</value>
   </data>
-  <data name="C1" xml:space="preserve">
+  <data name="Choose" xml:space="preserve">
+    <value>Choose the service and a pre-designed template from our catalog.</value>
+  </data>
+  <data name="Define" xml:space="preserve">
+    <value>Define:</value>
+  </data>
+  <data name="Fill" xml:space="preserve">
+    <value>Fill out a brief questionnaire to specify details like photos, logos, and texts.</value>
+  </data>
+  <data name="Receive" xml:space="preserve">
+    <value>Receive:</value>
+  </data>
+  <data name="Getyour" xml:space="preserve">
+    <value>Get your ready-to-use design, delivered on time.</value>
+  </data>
+  <data name="Discover" xml:space="preserve">
+    <value>Discover How It Works:</value>
+  </data>
+  <data name="Watch" xml:space="preserve">
+    <value>Watch Now</value>
+  </data>
+  <data name="Professionals" xml:space="preserve">
     <value>Professionals focused on helping your brand</value>
   </data>
-  <data name="C10" xml:space="preserve">
-    <value>Ecommerce</value>
-  </data>
-  <data name="C11" xml:space="preserve">
-    <value>Store Creation</value>
-  </data>
-  <data name="C12" xml:space="preserve">
-    <value>Develop efficient online stores to boost sales and streamline product management.</value>
-  </data>
-  <data name="C13" xml:space="preserve">
-    <value>Advertising and</value>
-  </data>
-  <data name="C14" xml:space="preserve">
-    <value>Marketing Campaigns</value>
-  </data>
-  <data name="C15" xml:space="preserve">
-    <value>Eye-catching designs for social media, advertising, and brochures that effectively communicate your message.</value>
-  </data>
-  <data name="C16" xml:space="preserve">
-    <value>Email Design for</value>
-  </data>
-  <data name="C17" xml:space="preserve">
-    <value>Mass Mailing</value>
-  </data>
-  <data name="C18" xml:space="preserve">
-    <value>Attractive and optimized email campaigns to increase customer engagement and retention.</value>
-  </data>
-  <data name="C2" xml:space="preserve">
+  <data name="Grow" xml:space="preserve">
     <value>grow and move forward.</value>
   </data>
-  <data name="C3" xml:space="preserve">
+  <data name="Unique" xml:space="preserve">
     <value>Unique</value>
   </data>
-  <data name="C4" xml:space="preserve">
+  <data name="Ideas" xml:space="preserve">
     <value>Ideas</value>
   </data>
-  <data name="C4.1" xml:space="preserve">
+  <data name="ForYour" xml:space="preserve">
     <value>For Your</value>
   </data>
-  <data name="C5" xml:space="preserve">
+  <data name="Business2" xml:space="preserve">
     <value>Business.</value>
   </data>
-  <data name="C6" xml:space="preserve">
-    <value>What we do</value>
-  </data>
-  <data name="C7" xml:space="preserve">
+  <data name="Website" xml:space="preserve">
     <value>Website Design</value>
   </data>
-  <data name="C8" xml:space="preserve">
+  <data name="AndDev" xml:space="preserve">
     <value>and Development</value>
   </data>
-  <data name="C9" xml:space="preserve">
+  <data name="BuildUnique" xml:space="preserve">
     <value>Build unique websites that reflect your brand and connect with visitors.</value>
   </data>
-  <data name="D1" xml:space="preserve">
+  <data name="Ecommerce" xml:space="preserve">
+    <value>Ecommerce</value>
+  </data>
+  <data name="StoreCreation" xml:space="preserve">
+    <value>Store Creation</value>
+  </data>
+  <data name="DevEff" xml:space="preserve">
+    <value>Develop efficient online stores to boost sales and streamline product management.</value>
+  </data>
+  <data name="Software" xml:space="preserve">
+    <value>Software and</value>
+  </data>
+  <data name="AppDev" xml:space="preserve">
+    <value>App Development</value>
+  </data>
+  <data name="InnovativeSoftware" xml:space="preserve">
+    <value>Innovative software and app development solutions designed to bring your ideas to life and deliver a seamless user experience.</value>
+  </data>
+  <data name="Hire" xml:space="preserve">
+    <value>Hire Your</value>
+  </data>
+  <data name="OwnTeam" xml:space="preserve">
+    <value>Own Team</value>
+  </data>
+  <data name="Empower" xml:space="preserve">
+    <value>Empower your business by hiring your own dedicated development team, tailored to your project needs for complete control and seamless collaboration.</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
     <value>Custom</value>
   </data>
-  <data name="D10" xml:space="preserve">
-    <value>Website Maintenance Plan</value>
-  </data>
-  <data name="D11" xml:space="preserve">
-    <value>Maintain peak website performance with regular updates, technical support, and SEO optimization.</value>
-  </data>
-  <data name="D12" xml:space="preserve">
-    <value>Explore Options</value>
-  </data>
-  <data name="D13" xml:space="preserve">
-    <value>Online Store Maintenance</value>
-  </data>
-  <data name="D14" xml:space="preserve">
-    <value>Keep your ecommerce thriving with inventory management, security updates, and ongoing technical support.</value>
-  </data>
-  <data name="D15" xml:space="preserve">
-    <value>Explore Options</value>
-  </data>
-  <data name="D16" xml:space="preserve">
-    <value>Explore the possibilities today!</value>
-  </data>
-  <data name="D17" xml:space="preserve">
-    <value>Graphic Solution</value>
-  </data>
-  <data name="D18" xml:space="preserve">
-    <value>Refresh your branding monthly with new designs for social media, advertising, and beyond.</value>
-  </data>
-  <data name="D19" xml:space="preserve">
-    <value>Explore Options</value>
-  </data>
-  <data name="D2" xml:space="preserve">
+  <data name="MonthlyPlans" xml:space="preserve">
     <value>Monthly Plans</value>
   </data>
-  <data name="D20" xml:space="preserve">
-    <value>DIgital Marketing</value>
-  </data>
-  <data name="D21" xml:space="preserve">
-    <value>Elevate your brand with custom digital marketing strategies, optimized for engagement and conversions. Perfect for social media, advertising, content marketing, and more.</value>
-  </data>
-  <data name="D22" xml:space="preserve">
-    <value>Explore Options</value>
-  </data>
-  <data name="D3" xml:space="preserve">
+  <data name="AtAC95Month" xml:space="preserve">
     <value>At AC95, we provide comprehensive, tailored solutions to meet all your business needs at an efficient cost. From website maintenance to email marketing campaign design, our monthly plans are crafted to perfectly fit your requirements, ensuring quality and consistency in every project.</value>
   </data>
-  <data name="D4" xml:space="preserve">
+  <data name="Together" xml:space="preserve">
     <value>Together, our creative team is committed to delivering impactful work that exceeds expectations.</value>
   </data>
-  <data name="D5" xml:space="preserve">
+  <data name="ViewPlans" xml:space="preserve">
     <value>View Plans</value>
   </data>
-  <data name="D6" xml:space="preserve">
+  <data name="We" xml:space="preserve">
     <value>We</value>
   </data>
-  <data name="D7" xml:space="preserve">
+  <data name="Delivering" xml:space="preserve">
     <value>delivering</value>
   </data>
-  <data name="D8" xml:space="preserve">
+  <data name="Exceptional" xml:space="preserve">
     <value>exceptional</value>
   </data>
-  <data name="D9" xml:space="preserve">
+  <data name="Results" xml:space="preserve">
     <value>results.</value>
   </data>
-  <data name="E1" xml:space="preserve">
+  <data name="WebMaintenance" xml:space="preserve">
+    <value>Website Maintenance Plan</value>
+  </data>
+  <data name="Maintain" xml:space="preserve">
+    <value>Maintain peak website performance with regular updates, technical support, and SEO optimization.</value>
+  </data>
+  <data name="Explore" xml:space="preserve">
+    <value>Explore Options</value>
+  </data>
+  <data name="EcommerceMaintenance" xml:space="preserve">
+    <value>Online Store Maintenance</value>
+  </data>
+  <data name="KeepYour" xml:space="preserve">
+    <value>Keep your ecommerce thriving with inventory management, security updates, and ongoing technical support.</value>
+  </data>
+  <data name="ExplorePossibilities" xml:space="preserve">
+    <value>Explore the possibilities today!</value>
+  </data>
+  <data name="Graphic" xml:space="preserve">
+    <value>Graphic Solution</value>
+  </data>
+  <data name="Refresh" xml:space="preserve">
+    <value>Refresh your branding monthly with new designs for social media, advertising, and beyond.</value>
+  </data>
+  <data name="DigitalMarketing" xml:space="preserve">
+    <value>Digital Marketing</value>
+  </data>
+  <data name="BoostYourBrand" xml:space="preserve">
+    <value>Boost your brand with custom digital marketing, optimized for engagement and conversions.</value>
+  </data>
+  <data name="Customer" xml:space="preserve">
     <value>Customer</value>
   </data>
-  <data name="E10" xml:space="preserve">
-    <value>Technical support and website maintenance have never been so efficient. With AC95, I truly feel we have a technological ally we can rely on.</value>
-  </data>
-  <data name="E11" xml:space="preserve">
-    <value>Chloe W</value>
-  </data>
-  <data name="E12" xml:space="preserve">
-    <value>AC95 transformed our email marketing strategy. Their designs and personalized segmentation have doubled our open and conversion rates. Outstanding!</value>
-  </data>
-  <data name="E13" xml:space="preserve">
-    <value>Yuto T.</value>
-  </data>
-  <data name="E14" xml:space="preserve">
-    <value>AC95's ability to update and maintain our online store has been crucial for our growth. Their proactive approach and tailored solutions are exactly what we needed.</value>
-  </data>
-  <data name="E15" xml:space="preserve">
-    <value>Fatima Z</value>
-  </data>
-  <data name="E16" xml:space="preserve">
-    <value>Every project we've done with AC95 has exceeded our expectations. Their team not only delivers on time but also adds value with innovative ideas and high-quality results.</value>
-  </data>
-  <data name="E17" xml:space="preserve">
-    <value>David P</value>
-  </data>
-  <data name="E18" xml:space="preserve">
-    <value>The monthly graphic design package from AC95 has been a game-changer for us. Having fresh and professional graphic resources every month effortlessly is amazing.</value>
-  </data>
-  <data name="E2" xml:space="preserve">
+  <data name="Voices" xml:space="preserve">
     <value>Voices:</value>
   </data>
-  <data name="E3" xml:space="preserve">
+  <data name="HearWhat" xml:space="preserve">
     <value>Hear What</value>
   </data>
-  <data name="E4" xml:space="preserve">
+  <data name="TheySay" xml:space="preserve">
     <value>They Say!</value>
   </data>
-  <data name="E5" xml:space="preserve">
+  <data name="Michelle" xml:space="preserve">
     <value>Michelle L</value>
   </data>
-  <data name="E6" xml:space="preserve">
+  <data name="SinceWe" xml:space="preserve">
     <value>Since we started using AC95's design services, we've seen a notable increase in customer engagement. Their creativity and attention to detail really make a difference.</value>
   </data>
-  <data name="E7" xml:space="preserve">
+  <data name="Lucia" xml:space="preserve">
     <value>Lucia M</value>
   </data>
-  <data name="E8" xml:space="preserve">
+  <data name="IHad" xml:space="preserve">
     <value>I had the pleasure of working with this creative agency, and I must say, they truly impressed me. They consistently think outside the box, resulting in impressive and impactful work. I highly recommend this agency for their consistent delivery of exceptional creative solutions.</value>
   </data>
-  <data name="E9" xml:space="preserve">
+  <data name="Rajesh" xml:space="preserve">
     <value>Rajesh K</value>
   </data>
-  <data name="F1" xml:space="preserve">
+  <data name="TechnichalSupport" xml:space="preserve">
+    <value>Technical support and website maintenance have never been so efficient. With AC95, I truly feel we have a technological ally we can rely on.</value>
+  </data>
+  <data name="Chloe" xml:space="preserve">
+    <value>Chloe W</value>
+  </data>
+  <data name="AC95Transformed" xml:space="preserve">
+    <value>AC95 transformed our email marketing strategy. Their designs and personalized segmentation have doubled our open and conversion rates. Outstanding!</value>
+  </data>
+  <data name="Yuto" xml:space="preserve">
+    <value>Yuto T.</value>
+  </data>
+  <data name="Ac95ability" xml:space="preserve">
+    <value>AC95's ability to update and maintain our online store has been crucial for our growth. Their proactive approach and tailored solutions are exactly what we needed.</value>
+  </data>
+  <data name="Fatima" xml:space="preserve">
+    <value>Fatima Z</value>
+  </data>
+  <data name="EveryProject" xml:space="preserve">
+    <value>Every project we've done with AC95 has exceeded our expectations. Their team not only delivers on time but also adds value with innovative ideas and high-quality results.</value>
+  </data>
+  <data name="David" xml:space="preserve">
+    <value>David P</value>
+  </data>
+  <data name="TheGraphic" xml:space="preserve">
+    <value>The monthly graphic design package from AC95 has been a game-changer for us. Having fresh and professional graphic resources every month effortlessly is amazing.</value>
+  </data>
+  <data name="Popular" xml:space="preserve">
     <value>Popular Publications:</value>
   </data>
-  <data name="F10" xml:space="preserve">
-    <value>Complete Guide to Financial Management for Small Businesses</value>
-  </data>
-  <data name="F11" xml:space="preserve">
-    <value>Effective financial management is essential for the sustainability and growth of any small business. This comprehensive guide will walk you through the best practices and tools to keep your finances in check.</value>
-  </data>
-  <data name="F12" xml:space="preserve">
-    <value>Read more</value>
-  </data>
-  <data name="F2" xml:space="preserve">
+  <data name="View" xml:space="preserve">
     <value>View all</value>
   </data>
-  <data name="F3" xml:space="preserve">
+  <data name="Entrepreneurship" xml:space="preserve">
     <value>ENTREPRENEURSHIP</value>
   </data>
-  <data name="F4" xml:space="preserve">
-    <value>April 10, 2024</value>
+  <data name="date1" xml:space="preserve">
+    <value>10-Apr-24</value>
   </data>
-  <data name="F5" xml:space="preserve">
+  <data name="Title1" xml:space="preserve">
     <value>Entrepreneurship 101: Practical Tips for Successfully Starting Your Business</value>
   </data>
-  <data name="F6" xml:space="preserve">
+  <data name="Text1" xml:space="preserve">
     <value>Starting a new business can be both exciting and daunting. In this article, we share practical tips and insights to help you navigate the early stages of entrepreneurship and set your venture up for success.</value>
   </data>
-  <data name="F7" xml:space="preserve">
+  <data name="ReadMore" xml:space="preserve">
     <value>Read more</value>
   </data>
-  <data name="F8" xml:space="preserve">
+  <data name="Finance" xml:space="preserve">
     <value>FINANCE</value>
   </data>
-  <data name="F9" xml:space="preserve">
-    <value>March 20, 2024</value>
+  <data name="Title2" xml:space="preserve">
+    <value>Complete Guide to Financial Management for Small Businesses</value>
+  </data>
+  <data name="Text2" xml:space="preserve">
+    <value>Effective financial management is essential for the sustainability and growth of any small business. This comprehensive guide will walk you through the best practices and tools to keep your finances in check.</value>
+  </data>
+  <data name="HF12" xml:space="preserve">
+    <value>Read more</value>
+  </data>
+  <data name="date2" xml:space="preserve">
+    <value>20-Mar-24</value>
   </data>
 </root>
