@@ -117,25 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Digital" xml:space="preserve">
-    <value>Digital Innovation </value>
-  </data>
-  <data name="at" xml:space="preserve">
-    <value>at Your</value>
-  </data>
-  <data name="Business" xml:space="preserve">
-    <value>Business's </value>
-  </data>
-  <data name="Service" xml:space="preserve">
-    <value>Service</value>
-  </data>
-  <data name="HA5" xml:space="preserve">
-    <value>Welcome to AC95, where imagination knows no bounds and creativity brings your digital projects to life. We specialize in providing comprehensive web, graphic, and email marketing design and development solutions. Together, we will turn your visions into successful, tangible realities.</value>
-  </data>
-  <data name="HB4" xml:space="preserve">
-    <value>At AC95, we understand that every business is unique and deserves design solutions tailored to its specific needs. That's why we offer total flexibility, whether you need a monthly membership or one-off services. From website design to email campaign creatives and stunning graphics, our studio is equipped to be your ongoing creative partner or your project-based resource. Explore our options and discover how we can help your business stand out and thrive in the digital world.</value>
-  </data>
-  <data name="M1" xml:space="preserve">
+  <data name="Home" xml:space="preserve">
     <value>Home</value>
   </data>
   <data name="M10" xml:space="preserve">
@@ -206,8 +188,5 @@
   </data>
   <data name="P2" xml:space="preserve">
     <value>Home</value>
-  </data>
-  <data name="test" xml:space="preserve">
-    <value>test</value>
   </data>
 </root>

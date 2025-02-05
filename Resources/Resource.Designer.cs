@@ -61,56 +61,11 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to at Your.
-        /// </summary>
-        public static string at {
-            get {
-                return ResourceManager.GetString("at", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Business&apos;s .
-        /// </summary>
-        public static string Business {
-            get {
-                return ResourceManager.GetString("Business", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Digital Innovation .
-        /// </summary>
-        public static string Digital {
-            get {
-                return ResourceManager.GetString("Digital", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Welcome to AC95, where imagination knows no bounds and creativity brings your digital projects to life. We specialize in providing comprehensive web, graphic, and email marketing design and development solutions. Together, we will turn your visions into successful, tangible realities..
-        /// </summary>
-        public static string HA5 {
-            get {
-                return ResourceManager.GetString("HA5", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to At AC95, we understand that every business is unique and deserves design solutions tailored to its specific needs. That&apos;s why we offer total flexibility, whether you need a monthly membership or one-off services. From website design to email campaign creatives and stunning graphics, our studio is equipped to be your ongoing creative partner or your project-based resource. Explore our options and discover how we can help your business stand out and thrive in the digital world..
-        /// </summary>
-        public static string HB4 {
-            get {
-                return ResourceManager.GetString("HB4", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Home.
         /// </summary>
-        public static string M1 {
+        public static string Home {
             get {
-                return ResourceManager.GetString("M1", resourceCulture);
+                return ResourceManager.GetString("Home", resourceCulture);
             }
         }
         
@@ -318,24 +273,6 @@ namespace MultiLanguages.Resources {
         public static string P2 {
             get {
                 return ResourceManager.GetString("P2", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Service.
-        /// </summary>
-        public static string Service {
-            get {
-                return ResourceManager.GetString("Service", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to test.
-        /// </summary>
-        public static string test {
-            get {
-                return ResourceManager.GetString("test", resourceCulture);
             }
         }
     }

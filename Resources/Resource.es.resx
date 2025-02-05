@@ -117,25 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Digital" xml:space="preserve">
-    <value>Innovación digital</value>
-  </data>
-  <data name="at" xml:space="preserve">
-    <value>al</value>
-  </data>
-  <data name="Business" xml:space="preserve">
-    <value>servicio de</value>
-  </data>
-  <data name="Service" xml:space="preserve">
-    <value>tu negocio.</value>
-  </data>
-  <data name="HA5" xml:space="preserve">
-    <value>Bienvenido a AC95, donde la imaginación no tiene límites y la creatividad da vida a tus proyectos digitales. Nos especializamos en ofrecer soluciones integrales de diseño y desarrollo web, gráfico y de marketing por correo electrónico. Juntos, convertiremos tus visiones en realidades exitosas y tangibles.</value>
-  </data>
-  <data name="HB4" xml:space="preserve">
-    <value>En AC95, entendemos que cada negocio es único y merece soluciones de diseño adaptadas a sus necesidades específicas. Es por eso que ofrecemos total flexibilidad, ya sea que necesites una membresía mensual o servicios puntuales. Desde el diseño de sitios web hasta creativos para campañas de correo electrónico y gráficos impresionantes, nuestro estudio está preparado para ser tu socio creativo continuo o tu recurso basado en proyectos. Explora nuestras opciones y descubre cómo podemos ayudar a que tu negocio se destaque y prospere en el mundo digital.</value>
-  </data>
-  <data name="M1" xml:space="preserve">
+  <data name="Home" xml:space="preserve">
     <value>Inicio</value>
   </data>
   <data name="M10" xml:space="preserve">
