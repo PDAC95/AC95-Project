@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Howitworks";
+    ViewData["Title"] = MultiLanguages.Resources.HowWeWork.Title;
 }
 
 <div class="mil-content">
@@ -13,10 +13,10 @@
             <div class="mil-banner-content mil-up">
                 <div class="container">
                     <ul class="mil-breadcrumbs mil-mb-60">
-                        <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                        <li><a asp-controller="Home" asp-action="HowWeWork">How We Work</a></li>
+                        <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                        <li><a asp-controller="Home" asp-action="HowWeWork">@MultiLanguages.Resources.Shared.HowWeWork</a></li>
                     </ul>
-                    <h1 class="mil-mb-60">How <span class="mil-thin">We</span> Work<br> with <span class="mil-thin">You</span></h1>
+                    <h1 class="mil-mb-60">@MultiLanguages.Resources.HowWeWork.HowWeTitle</h1>
                     <a href="#service" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
                         <span>Get Started</span>
                     </a>
@@ -29,12 +29,12 @@
             <div class="container mil-p-120-90">
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mil-relative mil-mb-90">
-
-                        <h4 class="mil-up mil-mb-30">Our <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Service Options</span></h4>
-                        <p class="mil-up mil-mb-30">At AC95, we offer flexible ways to work with us, tailored to your project needs. Whether you’re looking for one-time project services, ongoing support, or dedicated teams, we have the right solution to help you achieve your goals.</p>
+                        <!-- Necesario arreglar este titulo -->
+                        <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.Our <span class="mil-thin">Approach</span> <br>and <span class="mil-thin">Service Options</span></h4>
+                        <p class="mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.Text1</p>
                         <div class="mil-up">
                             <a href="services.html" class="mil-link mil-dark mil-arrow-place">
-                                <span>Explore Services</span>
+                                <span>@MultiLanguages.Resources.HowWeWork.ExploreServices</span>
                             </a>
                         </div>
 
@@ -44,7 +44,7 @@
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
 
-                                <p class="mil-accordion-head">Project-Based Services</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.HowWeWork.Project</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -53,14 +53,14 @@
 
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We offer project-based services across a wide range of areas, including software development, web design, and digital marketing. Whether you're looking to build a custom software solution, redesign your website, or create a digital marketing campaign, our team will deliver high-quality results tailored to your business needs.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.HowWeWork.ProjectText</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
 
-                                <p class="mil-accordion-head">Monthly Subscription Services</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.HowWeWork.Monthly</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -69,14 +69,14 @@
 
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Our monthly subscription services provide ongoing support for website maintenance, software updates, and digital marketing campaigns. This includes performance optimizations, feature enhancements, and continuous monitoring to keep your project running smoothly.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.HowWeWork.MonthlyText</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
 
-                                <p class="mil-accordion-head">Hire Dedicated Teams</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.HowWeWork.Hire</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -85,7 +85,7 @@
 
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">You can hire dedicated teams for software development, digital marketing, or design projects. We offer flexible hiring options, whether you need a team for a specific project, ongoing work, or sprint-based development cycles. Our teams are fully integrated into your business processes, ensuring seamless collaboration and high-quality results.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.HowWeWork.HireText</p>
                             </div>
                         </div>
                     </div>
@@ -105,13 +105,13 @@
                     <div class="mil-mb-120">
                         <div class="row">
                             <div class="col-lg-10">
-                                <span class="mil-suptitle mil-light-soft mil-suptitle-right mil-up">Our Solutions</span>
+                                <span class="mil-suptitle mil-light-soft mil-suptitle-right mil-up">@MultiLanguages.Resources.HowWeWork.OurSolutions</span>
                             </div>
                         </div>
 
                         <div class="mil-complex-text justify-content-center mil-up mil-mb-15">
                             <span class="mil-text-image"><img src="/img/photo/2.jpg" alt="team"></span>
-                            <h2 class="mil-h1 mil-muted mil-center">Project-Based <span class="mil-thin">Services</span></h2>
+                            <h2 class="mil-h1 mil-muted mil-center">@MultiLanguages.Resources.HowWeWork.ProjectTitle <span class="mil-thin">@MultiLanguages.Resources.HowWeWork.Services</span></h2>
                         </div>
                     </div>
 
@@ -119,8 +119,8 @@
                         <!-- Websites -->
                         <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
                             <a asp-controller="Home" asp-action="Web" class="mil-service-card-sm mil-up">
-                                <h5 class="mil-muted mil-mb-30">Websites</h5>
-                                <p class="mil-light-soft mil-mb-30">Custom websites designed to deliver top-tier performance and engaging user experiences.</p>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Shared.WebDev</h5>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.WebText</p>
                                 <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                             </a>
                         </div>
@@ -128,8 +128,8 @@
                         <!-- E-commerce Stores -->
                         <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
                             <a asp-controller="Home" asp-action="Ecommerce" class="mil-service-card-sm mil-up">
-                                <h5 class="mil-muted mil-mb-30">E-commerce Stores</h5>
-                                <p class="mil-light-soft mil-mb-30">Robust and scalable e-commerce solutions to grow your business and enhance customer experience.</p>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Shared.Ecom</h5>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.EcomText</p>
                                 <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                             </a>
                         </div>
@@ -137,8 +137,8 @@
                         <!-- App Development -->
                         <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
                             <a asp-controller="Home" asp-action="App" class="mil-service-card-sm mil-up">
-                                <h5 class="mil-muted mil-mb-30">App Development</h5>
-                                <p class="mil-light-soft mil-mb-30">High-performance mobile and web apps that are user-friendly, secure, and scalable.</p>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Shared.AppDev</h5>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.AppText</p>
                                 <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                             </a>
                         </div>
@@ -146,8 +146,8 @@
                         <!-- Software Development -->
                         <div class="col-md-6 col-lg-3 mil-services-grid-item p-0">
                             <a asp-controller="Home" asp-action="Software" class="mil-service-card-sm mil-up">
-                                <h5 class="mil-muted mil-mb-30">Software Development</h5>
-                                <p class="mil-light-soft mil-mb-30">Custom software solutions tailored to your specific business challenges and goals.</p>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.Shared.SoftwareDev</h5>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.SoftText</p>
                                 <div class="mil-button mil-icon-button-sm mil-arrow-place"></div>
                             </a>
                         </div>
@@ -161,21 +161,21 @@
             <div class="mi-invert-fix">
                 <div class="container mil-p-120-120">
                     <div class="mil-center">
-                        <h2 class="mil-muted mil-up mil-mb-30">Affordable <span class="mil-thin">Plans</span> <br>for Your Business Growth</h2>
-                        <p class="mil-light-soft mil-up mil-mb-120">We offer flexible monthly plans that scale with your business, providing high-quality services at affordable rates.</p>
+                        <h2 class="mil-muted mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.Affordable<span class="mil-thin"></span>@MultiLanguages.Resources.HowWeWork.Plans <br>@MultiLanguages.Resources.HowWeWork.For</h2>
+                        <p class="mil-light-soft mil-up mil-mb-120">@MultiLanguages.Resources.HowWeWork.AffordableText</p>
                     </div>
 
                     <!-- Basic Maintenance Plan -->
                     <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up">
                         <div class="row align-items-center">
                             <div class="col-lg-2">
-                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">99</span></div>
+                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">99*</span></div>
                             </div>
                             <div class="col-lg-4">
-                                <h5 class="mil-muted mil-mb-30">Basic Website Maintenance</h5>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.HowWeWork.BasicWeb</h5>
                             </div>
                             <div class="col-lg-4">
-                                <p class="mil-light-soft mil-mb-30">Monthly updates, security checks, and minor adjustments to keep your website running smoothly.</p>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.BasicWebText</p>
                             </div>
                             <div class="col-lg-2">
                                 <div class="mil-adaptive-right mil-mb-30">
@@ -189,13 +189,13 @@
                     <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up">
                         <div class="row align-items-center">
                             <div class="col-lg-2">
-                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">199</span></div>
+                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">199*</span></div>
                             </div>
                             <div class="col-lg-4">
-                                <h5 class="mil-muted mil-mb-30">Digital Marketing Package</h5>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.HowWeWork.DigitalMarketingPackage</h5>
                             </div>
                             <div class="col-lg-4">
-                                <p class="mil-light-soft mil-mb-30">Comprehensive SEO, social media management, and content marketing to boost your online presence.</p>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.DMText</p>
                             </div>
                             <div class="col-lg-2">
                                 <div class="mil-adaptive-right mil-mb-30">
@@ -209,13 +209,13 @@
                     <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up">
                         <div class="row align-items-center">
                             <div class="col-lg-2">
-                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">299</span></div>
+                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">299*</span></div>
                             </div>
                             <div class="col-lg-4">
-                                <h5 class="mil-muted mil-mb-30">App Maintenance and Support</h5>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.HowWeWork.AppMa</h5>
                             </div>
                             <div class="col-lg-4">
-                                <p class="mil-light-soft mil-mb-30">Monthly maintenance and updates for your mobile app, ensuring optimal performance and security.</p>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.AppMaText</p>
                             </div>
                             <div class="col-lg-2">
                                 <div class="mil-adaptive-right mil-mb-30">
@@ -229,13 +229,13 @@
                     <a href="contact.html" class="mil-price-card mil-choose mil-accent-cursor mil-up mil-mb-60">
                         <div class="row align-items-center">
                             <div class="col-lg-2">
-                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">499</span></div>
+                                <div class="mil-price-number mil-mb-30"><span class="mil-muted mil-thin">$</span><span class="mil-accent">499*</span></div>
                             </div>
                             <div class="col-lg-4">
-                                <h5 class="mil-muted mil-mb-30">Custom Software Development</h5>
+                                <h5 class="mil-muted mil-mb-30">@MultiLanguages.Resources.HowWeWork.CustomSoftware</h5>
                             </div>
                             <div class="col-lg-4">
-                                <p class="mil-light-soft mil-mb-30">Full-scale custom software development to meet the specific needs of your business.</p>
+                                <p class="mil-light-soft mil-mb-30">@MultiLanguages.Resources.HowWeWork.CustomSoftwareText</p>
                             </div>
                             <div class="col-lg-2">
                                 <div class="mil-adaptive-right mil-mb-30">
@@ -247,7 +247,7 @@
 
                     <div class="mil-center">
                         <a href="contact.html" class="mil-button  mil-arrow-place">
-                            <span>View All</span>
+                            <span>@MultiLanguages.Resources.Shared.View</span>
                         </a>
                     </div>
                 </div>
@@ -259,12 +259,12 @@
             <div class="container mil-p-120-90">
                 <div class="row align-items-center mil-mb-30">
                     <div class="col-lg-6 mil-mb-30">
-                        <h3 class="mil-up">Hire Your Dedicated Team</h3>
+                        <h3 class="mil-up">@MultiLanguages.Resources.HowWeWork.Hire</h3>
                     </div>
                     <div class="col-lg-6 mil-mb-30">
                         <div class="mil-adaptive-right mil-up">
                             <a href="services.html" class="mil-link mil-dark mil-arrow-place">
-                                <span>View all</span>
+                                <span>@MultiLanguages.Resources.Shared.View</span>
                             </a>
                         </div>
                     </div>
@@ -273,16 +273,16 @@
                     <!-- Contract by Month -->
                     <div class="col-lg-4">
                         <a href="service.html" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
-                            <h4 class="mil-up mil-mb-30">Contract by Month</h4>
-                            <p class="mil-descr mil-up mil-mb-30">Hire a dedicated team for ongoing development, maintenance, or design services, with flexibility to adapt to your monthly needs.</p>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.Month</h4>
+                            <p class="mil-descr mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.MonthText</p>
                             <ul class="mil-service-list mil-dark mil-mb-30">
-                                <li class="mil-up">Full Stack Developers</li>
-                                <li class="mil-up">UI/UX Designers</li>
-                                <li class="mil-up">Digital Marketers</li>
-                                <li class="mil-up">QA Engineers</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.FullStack</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.UIUX</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.DigitalMarketers</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.QA</li>
                             </ul>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Read more</span>
+                                <span>@MultiLanguages.Resources.Shared.ReadMore</span>
                             </div>
                         </a>
                     </div>
@@ -290,16 +290,16 @@
                     <!-- Contract by Project -->
                     <div class="col-lg-4">
                         <a href="service.html" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
-                            <h4 class="mil-up mil-mb-30">Contract by Project</h4>
-                            <p class="mil-descr mil-up mil-mb-30">Get a dedicated team for a specific project, ensuring your project goals are met on time with high-quality deliverables.</p>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.Project</h4>
+                            <p class="mil-descr mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.ProjectServiceText</p>
                             <ul class="mil-service-list mil-dark mil-mb-30">
-                                <li class="mil-up">Project Managers</li>
-                                <li class="mil-up">Backend Developers</li>
-                                <li class="mil-up">Frontend Developers</li>
-                                <li class="mil-up">DevOps Engineers</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.ProjectManagers</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.Backend</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.Frontend</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.DevOps</li>
                             </ul>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Read more</span>
+                                <span>@MultiLanguages.Resources.Shared.ReadMore</span>
                             </div>
                         </a>
                     </div>
@@ -307,16 +307,16 @@
                     <!-- Contract by Sprint -->
                     <div class="col-lg-4">
                         <a href="service.html" class="mil-service-card-lg mil-other-card mil-more mil-mb-30">
-                            <h4 class="mil-up mil-mb-30">Contract by Sprint</h4>
-                            <p class="mil-descr mil-up mil-mb-30">Engage a team to work with you on a sprint basis, perfect for agile development environments where goals are achieved incrementally.</p>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.Sprint</h4>
+                            <p class="mil-descr mil-up mil-mb-30">@MultiLanguages.Resources.HowWeWork.SprintText</p>
                             <ul class="mil-service-list mil-dark mil-mb-30">
-                                <li class="mil-up">Scrum Masters</li>
-                                <li class="mil-up">Agile Developers</li>
-                                <li class="mil-up">Product Owners</li>
-                                <li class="mil-up">QA Testers</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.ScrumMasters</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.Agile</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.ProductOwners</li>
+                                <li class="mil-up">@MultiLanguages.Resources.HowWeWork.QATesters</li>
                             </ul>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Read more</span>
+                                <span>@MultiLanguages.Resources.Shared.ReadMore</span>
                             </div>
                         </a>
                     </div>

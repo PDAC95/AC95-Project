@@ -70,6 +70,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to App Developtment.
+        /// </summary>
+        public static string AppDev {
+            get {
+                return ResourceManager.GetString("AppDev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Author:.
         /// </summary>
         public static string Author {
@@ -97,11 +106,65 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to E-Commerce Stores.
+        /// </summary>
+        public static string Ecom {
+            get {
+                return ResourceManager.GetString("Ecom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Home.
         /// </summary>
         public static string Home {
             get {
                 return ResourceManager.GetString("Home", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How We Work.
+        /// </summary>
+        public static string HowWeWork {
+            get {
+                return ResourceManager.GetString("HowWeWork", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Read more.
+        /// </summary>
+        public static string ReadMore {
+            get {
+                return ResourceManager.GetString("ReadMore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Software Development.
+        /// </summary>
+        public static string SoftwareDev {
+            get {
+                return ResourceManager.GetString("SoftwareDev", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to View all.
+        /// </summary>
+        public static string View {
+            get {
+                return ResourceManager.GetString("View", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Web Development.
+        /// </summary>
+        public static string WebDev {
+            get {
+                return ResourceManager.GetString("WebDev", resourceCulture);
             }
         }
     }

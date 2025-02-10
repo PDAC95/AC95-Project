@@ -354,9 +354,6 @@
   <data name="Popular" xml:space="preserve">
     <value>Publicaciones Populares:</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
-  </data>
   <data name="Entrepreneurship" xml:space="preserve">
     <value>EMPRENDIMIENTO</value>
   </data>
@@ -368,9 +365,6 @@
   </data>
   <data name="Text1" xml:space="preserve">
     <value>Comenzar un nuevo negocio puede ser tanto emocionante como desafiante. En este artículo, compartimos consejos prácticos y perspectivas para ayudarte a navegar las primeras etapas del emprendimiento y preparar tu empresa para el éxito.</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
   </data>
   <data name="Finance" xml:space="preserve">
     <value>FINANZAS</value>

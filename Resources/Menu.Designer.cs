@@ -70,15 +70,6 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to App Developtment.
-        /// </summary>
-        internal static string AppDev {
-            get {
-                return ResourceManager.GetString("AppDev", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Brand Solutions.
         /// </summary>
         internal static string Brand {
@@ -124,15 +115,6 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to E-Commerce Stores.
-        /// </summary>
-        internal static string Ecom {
-            get {
-                return ResourceManager.GetString("Ecom", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Graphic Design.
         /// </summary>
         internal static string GraphicDesign {
@@ -153,27 +135,9 @@ namespace MultiLanguages.Resources {
         /// <summary>
         ///   Looks up a localized string similar to Home.
         /// </summary>
-        internal static string Home {
-            get {
-                return ResourceManager.GetString("Home", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Home.
-        /// </summary>
         internal static string HomePage {
             get {
                 return ResourceManager.GetString("HomePage", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to How We Work.
-        /// </summary>
-        internal static string HowWeWork {
-            get {
-                return ResourceManager.GetString("HowWeWork", resourceCulture);
             }
         }
         
@@ -223,15 +187,6 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Software Development.
-        /// </summary>
-        internal static string SoftwareDev {
-            get {
-                return ResourceManager.GetString("SoftwareDev", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Software Solutions.
         /// </summary>
         internal static string SoftwareSolutions {
@@ -264,15 +219,6 @@ namespace MultiLanguages.Resources {
         internal static string Useful {
             get {
                 return ResourceManager.GetString("Useful", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Web Development.
-        /// </summary>
-        internal static string WebDev {
-            get {
-                return ResourceManager.GetString("WebDev", resourceCulture);
             }
         }
     }

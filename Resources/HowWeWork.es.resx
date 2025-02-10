@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Affordable" xml:space="preserve">
+    <value>Planes</value>
+  </data>
+  <data name="AffordableText" xml:space="preserve">
+    <value>Ofrecemos planes mensuales flexibles que crecen con tu negocio, brindando servicios de alta calidad a precios accesibles desde *.</value>
+  </data>
+  <data name="Agile" xml:space="preserve">
+    <value>Desarrolladores Agile</value>
+  </data>
+  <data name="AppMa" xml:space="preserve">
+    <value>Mantenimiento y Soporte de Aplicaciones</value>
+  </data>
+  <data name="AppMaText" xml:space="preserve">
+    <value>Mantenimiento y actualizaciones mensuales para tu aplicación móvil, garantizando un rendimiento óptimo y seguridad.</value>
+  </data>
+  <data name="Approach" xml:space="preserve">
+    <value>Enfoque</value>
+  </data>
+  <data name="AppText" xml:space="preserve">
+    <value>Aplicaciones móviles y web de alto rendimiento, intuitivas, seguras y escalables.</value>
+  </data>
+  <data name="Backend" xml:space="preserve">
+    <value>Desarrolladores Backend</value>
+  </data>
+  <data name="BasicWeb" xml:space="preserve">
+    <value>Mantenimiento Básico de Sitios Web</value>
+  </data>
+  <data name="BasicWebText" xml:space="preserve">
+    <value>Actualizaciones mensuales, verificaciones de seguridad y ajustes menores para mantener tu sitio web funcionando sin problemas.</value>
+  </data>
+  <data name="CustomSoftware" xml:space="preserve">
+    <value>Desarrollo de Software Personalizado</value>
+  </data>
+  <data name="CustomSoftwareText" xml:space="preserve">
+    <value>Desarrollo de software personalizado a gran escala para satisfacer las necesidades específicas de tu negocio.</value>
+  </data>
+  <data name="DevOps" xml:space="preserve">
+    <value>Ingenieros DevOps</value>
+  </data>
+  <data name="DigitalMarketers" xml:space="preserve">
+    <value>Digital Marketers</value>
+  </data>
+  <data name="DigitalMarketingPackage" xml:space="preserve">
+    <value>Paquete de Marketing Digital</value>
+  </data>
+  <data name="DMText" xml:space="preserve">
+    <value>SEO integral, gestión de redes sociales y marketing de contenidos para potenciar tu presencia en línea.</value>
+  </data>
+  <data name="EcomText" xml:space="preserve">
+    <value>Soluciones de comercio electrónico robustas y escalables para hacer crecer tu negocio y mejorar la experiencia del cliente.</value>
+  </data>
+  <data name="ExploreServices" xml:space="preserve">
+    <value>Explorar Servicios</value>
+  </data>
+  <data name="For" xml:space="preserve">
+    <value>for Your Business Growth</value>
+  </data>
+  <data name="Frontend" xml:space="preserve">
+    <value>Desarrolladores Frontend</value>
+  </data>
+  <data name="FullStack" xml:space="preserve">
+    <value>Desarrollador Full Stack</value>
+  </data>
+  <data name="Hire" xml:space="preserve">
+    <value>Contrata Equipos Dedicados</value>
+  </data>
+  <data name="HireText" xml:space="preserve">
+    <value>Puedes contratar equipos dedicados para desarrollo de software, marketing digital o proyectos de diseño. Ofrecemos opciones de contratación flexibles, ya sea para un proyecto específico, trabajo continuo o ciclos de desarrollo por sprints. Nuestros equipos se integran completamente en tus procesos empresariales, garantizando una colaboración fluida y resultados de alta calidad.</value>
+  </data>
+  <data name="HowWeTitle" xml:space="preserve">
+    <value>Como nosotros trabajamos para ti</value>
+  </data>
+  <data name="Month" xml:space="preserve">
+    <value>Servicio Mensual</value>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>Servicios de Suscripción Mensual</value>
+  </data>
+  <data name="MonthlyText" xml:space="preserve">
+    <value>Nuestros servicios de suscripción mensual ofrecen soporte continuo para el mantenimiento de sitios web, actualizaciones de software y campañas de marketing digital. Esto incluye optimización del rendimiento, mejoras de funciones y monitoreo constante para garantizar que tu proyecto funcione sin problemas.</value>
+  </data>
+  <data name="MonthText" xml:space="preserve">
+    <value>Contrata un equipo dedicado para desarrollo, mantenimiento o servicios de diseño continuos, con la flexibilidad de adaptarse a tus necesidades mensuales.</value>
+  </data>
+  <data name="Our" xml:space="preserve">
+    <value>Nuestro </value>
+  </data>
+  <data name="OurSolutions" xml:space="preserve">
+    <value>Nuestras Soluciones</value>
+  </data>
+  <data name="Plans" xml:space="preserve">
+    <value>Plans</value>
+  </data>
+  <data name="ProductOwners" xml:space="preserve">
+    <value>Product Owners</value>
+  </data>
+  <data name="Project" xml:space="preserve">
+    <value>Servicios Basados en Proyectos</value>
+  </data>
+  <data name="ProjectManagers" xml:space="preserve">
+    <value>Gerentes de Proyecto</value>
+  </data>
+  <data name="ProjectServiceText" xml:space="preserve">
+    <value>Obtén un equipo dedicado para un proyecto específico, asegurando que tus objetivos se cumplan a tiempo con entregables de alta calidad.</value>
+  </data>
+  <data name="ProjectText" xml:space="preserve">
+    <value>Ofrecemos servicios basados en proyectos en diversas áreas, incluyendo desarrollo de software, diseño web y marketing digital. Ya sea que necesites una solución de software personalizada, rediseñar tu sitio web o crear una campaña de marketing digital, nuestro equipo te entregará resultados de alta calidad adaptados a las necesidades de tu negocio.</value>
+  </data>
+  <data name="ProjectTitle" xml:space="preserve">
+    <value>Proyectos</value>
+  </data>
+  <data name="QA" xml:space="preserve">
+    <value>Ingenieros de QA</value>
+  </data>
+  <data name="QATesters" xml:space="preserve">
+    <value>QA Testers</value>
+  </data>
+  <data name="ScrumMasters" xml:space="preserve">
+    <value>Scrum Masters</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>Servicio</value>
+  </data>
+  <data name="SoftText" xml:space="preserve">
+    <value>Soluciones de software personalizadas, adaptadas a los desafíos y objetivos específicos de tu negocio.</value>
+  </data>
+  <data name="Sprint" xml:space="preserve">
+    <value>Servicio por Sprint</value>
+  </data>
+  <data name="SprintText" xml:space="preserve">
+    <value>Incorpora un equipo para trabajar contigo por sprints, ideal para entornos de desarrollo ágil donde los objetivos se logran de manera incremental.</value>
+  </data>
+  <data name="Text1" xml:space="preserve">
+    <value>En AC95, ofrecemos formas de trabajo flexibles, adaptadas a las necesidades de tu proyecto. Ya sea que necesites servicios para un proyecto puntual, soporte continuo o equipos dedicados, tenemos la solución ideal para ayudarte a alcanzar tus objetivos.</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Cómo Funciona</value>
+  </data>
+  <data name="UIUX" xml:space="preserve">
+    <value>Diseñadores UI/UX</value>
+  </data>
+  <data name="WebText" xml:space="preserve">
+    <value>Sitios web personalizados diseñados para ofrecer un rendimiento de alto nivel y experiencias de usuario atractivas.</value>
+  </data>
+</root>

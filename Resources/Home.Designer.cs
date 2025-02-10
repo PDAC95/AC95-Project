@@ -601,15 +601,6 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Read more.
-        /// </summary>
-        public static string ReadMore {
-            get {
-                return ResourceManager.GetString("ReadMore", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Receive:.
         /// </summary>
         public static string Receive {
@@ -777,15 +768,6 @@ namespace MultiLanguages.Resources {
         public static string Unique {
             get {
                 return ResourceManager.GetString("Unique", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to View all.
-        /// </summary>
-        public static string View {
-            get {
-                return ResourceManager.GetString("View", resourceCulture);
             }
         }
         

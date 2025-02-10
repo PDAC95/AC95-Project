@@ -117,23 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
   <data name="OurSolutions" xml:space="preserve">
     <value>Nuestras Soluciones</value>
-  </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
-  </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>Tiendas de E-Commerce</value>
   </data>
   <data name="GraphicDesign" xml:space="preserve">
     <value>Diseño Grafico</value>
@@ -161,9 +146,6 @@
   </data>
   <data name="USA" xml:space="preserve">
     <value>Estados Unidos</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
   </data>
   <data name="SoftwareSolutions" xml:space="preserve">
     <value>Soluciones de Software</value>

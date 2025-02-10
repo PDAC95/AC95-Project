@@ -117,23 +117,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Home" xml:space="preserve">
-    <value>Home</value>
-  </data>
   <data name="OurSolutions" xml:space="preserve">
     <value>Our Solutions</value>
-  </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Software Development</value>
-  </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>App Developtment</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>Web Development</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce Stores</value>
   </data>
   <data name="GraphicDesign" xml:space="preserve">
     <value>Graphic Design</value>
@@ -161,9 +146,6 @@
   </data>
   <data name="USA" xml:space="preserve">
     <value>USA</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>How We Work</value>
   </data>
   <data name="SoftwareSolutions" xml:space="preserve">
     <value>Software Solutions</value>

@@ -120,6 +120,9 @@
   <data name="AC95" xml:space="preserve">
     <value>AC95</value>
   </data>
+  <data name="AppDev" xml:space="preserve">
+    <value>App Developtment</value>
+  </data>
   <data name="Author" xml:space="preserve">
     <value>Author:</value>
   </data>
@@ -129,7 +132,25 @@
   <data name="Date" xml:space="preserve">
     <value>Date:</value>
   </data>
+  <data name="Ecom" xml:space="preserve">
+    <value>E-Commerce Stores</value>
+  </data>
   <data name="Home" xml:space="preserve">
     <value>Home</value>
+  </data>
+  <data name="HowWeWork" xml:space="preserve">
+    <value>How We Work</value>
+  </data>
+  <data name="ReadMore" xml:space="preserve">
+    <value>Read more</value>
+  </data>
+  <data name="SoftwareDev" xml:space="preserve">
+    <value>Software Development</value>
+  </data>
+  <data name="View" xml:space="preserve">
+    <value>View all</value>
+  </data>
+  <data name="WebDev" xml:space="preserve">
+    <value>Web Development</value>
   </data>
 </root>
