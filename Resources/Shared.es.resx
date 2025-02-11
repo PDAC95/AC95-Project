@@ -135,6 +135,9 @@
   <data name="Ecom" xml:space="preserve">
     <value>Tiendas de E-Commerce</value>
   </data>
+  <data name="GetStarted" xml:space="preserve">
+    <value>Comenzar</value>
+  </data>
   <data name="Home" xml:space="preserve">
     <value>Inicio</value>
   </data>
