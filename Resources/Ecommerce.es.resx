@@ -117,43 +117,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="Custom" xml:space="preserve">
+    <value>Desarrollo de Ecommerce Personalizado</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>App Developtment</value>
+  <data name="Development" xml:space="preserve">
+    <value>servicio</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Author:</value>
+  <data name="Inventory" xml:space="preserve">
+    <value>Manejo de inventario</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Category: </value>
+  <data name="Performance" xml:space="preserve">
+    <value>Optimización de Rendimiento y SEO</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Date:</value>
+  <data name="responsive" xml:space="preserve">
+    <value>Diseño Responsivo</value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="SecurePayment" xml:space="preserve">
+    <value>Integración de Pagos Seguros</value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Get Started</value>
+  <data name="Services" xml:space="preserve">
+    <value>de desarrollo</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Home</value>
+  <data name="Solutions" xml:space="preserve">
+    <value>Soluciones para</value>
   </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>How We Work</value>
+  <data name="Start" xml:space="preserve">
+    <value>Empieza tu proyecto</value>
   </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Read more</value>
+  <data name="Text1" xml:space="preserve">
+    <value>En AC95, nos especializamos en crear soluciones de comercio electrónico potentes y fáciles de usar que impulsan las ventas y mejoran la experiencia del cliente. Desde la gestión de productos hasta pagos seguros, nos aseguramos de que tu tienda esté diseñada para el éxito.</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Software Development</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Desarrollamos plataformas de comercio electrónico totalmente personalizadas y adaptadas a las necesidades de tu negocio. Desde catálogos de productos hasta carritos de compra y pasarelas de pago, nuestras soluciones están diseñadas para ofrecer una experiencia de compra fluida.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>View all</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Nuestras tiendas de comercio electrónico están diseñadas con un enfoque responsivo, asegurando un funcionamiento fluido en todos los dispositivos, desde móviles hasta computadoras de escritorio. Esto garantiza una experiencia de compra óptima para tus clientes, sin importar cómo naveguen.</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>Web Development</value>
+  <data name="Text4" xml:space="preserve">
+    <value>Integramos pasarelas de pago seguras que permiten a los clientes realizar pagos de manera fácil y protegida. Nuestras soluciones de comercio electrónico son compatibles con métodos de pago populares como tarjetas de crédito, PayPal y más.</value>
+  </data>
+  <data name="text5" xml:space="preserve">
+    <value>Nuestros sistemas incluyen funciones de gestión de inventario que te permiten monitorear niveles de stock, administrar listados de productos y actualizar precios en tiempo real, asegurando que tu tienda en línea esté siempre precisa y actualizada.</value>
+  </data>
+  <data name="Text6" xml:space="preserve">
+    <value>Optimizamos tu tienda en línea para tiempos de carga rápidos y un mejor posicionamiento en los motores de búsqueda. Nuestro desarrollo centrado en SEO ayuda a atraer tráfico orgánico y aumenta las posibilidades de convertir visitantes en clientes.</value>
+  </data>
+  <data name="YourBusiness" xml:space="preserve">
+    <value>tu negocio</value>
   </data>
 </root>

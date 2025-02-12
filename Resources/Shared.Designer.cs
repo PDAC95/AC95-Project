@@ -106,7 +106,7 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to E-Commerce Stores.
+        ///   Looks up a localized string similar to E-Commerce.
         /// </summary>
         public static string Ecom {
             get {
