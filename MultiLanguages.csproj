@@ -51,6 +51,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Shared.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\Software.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Software.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\Web.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -114,6 +119,13 @@
     <EmbeddedResource Update="Resources\Shared.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Shared.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Software.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Software.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Software.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\Web.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

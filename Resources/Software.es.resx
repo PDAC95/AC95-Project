@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="API" xml:space="preserve">
+    <value>Desarrollo e Integración de API</value>
+  </data>
+  <data name="Cloud" xml:space="preserve">
+    <value>Soluciones Basadas en la Nube</value>
+  </data>
+  <data name="Custom" xml:space="preserve">
+    <value>Desarrollo de</value>
+  </data>
+  <data name="CustomSoftware" xml:space="preserve">
+    <value>Desarrollo de Software Personalizado</value>
+  </data>
+  <data name="Development" xml:space="preserve">
+    <value>para</value>
+  </data>
+  <data name="DevelopmentDes" xml:space="preserve">
+    <value>de Desarrollo de </value>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Soluciones de Software Empresarial</value>
+  </data>
+  <data name="Our" xml:space="preserve">
+    <value>Nuestro </value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>Software</value>
+  </data>
+  <data name="SoftwareDes" xml:space="preserve">
+    <value>Servicios</value>
+  </data>
+  <data name="SoftwareTitle" xml:space="preserve">
+    <value>Software Personalizado</value>
+  </data>
+  <data name="Text1" xml:space="preserve">
+    <value>En AC95, creamos soluciones de software personalizadas para satisfacer las necesidades específicas de tu negocio. Ya sea que busques automatizar procesos, mejorar flujos de trabajo o desarrollar un nuevo producto, nuestros servicios de desarrollo de software están diseñados para ayudarte a alcanzar tus objetivos.</value>
+  </data>
+  <data name="Text2" xml:space="preserve">
+    <value>Ofrecemos servicios de desarrollo de software de extremo a extremo, desde la concepción inicial hasta la implementación final. Nuestras soluciones están personalizadas para adaptarse a los procesos de tu negocio, garantizando una mayor eficiencia y productividad.</value>
+  </data>
+  <data name="Text3" xml:space="preserve">
+    <value>Desarrollamos aplicaciones basadas en la nube que crecen junto con tu negocio, ofreciendo flexibilidad, seguridad y alta disponibilidad. Nuestras soluciones en la nube te permiten optimizar operaciones y reducir costos.</value>
+  </data>
+  <data name="Text4" xml:space="preserve">
+    <value>Nos especializamos en desarrollar API robustas que permiten la integración de tu software con plataformas de terceros, asegurando un intercambio de datos fluido y funcionalidad en múltiples sistemas.</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>Desarrollamos soluciones de software empresarial a gran escala que optimizan los procesos de negocio y mejoran la eficiencia operativa. Nuestras soluciones están diseñadas para gestionar flujos de trabajo complejos, grandes volúmenes de datos y una alta demanda de usuarios.</value>
+  </data>
+  <data name="YourBusiness" xml:space="preserve">
+    <value>Tu Negocio</value>
+  </data>
+</root>
