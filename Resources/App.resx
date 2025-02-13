@@ -117,70 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AIIntegration" xml:space="preserve">
-    <value>Integración de IA</value>
+  <data name="Android" xml:space="preserve">
+    <value>Android App Development</value>
   </data>
-  <data name="Creating" xml:space="preserve">
-    <value>Creando</value>
+  <data name="AppService" xml:space="preserve">
+    <value>App</value>
   </data>
-  <data name="Custom" xml:space="preserve">
-    <value>Sitios Web</value>
+  <data name="AppTilte" xml:space="preserve">
+    <value>App</value>
   </data>
-  <data name="CustomWeb" xml:space="preserve">
-    <value>Desarrollo de Sitios Web Personalizados</value>
+  <data name="Cross" xml:space="preserve">
+    <value>Cross-Platform App Development</value>
   </data>
   <data name="Development" xml:space="preserve">
-    <value>de Desarrollo de</value>
+    <value>Development for</value>
+  </data>
+  <data name="DevelopmentApp" xml:space="preserve">
+    <value>Development</value>
+  </data>
+  <data name="Innovative" xml:space="preserve">
+    <value>Innovative </value>
+  </data>
+  <data name="iOS" xml:space="preserve">
+    <value>iOS App Development</value>
+  </data>
+  <data name="Maintenance" xml:space="preserve">
+    <value>App Maintenance and Support</value>
   </data>
   <data name="Our" xml:space="preserve">
-    <value>Nuestros</value>
-  </data>
-  <data name="Performance" xml:space="preserve">
-    <value>Optimización del Rendimiento</value>
-  </data>
-  <data name="Projects" xml:space="preserve">
-    <value>Proyecto</value>
-  </data>
-  <data name="ResponsiveDesign" xml:space="preserve">
-    <value>Diseño Responsivo</value>
-  </data>
-  <data name="SEO" xml:space="preserve">
-    <value>Optimización SEO</value>
+    <value>Our </value>
   </data>
   <data name="Services" xml:space="preserve">
-    <value>Sitios Web</value>
+    <value>Services</value>
   </data>
   <data name="Text1" xml:space="preserve">
-    <value>En AC95, nos especializamos en crear sitios web que combinan diseño, rendimiento y experiencia de usuario. Ya sea que necesites un sitio web básico o una solución más compleja, nuestro equipo desarrolla sitios personalizados para impulsar tu presencia en línea.</value>
+    <value>At AC95, we offer comprehensive app development services that cater to businesses looking to innovate. From mobile apps to web applications, we build solutions that provide outstanding user experiences and drive business growth.</value>
   </data>
   <data name="Text2" xml:space="preserve">
-    <value>Creamos sitios web desde cero, adaptados a tu marca y objetivos comerciales. Nuestros sitios están diseñados para atraer a los usuarios, mejorar el rendimiento y ofrecer una experiencia fluida en todos los dispositivos.</value>
+    <value>We create high-performance, feature-packed iOS applications designed to engage users and deliver seamless experiences. From concept to launch, we ensure your iOS app stands out in the App Store.</value>
   </data>
   <data name="Text3" xml:space="preserve">
-    <value>Nuestros sitios web están diseñados con un enfoque responsivo, garantizando que se vean y funcionen perfectamente en todas las pantallas, desde computadoras de escritorio hasta dispositivos móviles. Priorizamos la usabilidad y la velocidad para brindar la mejor experiencia a tus visitantes.</value>
+    <value>Our team builds powerful Android apps that deliver excellent performance and user engagement. We develop apps tailored to the needs of your business, ensuring compatibility across a range of devices and OS versions.</value>
   </data>
   <data name="Text4" xml:space="preserve">
-    <value>Mantén tu sitio web en óptimas condiciones con nuestros servicios de mantenimiento continuo. Nos encargamos de actualizaciones de seguridad, optimización del rendimiento y actualización de contenido para garantizar que tu sitio esté siempre al día y completamente funcional.</value>
+    <value>We specialize in cross-platform app development using frameworks like Xamarin and React Native. This allows us to create apps that work seamlessly on both iOS and Android, saving time and development costs while maintaining a high-quality user experience.</value>
   </data>
   <data name="Text5" xml:space="preserve">
-    <value>Nuestros sitios web se desarrollan siguiendo las mejores prácticas de optimización para motores de búsqueda (SEO), asegurando un mejor posicionamiento en los resultados y atrayendo más tráfico orgánico. Nos enfocamos en la velocidad de carga, usabilidad móvil, metaetiquetas y código limpio para mejorar el rendimiento SEO.</value>
+    <value>Our web application development services focus on building high-performing, scalable web apps that provide a seamless experience across browsers and devices. Whether it's a progressive web app (PWA) or a custom web solution, we deliver results that enhance user interaction and business efficiency.</value>
   </data>
   <data name="Text6" xml:space="preserve">
-    <value>Ofrecemos una integración fluida de inteligencia artificial (IA) para potenciar tu sitio web con automatización, análisis de datos y experiencias personalizadas. Implementamos soluciones de IA que optimizan la interacción con los usuarios, mejoran la eficiencia y ayudan a hacer crecer tu negocio de manera inteligente.</value>
+    <value>We provide ongoing maintenance and support services to keep your app running smoothly. From regular updates to bug fixes and feature enhancements, we ensure your app remains relevant and functional in a competitive market.</value>
   </data>
-  <data name="Text7" xml:space="preserve">
-    <value>Optimizamos tu sitio web para tiempos de carga rápidos y un rendimiento eficiente. Nuestras técnicas de optimización garantizan que tu sitio se cargue rápidamente en todos los dispositivos, reduciendo la tasa de rebote y mejorando la interacción con los usuarios.</value>
-  </data>
-  <data name="titleweb" xml:space="preserve">
-    <value>Servicios</value>
-  </data>
-  <data name="WebsiteMaintenance" xml:space="preserve">
-    <value>Mantenimiento de Sitios Web</value>
-  </data>
-  <data name="Websites" xml:space="preserve">
-    <value>Personalizados</value>
+  <data name="Web" xml:space="preserve">
+    <value>Web Application Development</value>
   </data>
   <data name="YourBusiness" xml:space="preserve">
-    <value>para Tu Negocio</value>
+    <value>Your Business</value>
   </data>
 </root>

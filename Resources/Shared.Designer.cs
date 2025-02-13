@@ -160,6 +160,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Start Your Project.
+        /// </summary>
+        public static string Start {
+            get {
+                return ResourceManager.GetString("Start", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to View all.
         /// </summary>
         public static string View {

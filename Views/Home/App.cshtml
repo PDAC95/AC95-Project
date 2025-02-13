@@ -13,12 +13,12 @@
             <div class="mil-banner-content mil-up">
                 <div class="container">
                     <ul class="mil-breadcrumbs mil-mb-60">
-                        <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                        <li><a asp-controller="Home" asp-action="AppDevelopment">App Development</a></li>
+                        <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                        <li><a asp-controller="Home" asp-action="AppDevelopment">@MultiLanguages.Resources.Shared.AppDev</a></li>
                     </ul>
-                    <h1 class="mil-mb-60">Innovative <span class="mil-thin">App</span><br> Development for <span class="mil-thin">Your Business</span></h1>
+                    <h1 class="mil-mb-60">@MultiLanguages.Resources.App.Innovative <span class="mil-thin">@MultiLanguages.Resources.App.AppTilte</span><br> @MultiLanguages.Resources.App.Development <span class="mil-thin">@MultiLanguages.Resources.App.YourBusiness</span></h1>
                     <a href="#service" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                        <span>Get Started</span>
+                        <span>@MultiLanguages.Resources.Shared.GetStarted</span>
                     </a>
                 </div>
             </div>
@@ -30,11 +30,11 @@
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mil-relative mil-mb-90">
 
-                        <h4 class="mil-up mil-mb-30">Our <span class="mil-thin">App</span> <br>Development <span class="mil-thin">Services</span></h4>
-                        <p class="mil-up mil-mb-30">At AC95, we offer comprehensive app development services that cater to businesses looking to innovate. From mobile apps to web applications, we build solutions that provide outstanding user experiences and drive business growth.</p>
+                        <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.App.Our<span class="mil-thin">@MultiLanguages.Resources.App.AppService</span> <br>@MultiLanguages.Resources.App.DevelopmentApp <span class="mil-thin">@MultiLanguages.Resources.App.Services</span></h4>
+                        <p class="mil-up mil-mb-30">@MultiLanguages.Resources.App.Text1</p>
                         <div class="mil-up">
                             <a asp-controller="Home" asp-action="Started" class="mil-link mil-dark mil-arrow-place">
-                                <span>Start Your Project</span>
+                                <span>@MultiLanguages.Resources.Shared.Start</span>
                             </a>
                         </div>
 
@@ -43,7 +43,7 @@
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">iOS App Development</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.App.iOS</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -51,13 +51,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We create high-performance, feature-packed iOS applications designed to engage users and deliver seamless experiences. From concept to launch, we ensure your iOS app stands out in the App Store.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.App.Text2</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Android App Development</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.App.Android</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -65,13 +65,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Our team builds powerful Android apps that deliver excellent performance and user engagement. We develop apps tailored to the needs of your business, ensuring compatibility across a range of devices and OS versions.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.App.Text3</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Cross-Platform App Development</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.App.Cross</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -79,13 +79,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We specialize in cross-platform app development using frameworks like Xamarin and React Native. This allows us to create apps that work seamlessly on both iOS and Android, saving time and development costs while maintaining a high-quality user experience.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.App.Text4</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Web Application Development</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.App.Web</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -93,13 +93,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Our web application development services focus on building high-performing, scalable web apps that provide a seamless experience across browsers and devices. Whether it's a progressive web app (PWA) or a custom web solution, we deliver results that enhance user interaction and business efficiency.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.App.Text5</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">App Maintenance and Support</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.App.Maintenance</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -107,7 +107,7 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We provide ongoing maintenance and support services to keep your app running smoothly. From regular updates to bug fixes and feature enhancements, we ensure your app remains relevant and functional in a competitive market.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.App.Text6</p>
                             </div>
                         </div>
 

@@ -150,6 +150,9 @@
   <data name="SoftwareDev" xml:space="preserve">
     <value>Software Development</value>
   </data>
+  <data name="Start" xml:space="preserve">
+    <value>Start Your Project</value>
+  </data>
   <data name="View" xml:space="preserve">
     <value>View all</value>
   </data>
