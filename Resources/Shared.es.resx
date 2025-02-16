@@ -144,6 +144,9 @@
   <data name="HowWeWork" xml:space="preserve">
     <value>Como Trabajamos</value>
   </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>Planes Mensuales</value>
+  </data>
   <data name="ReadMore" xml:space="preserve">
     <value>Leer más</value>
   </data>

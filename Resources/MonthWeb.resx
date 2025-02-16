@@ -117,49 +117,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="MonthlyTitle" xml:space="preserve">
+    <value>Monthly</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>App Developtment</value>
+  <data name="WebTitle" xml:space="preserve">
+    <value>Web</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Author:</value>
+  <data name="WebMaintenance" xml:space="preserve">
+    <value>Web Maintenance</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Category: </value>
+  <data name="MaintenanceTitle" xml:space="preserve">
+    <value>Maintenance &amp;</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Date:</value>
+  <data name="OptimizationTitle" xml:space="preserve">
+    <value>OptimizationTitle</value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="Our" xml:space="preserve">
+    <value>Our</value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Get Started</value>
+  <data name="MonthlySub" xml:space="preserve">
+    <value>Monthly</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Home</value>
+  <data name="MaintenanceSub" xml:space="preserve">
+    <value>Maintenance</value>
   </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>How We Work</value>
+  <data name="ServicesSub" xml:space="preserve">
+    <value>Services</value>
   </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Monthly Plans</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Ensure your website stays updated, secure, and running smoothly with our comprehensive monthly web maintenance and optimization services. We take care of everything, from performance improvements to regular updates, so you can focus on growing your business.</value>
   </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Read more</value>
+  <data name="Subscribe" xml:space="preserve">
+    <value>Subscribe Now</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Software Development</value>
+  <data name="MonthlyWebsiteMaintenance" xml:space="preserve">
+    <value>Monthly Website Maintenance</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Start Your Project</value>
+  <data name="Text2" xml:space="preserve">
+    <value>We provide monthly maintenance to keep your website running at peak performance. Our service includes regular updates, security patches, and bug fixes to ensure your site is always secure and up-to-date.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>View all</value>
+  <data name="PerformanceOptimization" xml:space="preserve">
+    <value>Performance Optimization</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>Web Development</value>
+  <data name="Text3" xml:space="preserve">
+    <value>We optimize your website for fast loading times and smooth performance across all devices. This service ensures your users have the best experience, reducing bounce rates and improving engagement.</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>Security Updates</value>
+  </data>
+  <data name="Text4" xml:space="preserve">
+    <value>Protect your website from potential threats with regular security updates. Our team ensures your website remains secure from vulnerabilities, safeguarding both your data and your users.</value>
+  </data>
+  <data name="Content" xml:space="preserve">
+    <value>Content Updates</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>Keep your website fresh with regular content updates. We help you update text, images, and media to reflect the latest offerings and changes in your business, ensuring your site stays relevant and engaging.</value>
+  </data>
+  <data name="SEO" xml:space="preserve">
+    <value>SEO Monitoring &amp; Improvements</value>
+  </data>
+  <data name="Text6" xml:space="preserve">
+    <value>We monitor and improve your website's SEO performance to ensure you stay competitive in search engine rankings. Our service includes keyword tracking, meta tag optimization, and ongoing adjustments to improve your visibility online.</value>
+  </data>
+  <data name="Backup" xml:space="preserve">
+    <value>Backup and Recovery</value>
+  </data>
+  <data name="Text7" xml:space="preserve">
+    <value>Ensure your website's data is always safe with our monthly backup and recovery service. We create regular backups of your website, allowing for quick recovery in case of any issues or data loss.</value>
   </data>
 </root>

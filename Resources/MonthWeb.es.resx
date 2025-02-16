@@ -117,49 +117,73 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="MonthlyTitle" xml:space="preserve">
+    <value>Mantenimiento</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>App Developtment</value>
+  <data name="WebTitle" xml:space="preserve">
+    <value>Mensual</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Author:</value>
+  <data name="WebMaintenance" xml:space="preserve">
+    <value>Mantenimiento Web</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Category: </value>
+  <data name="MaintenanceTitle" xml:space="preserve">
+    <value>y</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Date:</value>
+  <data name="OptimizationTitle" xml:space="preserve">
+    <value>Optimización Web</value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="Our" xml:space="preserve">
+    <value>Nuestros</value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Get Started</value>
+  <data name="MonthlySub" xml:space="preserve">
+    <value>Servicios</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Home</value>
+  <data name="MaintenanceSub" xml:space="preserve">
+    <value>de Mantenimiento</value>
   </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>How We Work</value>
+  <data name="ServicesSub" xml:space="preserve">
+    <value>Mensual</value>
   </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Monthly Plans</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Asegura que tu sitio web se mantenga actualizado, seguro y funcione sin problemas con nuestros completos servicios de mantenimiento y optimización web mensual. Nos encargamos de todo, desde mejoras de rendimiento hasta actualizaciones regulares, para que puedas enfocarte en hacer crecer tu negocio.</value>
   </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Read more</value>
+  <data name="Subscribe" xml:space="preserve">
+    <value>Suscribirse Ahora</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Software Development</value>
+  <data name="MonthlyWebsiteMaintenance" xml:space="preserve">
+    <value>Mantenimiento Mensual de Sitios Web</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Start Your Project</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Ofrecemos mantenimiento mensual para que tu sitio web funcione con el máximo rendimiento. Nuestro servicio incluye actualizaciones regulares, parches de seguridad y corrección de errores, garantizando que tu sitio esté siempre seguro y actualizado.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>View all</value>
+  <data name="PerformanceOptimization" xml:space="preserve">
+    <value>Optimización del Rendimiento</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>Web Development</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Optimizamos tu sitio web para tiempos de carga rápidos y un rendimiento fluido en todos los dispositivos. Este servicio garantiza la mejor experiencia para tus usuarios, reduciendo la tasa de rebote y mejorando la interacción.</value>
+  </data>
+  <data name="Security" xml:space="preserve">
+    <value>Actualizaciones de Seguridad</value>
+  </data>
+  <data name="Text4" xml:space="preserve">
+    <value>Protege tu sitio web de posibles amenazas con actualizaciones de seguridad regulares. Nuestro equipo garantiza que tu sitio permanezca seguro ante vulnerabilidades, resguardando tanto tus datos como los de tus usuarios.</value>
+  </data>
+  <data name="Content" xml:space="preserve">
+    <value>Actualización de Contenido</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>Mantén tu sitio web actualizado con contenido renovado regularmente. Te ayudamos a modificar textos, imágenes y medios para reflejar tus últimas ofertas y cambios en tu negocio, asegurando que tu sitio siga siendo relevante y atractivo.</value>
+  </data>
+  <data name="SEO" xml:space="preserve">
+    <value>Monitoreo y Mejoras de SEO</value>
+  </data>
+  <data name="Text6" xml:space="preserve">
+    <value>Monitoreamos y mejoramos el rendimiento SEO de tu sitio web para garantizar que sigas siendo competitivo en los motores de búsqueda. Nuestro servicio incluye seguimiento de palabras clave, optimización de metaetiquetas y ajustes continuos para aumentar tu visibilidad en línea.</value>
+  </data>
+  <data name="Backup" xml:space="preserve">
+    <value>Respaldo y Recuperación</value>
+  </data>
+  <data name="Text7" xml:space="preserve">
+    <value>Asegura la protección de los datos de tu sitio web con nuestro servicio mensual de respaldo y recuperación. Realizamos copias de seguridad periódicas, permitiendo una recuperación rápida en caso de cualquier problema o pérdida de datos.</value>
   </data>
 </root>

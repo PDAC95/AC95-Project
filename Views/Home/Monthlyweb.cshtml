@@ -13,13 +13,13 @@
             <div class="mil-banner-content mil-up">
                 <div class="container">
                     <ul class="mil-breadcrumbs mil-mb-60">
-                        <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                        <li><a asp-controller="Home" asp-action="Monthly">Monthly Plans</a></li>
-                        <li><a asp-controller="Home" asp-action="Maintenance">Web Maintenance</a></li>
+                        <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                        <li><a asp-controller="Home" asp-action="Monthly">@MultiLanguages.Resources.Shared.Monthly</a></li>
+                        <li><a asp-controller="Home" asp-action="Maintenance">@MultiLanguages.Resources.MonthWeb.WebMaintenance</a></li>
                     </ul>
-                    <h1 class="mil-mb-60">Monthly <span class="mil-thin">Web</span><br> Maintenance & <span class="mil-thin">Optimization</span></h1>
+                    <h1 class="mil-mb-60">@MultiLanguages.Resources.MonthWeb.MonthlyTitle <span class="mil-thin">@MultiLanguages.Resources.MonthWeb.WebTitle</span><br> @MultiLanguages.Resources.MonthWeb.MaintenanceTitle <span class="mil-thin">@MultiLanguages.Resources.MonthWeb.OptimizationTitle</span></h1>
                     <a href="#service" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                        <span>Get Started</span>
+                        <span>@MultiLanguages.Resources.Shared.GetStarted</span>
                     </a>
                 </div>
             </div>
@@ -31,11 +31,11 @@
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mil-relative mil-mb-90">
 
-                        <h4 class="mil-up mil-mb-30">Our <span class="mil-thin">Monthly</span> <br> Maintenance <span class="mil-thin">Services</span></h4>
-                        <p class="mil-up mil-mb-30">Ensure your website stays updated, secure, and running smoothly with our comprehensive monthly web maintenance and optimization services. We take care of everything, from performance improvements to regular updates, so you can focus on growing your business.</p>
+                        <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.MonthWeb.Our <span class="mil-thin">@MultiLanguages.Resources.MonthWeb.MonthlySub</span> <br> @MultiLanguages.Resources.MonthWeb.MaintenanceSub <span class="mil-thin">@MultiLanguages.Resources.MonthWeb.ServicesSub</span></h4>
+                        <p class="mil-up mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text1</p>
                         <div class="mil-up">
                             <a asp-controller="Home" asp-action="Started" class="mil-link mil-dark mil-arrow-place">
-                                <span>Subscribe Now</span>
+                                <span>@MultiLanguages.Resources.MonthWeb.Subscribe</span>
                             </a>
                         </div>
 
@@ -44,7 +44,7 @@
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Monthly Website Maintenance</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthWeb.MonthlyWebsiteMaintenance</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -52,13 +52,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We provide monthly maintenance to keep your website running at peak performance. Our service includes regular updates, security patches, and bug fixes to ensure your site is always secure and up-to-date.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text2</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Performance Optimization</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthWeb.PerformanceOptimization</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -66,13 +66,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We optimize your website for fast loading times and smooth performance across all devices. This service ensures your users have the best experience, reducing bounce rates and improving engagement.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text3</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Security Updates</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthWeb.Security</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -80,13 +80,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Protect your website from potential threats with regular security updates. Our team ensures your website remains secure from vulnerabilities, safeguarding both your data and your users.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text4</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Content Updates</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthWeb.Content</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -94,13 +94,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Keep your website fresh with regular content updates. We help you update text, images, and media to reflect the latest offerings and changes in your business, ensuring your site stays relevant and engaging.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text5</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">SEO Monitoring & Improvements</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthWeb.SEO</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -108,13 +108,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We monitor and improve your website's SEO performance to ensure you stay competitive in search engine rankings. Our service includes keyword tracking, meta tag optimization, and ongoing adjustments to improve your visibility online.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text6</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Backup and Recovery</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthWeb.Backup</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -122,7 +122,7 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Ensure your website's data is always safe with our monthly backup and recovery service. We create regular backups of your website, allowing for quick recovery in case of any issues or data loss.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthWeb.Text7</p>
                             </div>
                         </div>
 
