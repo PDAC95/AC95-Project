@@ -13,13 +13,13 @@
             <div class="mil-banner-content mil-up">
                 <div class="container">
                     <ul class="mil-breadcrumbs mil-mb-60">
-                        <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                        <li><a asp-controller="Home" asp-action="Monthly">Monthly Plans</a></li>
-                        <li><a asp-controller="Home" asp-action="Monthlysoftware">Software Maintenance</a></li>
+                        <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                        <li><a asp-controller="Home" asp-action="Monthly">@MultiLanguages.Resources.Shared.Monthly</a></li>
+                        <li><a asp-controller="Home" asp-action="Monthlysoftware">@MultiLanguages.Resources.MonthSoftware.SoftwareMaintenance</a></li>
                     </ul>
-                    <h1 class="mil-mb-60">Monthly <span class="mil-thin">Software</span><br><span class="mil-thin">Maintenance</span></h1>
+                    <h1 class="mil-mb-60">@MultiLanguages.Resources.MonthSoftware.MonthlyTitle <span class="mil-thin">@MultiLanguages.Resources.MonthSoftware.SoftwareTitle</span><br><span class="mil-thin">@MultiLanguages.Resources.MonthSoftware.MaintenanceTitle</span></h1>
                     <a href="#service" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                        <span>Get Started</span>
+                        <span>@MultiLanguages.Resources.Shared.GetStarted</span>
                     </a>
                 </div>
             </div>
@@ -31,11 +31,11 @@
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mil-relative mil-mb-90">
 
-                        <h4 class="mil-up mil-mb-30">Our <span class="mil-thin">Monthly</span> <br> Software <span class="mil-thin">Maintenance</span></h4>
-                        <p class="mil-up mil-mb-30">Ensure your software runs smoothly with our comprehensive monthly SaaS maintenance and optimization services. We manage everything from performance tuning to security updates, keeping your software up-to-date and your users satisfied.</p>
+                        <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.MonthSoftware.OurTitle <span class="mil-thin">@MultiLanguages.Resources.MonthSoftware.MonthlySub</span> <br> @MultiLanguages.Resources.MonthSoftware.SoftwareSub <span class="mil-thin">@MultiLanguages.Resources.MonthSoftware.MaintenanceSub</span></h4>
+                        <p class="mil-up mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text1</p>
                         <div class="mil-up">
                             <a asp-controller="Home" asp-action="Started" class="mil-link mil-dark mil-arrow-place">
-                                <span>Subscribe Now</span>
+                                <span>@MultiLanguages.Resources.Shared.Subscribe</span>
                             </a>
                         </div>
 
@@ -44,7 +44,7 @@
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Monthly Software Maintenance</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthSoftware.MonthlySoftwareMaintenance</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -52,13 +52,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We provide ongoing maintenance to ensure your software runs at optimal performance. From updates and patches to bug fixes, we make sure your SaaS solution remains reliable and fully functional for your users.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text2</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Performance Optimization</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthSoftware.PerformanceOptimization</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -66,13 +66,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We optimize your software for better performance, ensuring fast load times, smooth functionality, and minimal downtime. Our performance enhancements help reduce user frustration and increase overall satisfaction.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text3</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Security Updates & Monitoring</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthSoftware.SecurityUpdates</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -80,13 +80,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We ensure your software remains secure with regular security updates and ongoing monitoring. Our team addresses potential vulnerabilities, keeping your data and user information safe.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text4</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">User Support & Issue Resolution</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthSoftware.UserSupport</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -94,13 +94,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Our support team is available to assist your users with any issues or inquiries. We quickly resolve user-reported issues, ensuring minimal downtime and a positive user experience.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text5</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Feature Updates & Enhancements</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthSoftware.FeatureUpdates</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -108,13 +108,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We provide regular updates to add new features and improve existing functionalities based on user feedback and market trends. This helps keep your software competitive and aligned with user needs.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text6</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Backup & Recovery</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthSoftware.BackupRecovery</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -122,7 +122,7 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We ensure that your software’s data is backed up regularly and provide recovery solutions in case of unexpected issues. This service guarantees that your software and data remain safe, with minimal disruption to your users.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthSoftware.Text7</p>
                             </div>
                         </div>
 
