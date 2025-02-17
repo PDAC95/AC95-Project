@@ -51,6 +51,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>MonthEcom.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\MonthSoftware.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>MonthSoftware.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\MonthWeb.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -129,6 +134,13 @@
     <EmbeddedResource Update="Resources\MonthEcom.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MonthEcom.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\MonthSoftware.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\MonthSoftware.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>MonthSoftware.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\MonthWeb.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

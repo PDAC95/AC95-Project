@@ -13,13 +13,13 @@
             <div class="mil-banner-content mil-up">
                 <div class="container">
                     <ul class="mil-breadcrumbs mil-mb-60">
-                        <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                        <li><a asp-controller="Home" asp-action="Monthly">Monthly Plans</a></li>
-                        <li><a asp-controller="Home" asp-action="Apps">App Maintenance</a></li>
+                        <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                        <li><a asp-controller="Home" asp-action="Monthly">@MultiLanguages.Resources.Shared.Monthly</a></li>
+                        <li><a asp-controller="Home" asp-action="Apps">@MultiLanguages.Resources.MonthApp.AppMaintenance</a></li>
                     </ul>
-                    <h1 class="mil-mb-60">Monthly <span class="mil-thin">App</span><br> Maintenance & <span class="mil-thin">Optimization</span></h1>
+                    <h1 class="mil-mb-60">@MultiLanguages.Resources.MonthApp.MonthlyTitle <span class="mil-thin">@MultiLanguages.Resources.MonthApp.AppTitle</span><br> @MultiLanguages.Resources.MonthApp.MaintenanceTitle <span class="mil-thin">@MultiLanguages.Resources.MonthApp.OptimizationTitle</span></h1>
                     <a href="#service" class="mil-link mil-dark mil-arrow-place mil-down-arrow">
-                        <span>Get Started</span>
+                        <span>@MultiLanguages.Resources.Shared.GetStarted</span>
                     </a>
                 </div>
             </div>
@@ -31,11 +31,11 @@
                 <div class="row justify-content-between">
                     <div class="col-lg-4 mil-relative mil-mb-90">
 
-                        <h4 class="mil-up mil-mb-30">Our <span class="mil-thin">Monthly</span> <br>App <span class="mil-thin">Maintenance</span></h4>
-                        <p class="mil-up mil-mb-30">Keep your app up-to-date, secure, and performing at its best with our comprehensive monthly app maintenance and optimization services. We handle everything from bug fixes to performance improvements, so you can focus on growing your user base.</p>
+                        <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.MonthApp.OurSub<span class="mil-thin">@MultiLanguages.Resources.MonthApp.MonthlySub</span> <br>@MultiLanguages.Resources.MonthApp.AppSub <span class="mil-thin">@MultiLanguages.Resources.MonthApp.MaintenanceSub</span></h4>
+                        <p class="mil-up mil-mb-30">@MultiLanguages.Resources.MonthApp.Text1</p>
                         <div class="mil-up">
                             <a asp-controller="Home" asp-action="Started" class="mil-link mil-dark mil-arrow-place">
-                                <span>Subscribe Now</span>
+                                <span>@MultiLanguages.Resources.Shared.Subscribe</span>
                             </a>
                         </div>
 
@@ -44,7 +44,7 @@
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Monthly App Maintenance</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthApp.MonthlyAppMaintenance</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -52,13 +52,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">Our monthly app maintenance service ensures your application is running smoothly with regular updates, security patches, and bug fixes. We ensure your app remains functional and up-to-date across all platforms.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthApp.Text2</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Performance Optimization</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthApp.PerformanceOptimization</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -66,13 +66,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We optimize your app for peak performance, ensuring quick load times, smooth user experiences, and efficient memory usage. Our service ensures your app runs seamlessly across all devices, reducing user churn.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthApp.Text3</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Security Updates & Monitoring</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthApp.SecurityUpdates</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -80,13 +80,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We keep your app secure with monthly security updates and continuous monitoring for potential threats. This service ensures that your app stays protected from vulnerabilities, providing a safe environment for your users.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthApp.Text4</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">User Experience Enhancements</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthApp.UserExperienceEnhancements</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -94,13 +94,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We analyze user feedback and usage data to continually improve the user experience of your app. Our team implements changes and optimizations to keep your users engaged and satisfied with their experience.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthApp.Text5</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">App Store Optimization (ASO)</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthApp.AppStoreOptimization</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -108,13 +108,13 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We optimize your app for better visibility in app stores, increasing downloads and user engagement. Our ASO service includes keyword research, app description optimization, and regular updates to help your app rank higher and attract more users.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthApp.Text6</p>
                             </div>
                         </div>
 
                         <div class="mil-accordion-group mil-up">
                             <div class="mil-accordion-menu">
-                                <p class="mil-accordion-head">Crash Monitoring & Bug Fixes</p>
+                                <p class="mil-accordion-head">@MultiLanguages.Resources.MonthApp.CrashMonitoring</p>
 
                                 <div class="mil-symbol mil-h3">
                                     <div class="mil-plus">+</div>
@@ -122,7 +122,7 @@
                                 </div>
                             </div>
                             <div class="mil-accordion-content">
-                                <p class="mil-mb-30">We provide continuous crash monitoring and bug fixing services to ensure your app runs smoothly. Our team promptly addresses any issues that arise, minimizing downtime and ensuring a stable user experience.</p>
+                                <p class="mil-mb-30">@MultiLanguages.Resources.MonthApp.text7</p>
                             </div>
                         </div>
 

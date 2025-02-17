@@ -59,5 +59,203 @@ namespace MultiLanguages.Resources {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to App Maintenance.
+        /// </summary>
+        public static string AppMaintenance {
+            get {
+                return ResourceManager.GetString("AppMaintenance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to App Store Optimization (ASO).
+        /// </summary>
+        public static string AppStoreOptimization {
+            get {
+                return ResourceManager.GetString("AppStoreOptimization", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to App.
+        /// </summary>
+        public static string AppSub {
+            get {
+                return ResourceManager.GetString("AppSub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to App.
+        /// </summary>
+        public static string AppTitle {
+            get {
+                return ResourceManager.GetString("AppTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Crash Monitoring &amp; Bug Fixes.
+        /// </summary>
+        public static string CrashMonitoring {
+            get {
+                return ResourceManager.GetString("CrashMonitoring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maintenance.
+        /// </summary>
+        public static string MaintenanceSub {
+            get {
+                return ResourceManager.GetString("MaintenanceSub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maintenance &amp;.
+        /// </summary>
+        public static string MaintenanceTitle {
+            get {
+                return ResourceManager.GetString("MaintenanceTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly App Maintenance.
+        /// </summary>
+        public static string MonthlyAppMaintenance {
+            get {
+                return ResourceManager.GetString("MonthlyAppMaintenance", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly.
+        /// </summary>
+        public static string MonthlySub {
+            get {
+                return ResourceManager.GetString("MonthlySub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly .
+        /// </summary>
+        public static string MonthlyTitle {
+            get {
+                return ResourceManager.GetString("MonthlyTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Optimization.
+        /// </summary>
+        public static string OptimizationTitle {
+            get {
+                return ResourceManager.GetString("OptimizationTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string OurSub {
+            get {
+                return ResourceManager.GetString("OurSub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Performance Optimization.
+        /// </summary>
+        public static string PerformanceOptimization {
+            get {
+                return ResourceManager.GetString("PerformanceOptimization", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Security Updates &amp; Monitoring.
+        /// </summary>
+        public static string SecurityUpdates {
+            get {
+                return ResourceManager.GetString("SecurityUpdates", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Keep your app up-to-date, secure, and performing at its best with our comprehensive monthly app maintenance and optimization services. We handle everything from bug fixes to performance improvements, so you can focus on growing your user base..
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our monthly app maintenance service ensures your application is running smoothly with regular updates, security patches, and bug fixes. We ensure your app remains functional and up-to-date across all platforms..
+        /// </summary>
+        public static string Text2 {
+            get {
+                return ResourceManager.GetString("Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We optimize your app for peak performance, ensuring quick load times, smooth user experiences, and efficient memory usage. Our service ensures your app runs seamlessly across all devices, reducing user churn..
+        /// </summary>
+        public static string Text3 {
+            get {
+                return ResourceManager.GetString("Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We keep your app secure with monthly security updates and continuous monitoring for potential threats. This service ensures that your app stays protected from vulnerabilities, providing a safe environment for your users..
+        /// </summary>
+        public static string Text4 {
+            get {
+                return ResourceManager.GetString("Text4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We analyze user feedback and usage data to continually improve the user experience of your app. Our team implements changes and optimizations to keep your users engaged and satisfied with their experience..
+        /// </summary>
+        public static string Text5 {
+            get {
+                return ResourceManager.GetString("Text5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We optimize your app for better visibility in app stores, increasing downloads and user engagement. Our ASO service includes keyword research, app description optimization, and regular updates to help your app rank higher and attract more users..
+        /// </summary>
+        public static string Text6 {
+            get {
+                return ResourceManager.GetString("Text6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We provide continuous crash monitoring and bug fixing services to ensure your app runs smoothly. Our team promptly addresses any issues that arise, minimizing downtime and ensuring a stable user experience..
+        /// </summary>
+        public static string text7 {
+            get {
+                return ResourceManager.GetString("text7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to User Experience Enhancements.
+        /// </summary>
+        public static string UserExperienceEnhancements {
+            get {
+                return ResourceManager.GetString("UserExperienceEnhancements", resourceCulture);
+            }
+        }
     }
 }
