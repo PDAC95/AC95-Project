@@ -178,15 +178,6 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Subscribe Now.
-        /// </summary>
-        public static string Subscribe {
-            get {
-                return ResourceManager.GetString("Subscribe", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to Ensure your website stays updated, secure, and running smoothly with our comprehensive monthly web maintenance and optimization services. We take care of everything, from performance improvements to regular updates, so you can focus on growing your business..
         /// </summary>
         public static string Text1 {

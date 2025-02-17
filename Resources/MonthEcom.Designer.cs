@@ -59,5 +59,185 @@ namespace MultiLanguages.Resources {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customer Support Integration.
+        /// </summary>
+        public static string CustomerSupportIntegration {
+            get {
+                return ResourceManager.GetString("CustomerSupportIntegration", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-commerce.
+        /// </summary>
+        public static string E_commerceSub {
+            get {
+                return ResourceManager.GetString("E-commerceSub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-commerce.
+        /// </summary>
+        public static string E_commerceTitle {
+            get {
+                return ResourceManager.GetString("E-commerceTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-commerce Management.
+        /// </summary>
+        public static string EcommerceManagement {
+            get {
+                return ResourceManager.GetString("EcommerceManagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Maintenance &amp;.
+        /// </summary>
+        public static string MaintenanceTitle {
+            get {
+                return ResourceManager.GetString("MaintenanceTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Management.
+        /// </summary>
+        public static string ManagementTitle {
+            get {
+                return ResourceManager.GetString("ManagementTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly Store Maintenance.
+        /// </summary>
+        public static string MonthlyStore {
+            get {
+                return ResourceManager.GetString("MonthlyStore", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly.
+        /// </summary>
+        public static string MonthlySub {
+            get {
+                return ResourceManager.GetString("MonthlySub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly.
+        /// </summary>
+        public static string MonthlyTitle {
+            get {
+                return ResourceManager.GetString("MonthlyTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string Our {
+            get {
+                return ResourceManager.GetString("Our", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to E-commerce Performance Optimization.
+        /// </summary>
+        public static string PerformanceOptimization {
+            get {
+                return ResourceManager.GetString("PerformanceOptimization", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Product &amp; Inventory Management.
+        /// </summary>
+        public static string Product {
+            get {
+                return ResourceManager.GetString("Product", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Security &amp; Payment Gateway Updates.
+        /// </summary>
+        public static string SecurityPayment {
+            get {
+                return ResourceManager.GetString("SecurityPayment", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        public static string ServicesSub {
+            get {
+                return ResourceManager.GetString("ServicesSub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Keep your online store running smoothly with our comprehensive monthly e-commerce maintenance and management services. From product updates to performance optimization, we ensure your store remains competitive and efficient..
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We provide monthly maintenance for your e-commerce store, ensuring it runs smoothly with regular updates, security patches, and performance checks. We handle all the technical aspects so you can focus on growing your business..
+        /// </summary>
+        public static string Text2 {
+            get {
+                return ResourceManager.GetString("Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We manage your product listings and inventory, ensuring all items are up-to-date, accurately described, and available for purchase. From adding new products to updating stock, we handle it all seamlessly..
+        /// </summary>
+        public static string Text3 {
+            get {
+                return ResourceManager.GetString("Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We optimize your online store&apos;s performance for speed, user experience, and conversion rates. From faster load times to improved checkout processes, we help you boost sales and customer satisfaction..
+        /// </summary>
+        public static string Text4 {
+            get {
+                return ResourceManager.GetString("Text4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ensure your e-commerce platform is always secure and up-to-date with the latest payment gateway and security updates. We monitor your website&apos;s security and ensure safe transactions for your customers..
+        /// </summary>
+        public static string Text5 {
+            get {
+                return ResourceManager.GetString("Text5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We integrate and manage customer support solutions, ensuring your customers can easily contact you for inquiries, returns, or issues. Our team ensures that your customer support system remains efficient and responsive..
+        /// </summary>
+        public static string Text6 {
+            get {
+                return ResourceManager.GetString("Text6", resourceCulture);
+            }
+        }
     }
 }

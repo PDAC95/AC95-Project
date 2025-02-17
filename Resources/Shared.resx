@@ -156,6 +156,9 @@
   <data name="Start" xml:space="preserve">
     <value>Start Your Project</value>
   </data>
+  <data name="Subscribe" xml:space="preserve">
+    <value>Subscribe Now</value>
+  </data>
   <data name="View" xml:space="preserve">
     <value>View all</value>
   </data>
