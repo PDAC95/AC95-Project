@@ -61,11 +61,155 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Agile Development Teams.
+        /// </summary>
+        public static string AgileDevelopmentTeams {
+            get {
+                return ResourceManager.GetString("AgileDevelopmentTeams", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Custom Sprint Engagement.
+        /// </summary>
+        public static string CustomSprintEngagement {
+            get {
+                return ResourceManager.GetString("CustomSprintEngagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flexible Roles per Sprint.
+        /// </summary>
+        public static string FlexibleRolesperSprint {
+            get {
+                return ResourceManager.GetString("FlexibleRolesperSprint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to for a.
+        /// </summary>
+        public static string fora {
+            get {
+                return ResourceManager.GetString("fora", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hire a.
+        /// </summary>
+        public static string Hirea {
+            get {
+                return ResourceManager.GetString("Hirea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hire a Team for a Sprint.
         /// </summary>
         public static string HireaTeamforaSprint {
             get {
                 return ResourceManager.GetString("HireaTeamforaSprint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hiring.
+        /// </summary>
+        public static string Hiring {
+            get {
+                return ResourceManager.GetString("Hiring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Solutions.
+        /// </summary>
+        public static string Solutions {
+            get {
+                return ResourceManager.GetString("Solutions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sprint.
+        /// </summary>
+        public static string Sprint {
+            get {
+                return ResourceManager.GetString("Sprint", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sprint-Based.
+        /// </summary>
+        public static string Sprint_Based {
+            get {
+                return ResourceManager.GetString("Sprint-Based", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Sprint Management.
+        /// </summary>
+        public static string SprintManagement {
+            get {
+                return ResourceManager.GetString("SprintManagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Team.
+        /// </summary>
+        public static string Team {
+            get {
+                return ResourceManager.GetString("Team", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to With AC95, you can hire experts for just a single sprint. This is ideal for projects requiring quick execution or adding specialized roles to your existing team, such as developers, designers, QA engineers, and more. We provide flexible hiring tailored to your sprint&apos;s needs, ensuring smooth collaboration and delivery..
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hire a cross-functional team or individual experts like frontend or backend developers, QA engineers, DevOps, and more for your sprint. Our professionals integrate seamlessly with your team to ensure fast, high-quality output aligned with Agile methodologies..
+        /// </summary>
+        public static string Text2 {
+            get {
+                return ResourceManager.GetString("Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We can manage the entire sprint for you, ensuring tasks are prioritized, teams are synchronized, and deliverables meet deadlines. Let our experienced scrum masters and project managers handle the coordination while you focus on your business goals..
+        /// </summary>
+        public static string Text3 {
+            get {
+                return ResourceManager.GetString("Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Each sprint is unique, and so are the roles you may require. Whether it&apos;s adding a frontend developer, a QA tester, or a UX designer for just one sprint, we provide exactly the expertise you need to keep your project moving forward..
+        /// </summary>
+        public static string Text4 {
+            get {
+                return ResourceManager.GetString("Text4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You decide how much control you want. Manage the sprint yourself with the additional team members you hire, or let us handle everything from task assignment to sprint review. This customizable engagement ensures flexibility for your evolving project needs..
+        /// </summary>
+        public static string Text5 {
+            get {
+                return ResourceManager.GetString("Text5", resourceCulture);
             }
         }
     }

@@ -117,7 +117,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AgileDevelopmentTeams" xml:space="preserve">
+    <value>Equipos de Desarrollo Agile</value>
+  </data>
+  <data name="CustomSprintEngagement" xml:space="preserve">
+    <value>Compromiso Personalizado por Sprint</value>
+  </data>
+  <data name="FlexibleRolesperSprint" xml:space="preserve">
+    <value>Roles Flexibles por Sprint</value>
+  </data>
+  <data name="fora" xml:space="preserve">
+    <value>por</value>
+  </data>
+  <data name="Hirea" xml:space="preserve">
+    <value>Contrata un</value>
+  </data>
   <data name="HireaTeamforaSprint" xml:space="preserve">
     <value>Contrata un Equipo por Sprint</value>
+  </data>
+  <data name="Hiring" xml:space="preserve">
+    <value>Contratación</value>
+  </data>
+  <data name="Solutions" xml:space="preserve">
+    <value>por Sprint</value>
+  </data>
+  <data name="Sprint" xml:space="preserve">
+    <value>Sprint</value>
+  </data>
+  <data name="Sprint-Based" xml:space="preserve">
+    <value>Soluciones de</value>
+  </data>
+  <data name="SprintManagement" xml:space="preserve">
+    <value>Gestión de Sprint</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>Equipo</value>
+  </data>
+  <data name="Text1" xml:space="preserve">
+    <value>Con AC95, puedes contratar expertos por un solo sprint. Esta opción es ideal para proyectos que requieren ejecución rápida o para agregar roles especializados a tu equipo actual, como desarrolladores, diseñadores, ingenieros de QA y más. Ofrecemos una contratación flexible adaptada a las necesidades de tu sprint, asegurando una colaboración fluida y una entrega eficiente.</value>
+  </data>
+  <data name="Text2" xml:space="preserve">
+    <value>Contrata un equipo multifuncional o expertos individuales como desarrolladores frontend o backend, ingenieros de QA, DevOps y más para tu sprint. Nuestros profesionales se integran perfectamente con tu equipo, garantizando resultados rápidos y de alta calidad alineados con metodologías ágiles.</value>
+  </data>
+  <data name="Text3" xml:space="preserve">
+    <value>Podemos gestionar todo el sprint por ti, asegurando que las tareas se prioricen, los equipos estén sincronizados y los entregables cumplan con los plazos. Deja que nuestros experimentados scrum masters y gestores de proyectos se encarguen de la coordinación mientras tú te enfocas en los objetivos de tu negocio.</value>
+  </data>
+  <data name="Text4" xml:space="preserve">
+    <value>Cada sprint es único, y lo mismo ocurre con los roles que puedas necesitar. Ya sea un desarrollador frontend, un tester de QA o un diseñador UX por un solo sprint, te proporcionamos la experiencia exacta para mantener tu proyecto en marcha.</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>Tú decides el nivel de control que deseas. Puedes gestionar el sprint con los miembros adicionales que contrates o dejar que nosotros nos encarguemos de todo, desde la asignación de tareas hasta la revisión del sprint. Este compromiso personalizado garantiza la flexibilidad que tu proyecto necesita.</value>
   </data>
 </root>
