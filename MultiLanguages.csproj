@@ -81,6 +81,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Teamproject.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\Teamsprint.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Teamsprint.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\Web.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -186,6 +191,13 @@
     <EmbeddedResource Update="Resources\Teamproject.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Teamproject.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Teamsprint.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Teamsprint.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Teamsprint.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\Web.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

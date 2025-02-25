@@ -61,11 +61,173 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Custom Development Teams.
+        /// </summary>
+        public static string CustomDevelopmentTeams {
+            get {
+                return ResourceManager.GetString("CustomDevelopmentTeams", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Customizable Engagement.
+        /// </summary>
+        public static string CustomizableEngagement {
+            get {
+                return ResourceManager.GetString("CustomizableEngagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flexible Roles.
+        /// </summary>
+        public static string FlexibleRoles {
+            get {
+                return ResourceManager.GetString("FlexibleRoles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to for Your .
+        /// </summary>
+        public static string forYour {
+            get {
+                return ResourceManager.GetString("forYour", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Full Project Management.
+        /// </summary>
+        public static string FullProjectManagement {
+            get {
+                return ResourceManager.GetString("FullProjectManagement", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hire a .
+        /// </summary>
+        public static string Hirea {
+            get {
+                return ResourceManager.GetString("Hirea", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Hire a Team by Project.
         /// </summary>
         public static string HireaTeambyProject {
             get {
                 return ResourceManager.GetString("HireaTeambyProject", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hiring.
+        /// </summary>
+        public static string Hiring {
+            get {
+                return ResourceManager.GetString("Hiring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our .
+        /// </summary>
+        public static string Our {
+            get {
+                return ResourceManager.GetString("Our", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project.
+        /// </summary>
+        public static string Project {
+            get {
+                return ResourceManager.GetString("Project", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project-Based.
+        /// </summary>
+        public static string Project_Based {
+            get {
+                return ResourceManager.GetString("Project-Based", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        public static string Services {
+            get {
+                return ResourceManager.GetString("Services", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start Your Project.
+        /// </summary>
+        public static string StartYourProject {
+            get {
+                return ResourceManager.GetString("StartYourProject", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Team.
+        /// </summary>
+        public static string Team {
+            get {
+                return ResourceManager.GetString("Team", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At AC95, we offer flexible project-based hiring solutions. You can choose from our skilled professionals—developers, designers, project managers—and decide whether you&apos;d like to manage the project internally or have us handle the management for you. This allows you to maintain control over your project while leveraging our expertise..
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hire a development team tailored to your project&apos;s needs. Whether you&apos;re building a mobile app, a website, or a custom software solution, our developers are ready to help. You can decide if you&apos;d like us to manage the project or if you&apos;d prefer to lead the process yourself..
+        /// </summary>
+        public static string Text2 {
+            get {
+                return ResourceManager.GetString("Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Leave the project management to us. Our experienced project managers ensure everything stays on track, coordinating between teams, managing deadlines, and delivering results that meet your expectations..
+        /// </summary>
+        public static string Text3 {
+            get {
+                return ResourceManager.GetString("Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We offer flexible roles so you can hire exactly what your project requires. From frontend and backend developers to UX/UI designers, DevOps engineers, and project managers, we provide the expertise you need to succeed..
+        /// </summary>
+        public static string Text4 {
+            get {
+                return ResourceManager.GetString("Text4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to You choose how involved you want to be. Manage the project internally with our team acting as your support, or let us take full control of the project’s execution. This customizable engagement allows you to tailor the workflow to your preferences..
+        /// </summary>
+        public static string Text5 {
+            get {
+                return ResourceManager.GetString("Text5", resourceCulture);
             }
         }
     }

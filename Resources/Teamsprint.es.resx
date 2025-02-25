@@ -117,61 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CustomDevelopmentTeams" xml:space="preserve">
-    <value>Equipos de Desarrollo Personalizados</value>
-  </data>
-  <data name="CustomizableEngagement" xml:space="preserve">
-    <value>Compromiso Personalizado</value>
-  </data>
-  <data name="FlexibleRoles" xml:space="preserve">
-    <value>Roles Flexibles</value>
-  </data>
-  <data name="forYour" xml:space="preserve">
-    <value>para tu</value>
-  </data>
-  <data name="FullProjectManagement" xml:space="preserve">
-    <value>Gestión Completa de Proyectos</value>
-  </data>
-  <data name="Hirea" xml:space="preserve">
-    <value>Contrata un </value>
-  </data>
-  <data name="HireaTeambyProject" xml:space="preserve">
-    <value>Contrata un Equipo por Proyecto</value>
-  </data>
-  <data name="Hiring" xml:space="preserve">
-    <value>de Contratación</value>
-  </data>
-  <data name="Our" xml:space="preserve">
-    <value>Nuestros</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyecto</value>
-  </data>
-  <data name="Project-Based" xml:space="preserve">
-    <value>Servicios</value>
-  </data>
-  <data name="Services" xml:space="preserve">
-    <value>por Proyecto</value>
-  </data>
-  <data name="StartYourProject" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
-  </data>
-  <data name="Team" xml:space="preserve">
-    <value>Equipo</value>
-  </data>
-  <data name="Text1" xml:space="preserve">
-    <value>En AC95, ofrecemos soluciones flexibles de contratación por proyecto. Puedes elegir entre nuestros profesionales capacitados—desarrolladores, diseñadores, gestores de proyectos—y decidir si prefieres gestionar el proyecto internamente o dejar que nosotros nos encarguemos de la gestión. Esto te permite mantener el control de tu proyecto mientras aprovechas nuestra experiencia.</value>
-  </data>
-  <data name="Text2" xml:space="preserve">
-    <value>Contrata un equipo de desarrollo adaptado a las necesidades de tu proyecto. Ya sea que estés creando una aplicación móvil, un sitio web o una solución de software personalizada, nuestros desarrolladores están listos para ayudarte. Tú decides si prefieres que gestionemos el proyecto o liderarlo por tu cuenta.</value>
-  </data>
-  <data name="Text3" xml:space="preserve">
-    <value>Deja la gestión del proyecto en nuestras manos. Nuestros experimentados gestores de proyectos se encargan de que todo avance según lo planeado, coordinando equipos, gestionando plazos y entregando resultados que cumplan con tus expectativas.</value>
-  </data>
-  <data name="Text4" xml:space="preserve">
-    <value>Ofrecemos roles flexibles para que puedas contratar exactamente lo que tu proyecto necesita. Desde desarrolladores frontend y backend hasta diseñadores UX/UI, ingenieros DevOps y gestores de proyectos, te brindamos la experiencia necesaria para alcanzar el éxito.</value>
-  </data>
-  <data name="Text5" xml:space="preserve">
-    <value>Tú decides el nivel de involucramiento que deseas. Puedes gestionar el proyecto internamente con nuestro equipo como soporte o dejarnos tomar el control total de la ejecución. Este compromiso personalizado te permite adaptar el flujo de trabajo a tus necesidades.</value>
+  <data name="HireaTeamforaSprint" xml:space="preserve">
+    <value>Contrata un Equipo por Sprint</value>
   </data>
 </root>

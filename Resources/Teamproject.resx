@@ -117,7 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="CustomDevelopmentTeams" xml:space="preserve">
+    <value>Custom Development Teams</value>
+  </data>
+  <data name="CustomizableEngagement" xml:space="preserve">
+    <value>Customizable Engagement</value>
+  </data>
+  <data name="FlexibleRoles" xml:space="preserve">
+    <value>Flexible Roles</value>
+  </data>
+  <data name="forYour" xml:space="preserve">
+    <value>for Your </value>
+  </data>
+  <data name="FullProjectManagement" xml:space="preserve">
+    <value>Full Project Management</value>
+  </data>
+  <data name="Hirea" xml:space="preserve">
+    <value>Hire a </value>
+  </data>
   <data name="HireaTeambyProject" xml:space="preserve">
     <value>Hire a Team by Project</value>
+  </data>
+  <data name="Hiring" xml:space="preserve">
+    <value>Hiring</value>
+  </data>
+  <data name="Our" xml:space="preserve">
+    <value>Our </value>
+  </data>
+  <data name="Project" xml:space="preserve">
+    <value>Project</value>
+  </data>
+  <data name="Project-Based" xml:space="preserve">
+    <value>Project-Based</value>
+  </data>
+  <data name="Services" xml:space="preserve">
+    <value>Services</value>
+  </data>
+  <data name="StartYourProject" xml:space="preserve">
+    <value>Start Your Project</value>
+  </data>
+  <data name="Team" xml:space="preserve">
+    <value>Team</value>
+  </data>
+  <data name="Text1" xml:space="preserve">
+    <value>At AC95, we offer flexible project-based hiring solutions. You can choose from our skilled professionals—developers, designers, project managers—and decide whether you'd like to manage the project internally or have us handle the management for you. This allows you to maintain control over your project while leveraging our expertise.</value>
+  </data>
+  <data name="Text2" xml:space="preserve">
+    <value>Hire a development team tailored to your project's needs. Whether you're building a mobile app, a website, or a custom software solution, our developers are ready to help. You can decide if you'd like us to manage the project or if you'd prefer to lead the process yourself.</value>
+  </data>
+  <data name="Text3" xml:space="preserve">
+    <value>Leave the project management to us. Our experienced project managers ensure everything stays on track, coordinating between teams, managing deadlines, and delivering results that meet your expectations.</value>
+  </data>
+  <data name="Text4" xml:space="preserve">
+    <value>We offer flexible roles so you can hire exactly what your project requires. From frontend and backend developers to UX/UI designers, DevOps engineers, and project managers, we provide the expertise you need to succeed.</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>You choose how involved you want to be. Manage the project internally with our team acting as your support, or let us take full control of the project’s execution. This customizable engagement allows you to tailor the workflow to your preferences.</value>
   </data>
 </root>
