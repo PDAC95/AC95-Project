@@ -124,6 +124,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Hire a Team.
+        /// </summary>
+        public static string HireaTeam {
+            get {
+                return ResourceManager.GetString("HireaTeam", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Home.
         /// </summary>
         public static string Home {

@@ -138,6 +138,9 @@
   <data name="GetStarted" xml:space="preserve">
     <value>Comenzar</value>
   </data>
+  <data name="HireaTeam" xml:space="preserve">
+    <value>Contrata un Equipo</value>
+  </data>
   <data name="Home" xml:space="preserve">
     <value>Inicio</value>
   </data>

@@ -138,6 +138,9 @@
   <data name="GetStarted" xml:space="preserve">
     <value>Get Started</value>
   </data>
+  <data name="HireaTeam" xml:space="preserve">
+    <value>Hire a Team</value>
+  </data>
   <data name="Home" xml:space="preserve">
     <value>Home</value>
   </data>

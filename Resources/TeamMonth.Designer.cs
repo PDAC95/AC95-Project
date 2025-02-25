@@ -59,5 +59,176 @@ namespace MultiLanguages.Resources {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Custom Development Teams.
+        /// </summary>
+        public static string CustomDevelopmentTeams {
+            get {
+                return ResourceManager.GetString("CustomDevelopmentTeams", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Flexible.
+        /// </summary>
+        public static string Flexible {
+            get {
+                return ResourceManager.GetString("Flexible", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Frontend &amp; Backend Developers.
+        /// </summary>
+        public static string Frontend_BackendDevelopers {
+            get {
+                return ResourceManager.GetString("Frontend&BackendDevelopers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hire a Team Monthly.
+        /// </summary>
+        public static string HireaTeamMonthly {
+            get {
+                return ResourceManager.GetString("HireaTeamMonthly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hiring.
+        /// </summary>
+        public static string Hiring {
+            get {
+                return ResourceManager.GetString("Hiring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly.
+        /// </summary>
+        public static string Monthly {
+            get {
+                return ResourceManager.GetString("Monthly", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Monthly.
+        /// </summary>
+        public static string Monthsub {
+            get {
+                return ResourceManager.GetString("Monthsub", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string Our {
+            get {
+                return ResourceManager.GetString("Our", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Project Managers.
+        /// </summary>
+        public static string Project_Managers {
+            get {
+                return ResourceManager.GetString("Project Managers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        public static string Services {
+            get {
+                return ResourceManager.GetString("Services", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start Hiring.
+        /// </summary>
+        public static string StartHiring {
+            get {
+                return ResourceManager.GetString("StartHiring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Team.
+        /// </summary>
+        public static string Team {
+            get {
+                return ResourceManager.GetString("Team", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Team Hiring.
+        /// </summary>
+        public static string TeamHiring {
+            get {
+                return ResourceManager.GetString("TeamHiring", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to AC95 offers flexible monthly hiring options for development teams. Whether you need frontend developers, backend experts, UX/UI designers, or project managers, we provide skilled professionals for only the months you need them. Scale your team up or down based on project requirements and budget, ensuring maximum flexibility..
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our team of experienced frontend and backend developers is available for hire on a monthly basis. Whether you&apos;re building a website, web app, or software solution, we provide the technical expertise to bring your vision to life..
+        /// </summary>
+        public static string Text2 {
+            get {
+                return ResourceManager.GetString("Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Enhance your project&apos;s user experience with our UX/UI designers. Available on a monthly basis, they work alongside your team to design interfaces that are intuitive, engaging, and tailored to your users&apos; needs..
+        /// </summary>
+        public static string Text3 {
+            get {
+                return ResourceManager.GetString("Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Ensure your project stays on track with our experienced project managers. Available for monthly contracts, they coordinate the team, manage timelines, and ensure that deliverables meet your expectations..
+        /// </summary>
+        public static string Text4 {
+            get {
+                return ResourceManager.GetString("Text4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hire a custom team of developers, designers, and managers based on your project needs. Add or remove team members as needed, providing you with complete flexibility to adapt to changing project requirements without long-term commitments..
+        /// </summary>
+        public static string Text5 {
+            get {
+                return ResourceManager.GetString("Text5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to UX/UI Designers.
+        /// </summary>
+        public static string UX_UIDesigners {
+            get {
+                return ResourceManager.GetString("UX/UIDesigners", resourceCulture);
+            }
+        }
     }
 }

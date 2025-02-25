@@ -117,61 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CustomDevelopmentTeams" xml:space="preserve">
-    <value>Equipos de Desarrollo Personalizados</value>
-  </data>
-  <data name="Flexible" xml:space="preserve">
-    <value>Contratación</value>
-  </data>
-  <data name="Frontend&amp;BackendDevelopers" xml:space="preserve">
-    <value>Desarrolladores Frontend y Backend</value>
-  </data>
-  <data name="HireaTeamMonthly" xml:space="preserve">
-    <value>Contrata un Equipo Mensualmente</value>
-  </data>
-  <data name="Hiring" xml:space="preserve">
-    <value>Flexibles</value>
-  </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Mensual</value>
-  </data>
-  <data name="Monthsub" xml:space="preserve">
-    <value>Servicios</value>
-  </data>
-  <data name="Our" xml:space="preserve">
-    <value>Nuestros</value>
-  </data>
-  <data name="Project Managers" xml:space="preserve">
-    <value>Project Managers</value>
-  </data>
-  <data name="Services" xml:space="preserve">
-    <value>Mensual de Equipos</value>
-  </data>
-  <data name="StartHiring" xml:space="preserve">
-    <value>Comienza a Contratar</value>
-  </data>
-  <data name="Team" xml:space="preserve">
-    <value>de Equipos</value>
-  </data>
-  <data name="TeamHiring" xml:space="preserve">
-    <value>de Contratación</value>
-  </data>
-  <data name="Text1" xml:space="preserve">
-    <value>AC95 ofrece opciones flexibles de contratación mensual para equipos de desarrollo. Ya sea que necesites desarrolladores frontend, expertos en backend, diseñadores UX/UI o gestores de proyectos, te proporcionamos profesionales capacitados por los meses que los necesites. Ajusta el tamaño de tu equipo según los requerimientos del proyecto y tu presupuesto, garantizando la máxima flexibilidad.</value>
-  </data>
-  <data name="Text2" xml:space="preserve">
-    <value>Nuestro equipo de desarrolladores frontend y backend está disponible para contratación mensual. Ya sea que estés creando un sitio web, una aplicación web o una solución de software, te ofrecemos la experiencia técnica necesaria para hacer realidad tu visión.</value>
-  </data>
-  <data name="Text3" xml:space="preserve">
-    <value>Mejora la experiencia de usuario de tu proyecto con nuestros diseñadores UX/UI. Disponibles para contratación mensual, trabajan junto a tu equipo para diseñar interfaces intuitivas, atractivas y adaptadas a las necesidades de tus usuarios.</value>
-  </data>
-  <data name="Text4" xml:space="preserve">
-    <value>Asegura que tu proyecto se mantenga en el camino correcto con nuestros experimentados gestores de proyectos. Disponibles para contratación mensual, coordinan el equipo, gestionan los plazos y garantizan que los entregables cumplan con tus expectativas.</value>
-  </data>
-  <data name="Text5" xml:space="preserve">
-    <value>Contrata un equipo personalizado de desarrolladores, diseñadores y gestores según las necesidades de tu proyecto. Agrega o elimina miembros según sea necesario, brindándote total flexibilidad para adaptarte a los cambios del proyecto sin compromisos a largo plazo.</value>
-  </data>
-  <data name="UX/UIDesigners" xml:space="preserve">
-    <value>Diseñadores UX/UI</value>
+  <data name="HireaTeambyProject" xml:space="preserve">
+    <value>Hire a Team by Project</value>
   </data>
 </root>
