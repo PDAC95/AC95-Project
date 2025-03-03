@@ -117,58 +117,61 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="BrandIdentityLogoDesign" xml:space="preserve">
+    <value>Identidad de Marca y Diseño de Logotipo</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="CustomGraphicDesignSolutions" xml:space="preserve">
+    <value>Soluciones Personalizadas de Diseño Gráfico</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="ExploreServices" xml:space="preserve">
+    <value>Explorar Servicios</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+  <data name="GraphicDesign" xml:space="preserve">
+    <value>Innovadoras de Diseño Gráfico</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="GraphicDesignService" xml:space="preserve">
+    <value>Servicio de Diseño Gráfico</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
+  <data name="GraphicDesignTitle" xml:space="preserve">
+    <value>Servicios de </value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="Innovative" xml:space="preserve">
+    <value>Soluciones </value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
+  <data name="MarketingAdvertisingDesign" xml:space="preserve">
+    <value>Diseño para Marketing y Publicidad</value>
   </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
+  <data name="Our" xml:space="preserve">
+    <value>Nuestros</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
+  <data name="Services" xml:space="preserve">
+    <value>Diseño Gráfico</value>
   </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
+  <data name="SocialMediaGraphics" xml:space="preserve">
+    <value>Gráficos para Redes Sociales</value>
   </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
+  <data name="Solutionsfor" xml:space="preserve">
+    <value>para </value>
   </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
+  <data name="StartYourDesignProject" xml:space="preserve">
+    <value>Inicia tu Proyecto de Diseño</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
+  <data name="Text1" xml:space="preserve">
+    <value>En AC95, ofrecemos soluciones de diseño gráfico versátiles y adaptadas a las necesidades únicas de tu negocio. Desde la creación de identidad de marca hasta gráficos para redes sociales, te ayudamos a destacar con imágenes impactantes. Ya sea que estés lanzando una nueva marca o necesites renovar tus materiales de marketing, estamos aquí para ayudarte.</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Crea una identidad de marca memorable con un logotipo y activos de marca personalizados. Nuestro equipo trabaja de cerca contigo para plasmar perfectamente la visión de tu marca, ofreciendo paquetes de branding completos que incluyen logotipos, paletas de colores, tipografías y más.</value>
   </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Nuestro equipo de diseño crea materiales de marketing atractivos, como folletos, carteles, anuncios digitales y más. Ya sea que estés promocionando un nuevo producto o lanzando una campaña de marketing, ofrecemos diseños que captan la atención de tu audiencia y generan resultados.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
+  <data name="Text4" xml:space="preserve">
+    <value>Mejora tu presencia en línea con gráficos personalizados para todas las plataformas de redes sociales. Desde publicaciones y stories de Instagram hasta banners de Facebook y anuncios en LinkedIn, creamos imágenes creativas que reflejan tu marca y cautivan a tus seguidores.</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="Text5" xml:space="preserve">
+    <value>Si necesitas algo más personalizado, ofrecemos servicios de diseño gráfico adaptados a las necesidades específicas de tu negocio. Ya sea packaging, banners para eventos o materiales promocionales especializados, estamos aquí para dar vida a tus ideas con soluciones profesionales y creativas.</value>
+  </data>
+  <data name="YourBusiness" xml:space="preserve">
+    <value>Tu Negocio</value>
   </data>
 </root>

@@ -21,6 +21,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>App.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\Design.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Design.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\Ecommerce.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -35,6 +40,11 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>HowWeWork.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Marketing.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Marketing.resx</DependentUpon>
     </Compile>
     <Compile Update="Resources\Menu.Designer.cs">
       <DesignTime>True</DesignTime>
@@ -108,6 +118,13 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>App.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Design.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Design.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Design.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Resources\Ecommerce.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
@@ -128,6 +145,13 @@
     <EmbeddedResource Update="Resources\HowWeWork.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>HowWeWork.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Marketing.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Marketing.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Marketing.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\Menu.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

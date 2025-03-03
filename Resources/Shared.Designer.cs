@@ -88,6 +88,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Brand Solutions.
+        /// </summary>
+        public static string BrandSolutions {
+            get {
+                return ResourceManager.GetString("BrandSolutions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Category: .
         /// </summary>
         public static string Category {

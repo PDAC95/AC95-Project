@@ -126,6 +126,9 @@
   <data name="Author" xml:space="preserve">
     <value>Author:</value>
   </data>
+  <data name="BrandSolutions" xml:space="preserve">
+    <value>Brand Solutions</value>
+  </data>
   <data name="Category" xml:space="preserve">
     <value>Category: </value>
   </data>
