@@ -59,5 +59,167 @@ namespace MultiLanguages.Resources {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brand Positioning &amp; Online Reputation.
+        /// </summary>
+        public static string BrandPositioning {
+            get {
+                return ResourceManager.GetString("BrandPositioning", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Comprehensive.
+        /// </summary>
+        public static string Comprehensive {
+            get {
+                return ResourceManager.GetString("Comprehensive", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Digital Marketing.
+        /// </summary>
+        public static string DigitalMarketing {
+            get {
+                return ResourceManager.GetString("DigitalMarketing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Digital Marketing Services.
+        /// </summary>
+        public static string DigitalMarketingServices {
+            get {
+                return ResourceManager.GetString("DigitalMarketingServices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Digital Marketing.
+        /// </summary>
+        public static string DigitalMarketingTitle {
+            get {
+                return ResourceManager.GetString("DigitalMarketingTitle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Explore Services.
+        /// </summary>
+        public static string ExploreServices {
+            get {
+                return ResourceManager.GetString("ExploreServices", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Our.
+        /// </summary>
+        public static string Our {
+            get {
+                return ResourceManager.GetString("Our", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Search Engine Optimization (SEO) &amp; Analytics.
+        /// </summary>
+        public static string SEO {
+            get {
+                return ResourceManager.GetString("SEO", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Services.
+        /// </summary>
+        public static string Services {
+            get {
+                return ResourceManager.GetString("Services", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Social Media Marketing.
+        /// </summary>
+        public static string SocialMediaMarketing {
+            get {
+                return ResourceManager.GetString("SocialMediaMarketing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Solutions for.
+        /// </summary>
+        public static string Solutionsfor {
+            get {
+                return ResourceManager.GetString("Solutionsfor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to At AC95, we provide a full suite of digital marketing services to help your business thrive online. From SEO and brand positioning to social media campaigns and video marketing, our solutions are tailored to reach your audience and maximize your online presence..
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Boost your online visibility with our SEO strategies. We optimize your website for search engines to ensure higher rankings and increased traffic. We also provide comprehensive analytics to track the performance of your campaigns, allowing you to make data-driven decisions..
+        /// </summary>
+        public static string Text2 {
+            get {
+                return ResourceManager.GetString("Text2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Engage your audience on platforms like Instagram, Facebook, LinkedIn, and more. Our social media marketing services include content creation, ad campaigns, and community management to build your brand and connect with your followers effectively..
+        /// </summary>
+        public static string Text3 {
+            get {
+                return ResourceManager.GetString("Text3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Video is one of the most powerful tools in digital marketing. We create engaging video content for YouTube, social media, and websites, helping you tell your story and showcase your brand. From promotional videos to tutorials and product demos, we’ve got you covered..
+        /// </summary>
+        public static string Text4 {
+            get {
+                return ResourceManager.GetString("Text4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We help you position your brand effectively in the digital landscape. Through consistent messaging, creative branding, and reputation management, we ensure that your brand stands out and maintains a positive image online. We monitor reviews, ratings, and mentions to keep your brand’s reputation intact..
+        /// </summary>
+        public static string Text5 {
+            get {
+                return ResourceManager.GetString("Text5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Video Marketing &amp; Content Creation.
+        /// </summary>
+        public static string VideoMarketing {
+            get {
+                return ResourceManager.GetString("VideoMarketing", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Business.
+        /// </summary>
+        public static string YourBusiness {
+            get {
+                return ResourceManager.GetString("YourBusiness", resourceCulture);
+            }
+        }
     }
 }
