@@ -1,20 +1,47 @@
-using Microsoft.EntityFrameworkCore;  // Para Entity Framework Core
+﻿using Microsoft.AspNetCore.Localization;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using System.Globalization;
 using MultiLanguages.Models;  // Cambia "MultiLanguages" por el namespace correcto
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Agregar el servicio de Entity Framework Core con la cadena de conexi�n
+// 🔹 1. Agregar el servicio de Entity Framework Core con la cadena de conexión
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Add services to the container.
+// 🔹 2. Agregar servicios de localización
+builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
+
+// 🔹 3. Habilitar la localización de vistas
+builder.Services.AddMvc().AddViewLocalization();
+
+// 🔹 4. Configurar localización con cookies
+builder.Services.Configure<RequestLocalizationOptions>(options =>
+{
+    var supportedCultures = new[]
+    {
+        new CultureInfo("en"),
+        new CultureInfo("es")
+    };
+
+    options.DefaultRequestCulture = new RequestCulture("en");
+    options.SupportedCultures = supportedCultures;
+    options.SupportedUICultures = supportedCultures;
+    options.RequestCultureProviders.Insert(0, new CookieRequestCultureProvider());
+});
+
+// 🔹 5. Agregar servicios al contenedor
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<EmailService>();
 
-
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// 🔹 6. Aplicar la configuración de localización
+var localizationOptions = app.Services.GetRequiredService<IOptions<RequestLocalizationOptions>>().Value;
+app.UseRequestLocalization(localizationOptions);
+
+// 🔹 7. Configurar el pipeline de la aplicación
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -23,27 +50,10 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
-app.Use(async (context, next) =>
-{
-    string cookie = string.Empty;
-    if (context.Request.Cookies.TryGetValue("Language", out cookie))
-    {
-        System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo(cookie);
-        System.Threading.Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo(cookie);
-    }
-    else
-    {
-        System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en");
-        System.Threading.Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("en");
-    }
-    await next.Invoke();
-});
-
 app.UseAuthorization();
 
+// 🔹 8. Configurar las rutas
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
