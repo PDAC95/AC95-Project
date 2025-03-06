@@ -153,6 +153,9 @@
   <data name="Monthly" xml:space="preserve">
     <value>Monthly Plans</value>
   </data>
+  <data name="Project" xml:space="preserve">
+    <value>Project</value>
+  </data>
   <data name="ReadMore" xml:space="preserve">
     <value>Read more</value>
   </data>
