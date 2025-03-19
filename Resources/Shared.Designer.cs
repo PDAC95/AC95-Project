@@ -70,6 +70,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to AI Solutions for Business.
+        /// </summary>
+        public static string AI {
+            get {
+                return ResourceManager.GetString("AI", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to App Developtment.
         /// </summary>
         public static string AppDev {
