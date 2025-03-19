@@ -59,5 +59,140 @@ namespace MultiLanguages.Resources {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to About Your Project.
+        /// </summary>
+        public static string About {
+            get {
+                return ResourceManager.GetString("About", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Deadline / Timeline.
+        /// </summary>
+        public static string Deadline {
+            get {
+                return ResourceManager.GetString("Deadline", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tell us about your project in detail.
+        /// </summary>
+        public static string detail {
+            get {
+                return ResourceManager.GetString("detail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Estimated Budget.
+        /// </summary>
+        public static string EstimatedBudget {
+            get {
+                return ResourceManager.GetString("EstimatedBudget", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New Project.
+        /// </summary>
+        public static string NewProject {
+            get {
+                return ResourceManager.GetString("NewProject", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We promise not to disclose your personal information to third parties..
+        /// </summary>
+        public static string privacy {
+            get {
+                return ResourceManager.GetString("privacy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Send Message.
+        /// </summary>
+        public static string SendMessage {
+            get {
+                return ResourceManager.GetString("SendMessage", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Start.
+        /// </summary>
+        public static string Start {
+            get {
+                return ResourceManager.GetString("Start", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tell Us.
+        /// </summary>
+        public static string TellUs {
+            get {
+                return ResourceManager.GetString("TellUs", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Let&apos;s Bring Your Vision to Life.
+        /// </summary>
+        public static string Text1 {
+            get {
+                return ResourceManager.GetString("Text1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to How did you hear about us? (Optional).
+        /// </summary>
+        public static string us {
+            get {
+                return ResourceManager.GetString("us", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to What&apos;s your name?.
+        /// </summary>
+        public static string What {
+            get {
+                return ResourceManager.GetString("What", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to What type of project?.
+        /// </summary>
+        public static string Whattype {
+            get {
+                return ResourceManager.GetString("Whattype", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Email.
+        /// </summary>
+        public static string YourEmail {
+            get {
+                return ResourceManager.GetString("YourEmail", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Your Phone Number (Optional).
+        /// </summary>
+        public static string YourPhone {
+            get {
+                return ResourceManager.GetString("YourPhone", resourceCulture);
+            }
+        }
     }
 }
