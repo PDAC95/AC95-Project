@@ -171,6 +171,9 @@
   <data name="ReadMore" xml:space="preserve">
     <value>Read more</value>
   </data>
+  <data name="Servicescategories" xml:space="preserve">
+    <value>Services categories:</value>
+  </data>
   <data name="SoftwareDev" xml:space="preserve">
     <value>Software Development</value>
   </data>

@@ -116,6 +116,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Started.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\Team.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Team.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\TeamMonth.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -285,6 +290,13 @@
     <EmbeddedResource Update="Resources\Started.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Started.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Team.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Team.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Team.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\TeamMonth.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

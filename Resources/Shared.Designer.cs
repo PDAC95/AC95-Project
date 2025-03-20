@@ -223,6 +223,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Services categories:.
+        /// </summary>
+        public static string Servicescategories {
+            get {
+                return ResourceManager.GetString("Servicescategories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Software Development.
         /// </summary>
         public static string SoftwareDev {

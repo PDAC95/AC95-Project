@@ -13,12 +13,12 @@
                 </div>
                 <div class="container">
                     <ul class="mil-breadcrumbs mil-mb-60">
-                        <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                        <li><a asp-controller="Home" asp-action="Team">Hire a Team</a></li>
+                        <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                        <li><a asp-controller="Home" asp-action="Team">@MultiLanguages.Resources.Team.Hire</a></li>
                     </ul>
-                    <h1 class="mil-mb-60">Hire Your Own <span class="mil-thin">Team</span><br> on <span class="mil-thin">Your Terms</span></h1>
+                    <h1 class="mil-mb-60">@MultiLanguages.Resources.Team.HireYourOwn <span class="mil-thin">@MultiLanguages.Resources.Team.Teams</span><br> @MultiLanguages.Resources.Team.on <span class="mil-thin">@MultiLanguages.Resources.Team.YourTerms</span></h1>
                     <a href="#HireTeam" class="mil-link mil-dark mil-arrow-place">
-                        <span>Get Started</span>
+                        <span>@MultiLanguages.Resources.Shared.GetStarted</span>
                     </a>
                 </div>
             </div>
@@ -29,16 +29,16 @@
             <div class="container mil-p-120-120">
                 <div class="row align-items-center mil-mb-30">
                     <div class="col-lg-4 mil-mb-30">
-                        <h3 class="mil-up">Services categories:</h3>
+                        <h3 class="mil-up">@MultiLanguages.Resources.Shared.Servicescategories</h3>
                     </div>
                     <div class="col-lg-8 mil-mb-30">
                         <div class="mil-adaptive-right mil-up">
 
                             <ul class="mil-category-list">
-                                <li><a asp-controller="Home" asp-action="Services">Project</a></li>
-                                <li><a asp-controller="Home" asp-action="Monthly">Monthly</a></li>
-                                <li><a asp-controller="Home" asp-action="Team" class="mil-active">Hire a Team</a></li>
-                                <li><a asp-controller="Home" asp-action="Brand">Brand Solutions</a></li>
+                                <li><a asp-controller="Home" asp-action="Services">@MultiLanguages.Resources.Shared.Project</a></li>
+                                <li><a asp-controller="Home" asp-action="Monthly">@MultiLanguages.Resources.Shared.Monthly</a></li>
+                                <li><a asp-controller="Home" asp-action="Team" class="mil-active">@MultiLanguages.Resources.Shared.HireaTeam</a></li>
+                                <li><a asp-controller="Home" asp-action="Brand">@MultiLanguages.Resources.Shared.BrandSolutions</a></li>
                             </ul>
                         </div>
                     </div>
@@ -49,14 +49,14 @@
                         <a asp-controller="Home" asp-action="Teammonth" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                             <div class="mil-post-descr">
                                 <div class="mil-labels mil-up mil-mb-30">
-                                    <div class="mil-label mil-upper mil-accent">TEAM HIRING</div>
+                                    <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Team.TEAMHIRING</div>
                                 </div>
-                                <h4 class="mil-up mil-mb-30">Hire by the Month</h4>
+                                <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Team.HirebytheMonth</h4>
                                 <p class="mil-post-text mil-up mil-mb-30">
-                                    Get a dedicated team of professionals such as developers, project managers, or scrum masters to support your business on a monthly basis. Ideal for ongoing projects or continuous development needs.
+                                    @MultiLanguages.Resources.Team.Text1
                                 </p>
                                 <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                    <span>Get Started Now</span>
+                                    <span>@MultiLanguages.Resources.Team.GetStartedNow</span>
                                 </div>
                             </div>
                         </a>
@@ -66,14 +66,14 @@
                         <a asp-controller="Home" asp-action="Teamproject" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                             <div class="mil-post-descr">
                                 <div class="mil-labels mil-up mil-mb-30">
-                                    <div class="mil-label mil-upper mil-accent">TEAM HIRING</div>
+                                    <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Team.TEAMHIRING</div>
                                 </div>
-                                <h4 class="mil-up mil-mb-30">Hire by Project</h4>
+                                <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Team.HirebyProject</h4>
                                 <p class="mil-post-text mil-up mil-mb-30">
-                                    Assemble a team for a specific project. Whether you're developing software, launching a web platform, or executing a marketing strategy, we provide the exact roles you need to ensure project success.
+                                    @MultiLanguages.Resources.Team.Text2
                                 </p>
                                 <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                    <span>Get Started Now</span>
+                                    <span>@MultiLanguages.Resources.Team.GetStartedNow</span>
                                 </div>
                             </div>
                         </a>
@@ -83,14 +83,14 @@
                         <a asp-controller="Home" asp-action="Teamsprint" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                             <div class="mil-post-descr">
                                 <div class="mil-labels mil-up mil-mb-30">
-                                    <div class="mil-label mil-upper mil-accent">TEAM HIRING</div>
+                                    <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Team.TEAMHIRING</div>
                                 </div>
-                                <h4 class="mil-up mil-mb-30">Hire by Sprint</h4>
+                                <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Team.HirebySprint</h4>
                                 <p class="mil-post-text mil-up mil-mb-30">
-                                    Get the flexibility of sprint-based hiring. Scale your team during critical development phases or agile sprints with developers, designers, or agile coaches who are experts in getting things done fast.
+                                    @MultiLanguages.Resources.Team.Text3
                                 </p>
                                 <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                    <span>Get Started Now</span>
+                                    <span>@MultiLanguages.Resources.Team.GetStartedNow</span>
                                 </div>
                             </div>
                         </a>
@@ -100,14 +100,14 @@
                         <a asp-controller="Home" asp-action="Teamroles" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                             <div class="mil-post-descr">
                                 <div class="mil-labels mil-up mil-mb-30">
-                                    <div class="mil-label mil-upper mil-accent">TEAM HIRING</div>
+                                    <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Team.TEAMHIRING</div>
                                 </div>
-                                <h4 class="mil-up mil-mb-30">Full Suite of Roles</h4>
+                                <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Team.FullSuiteofRoles</h4>
                                 <p class="mil-post-text mil-up mil-mb-30">
-                                    Access a wide range of skilled professionals for your team including developers, project managers, scrum masters, designers, and more. Tailor the team to fit your specific business requirements.
+                                    @MultiLanguages.Resources.Team.Text4
                                 </p>
                                 <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                    <span>Get Started Now</span>
+                                    <span>@MultiLanguages.Resources.Team.GetStartedNow</span>
                                 </div>
                             </div>
                         </a>

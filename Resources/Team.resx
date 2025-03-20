@@ -117,79 +117,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="GetStartedNow" xml:space="preserve">
+    <value>Get Started Now</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="Hire" xml:space="preserve">
+    <value>Hire a Team</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="HireYourOwn" xml:space="preserve">
+    <value>Hire Your Own</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="on" xml:space="preserve">
+    <value>on</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+  <data name="Teams" xml:space="preserve">
+    <value>Team</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="TEAMHIRING" xml:space="preserve">
+    <value>TEAM HIRING</value>
   </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Get a dedicated team of professionals such as developers, project managers, or scrum masters to support your business on a monthly basis. Ideal for ongoing projects or continuous development needs.</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Assemble a team for a specific project. Whether you're developing software, launching a web platform, or executing a marketing strategy, we provide the exact roles you need to ensure project success.</value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Get the flexibility of sprint-based hiring. Scale your team during critical development phases or agile sprints with developers, designers, or agile coaches who are experts in getting things done fast.</value>
   </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
+  <data name="Text4" xml:space="preserve">
+    <value>Access a wide range of skilled professionals for your team including developers, project managers, scrum masters, designers, and more. Tailor the team to fit your specific business requirements.</value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
+  <data name="YourTerms" xml:space="preserve">
+    <value>Your Terms</value>
   </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
+  <data name="HirebytheMonth" xml:space="preserve">
+    <value>Hire by the Month</value>
   </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
+  <data name="HirebyProject" xml:space="preserve">
+    <value>Hire by Project</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
+  <data name="HirebySprint" xml:space="preserve">
+    <value>Hire by Sprint</value>
   </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
-  </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
-  </data>
-  <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
-  </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
-  </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
-  </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
-  </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="FullSuiteofRoles" xml:space="preserve">
+    <value>Full Suite of Roles</value>
   </data>
 </root>
