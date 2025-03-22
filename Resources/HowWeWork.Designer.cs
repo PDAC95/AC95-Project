@@ -88,6 +88,15 @@ namespace MultiLanguages.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and.
+        /// </summary>
+        public static string and {
+            get {
+                return ResourceManager.GetString("and", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to App Maintenance and Support.
         /// </summary>
         public static string AppMa {
@@ -417,6 +426,15 @@ namespace MultiLanguages.Resources {
         public static string ScrumMasters {
             get {
                 return ResourceManager.GetString("ScrumMasters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Service Options.
+        /// </summary>
+        public static string ServiceOptions {
+            get {
+                return ResourceManager.GetString("ServiceOptions", resourceCulture);
             }
         }
         
