@@ -137,8 +137,8 @@
                                             <h6 class="mil-muted mil-mb-30">Select Lenguage</h6>
 
                                             <ul class="mil-menu-list">
-                                                <li><a asp-controller="Home" asp-action="privacy" class="mil-light-soft">English</a></li>
-                                                <li><a asp-controller="Home" asp-action="terms" class="mil-light-soft">Spanish</a></li>
+                                                <li><a asp-controller="Language" asp-action="SetLanguage" asp-route-culture="en" asp-route-returnUrl="@Context.Request.Path" class="mil-light-soft">English</a></li>
+                                                <li><a asp-controller="Language" asp-action="SetLanguage" asp-route-culture="es" asp-route-returnUrl="@Context.Request.Path" class="mil-light-soft">Spanish</a></li>
                                             </ul>
 
                                         </div>

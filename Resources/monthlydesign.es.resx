@@ -117,79 +117,67 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="BrandIdentityDesign" xml:space="preserve">
+    <value>Gráficos para Redes Sociales</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="CustomGraphicDesign" xml:space="preserve">
+    <value>Diseño Gráfico Personalizado</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="Design" xml:space="preserve">
+    <value>Gráfico </value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="Graphic" xml:space="preserve">
+    <value>Diseño</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+  <data name="GraphicDesign" xml:space="preserve">
+    <value>Diseño Gráfico</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="GraphicDesignS" xml:space="preserve">
+    <value>Mensuales de</value>
   </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
-  </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
-  </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
-  </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
-  </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
-  </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
-  </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
+  <data name="MarketingMaterials" xml:space="preserve">
+    <value>Materiales de Marketing</value>
   </data>
   <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
+    <value>Servicios</value>
   </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
+  <data name="MonthlyTitle" xml:space="preserve">
+    <value>Servicios Mensuales de</value>
   </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
+  <data name="Our" xml:space="preserve">
+    <value>Nuestros </value>
   </data>
-  <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
+  <data name="Print" xml:space="preserve">
+    <value>Material Impreso y Digital</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
+  <data name="Service" xml:space="preserve">
+    <value>Diseño Gráfico</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
+  <data name="Services" xml:space="preserve">
+    <value>Personalizado</value>
   </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
+  <data name="SocialMediaGraphics" xml:space="preserve">
+    <value>Gráficos para Redes Sociales</value>
   </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
+  <data name="SubscribeNow" xml:space="preserve">
+    <value>Suscríbete Ahora</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Nuestro servicio de suscripción de diseño gráfico te ofrece soporte continuo cada mes. Ya sea que necesites logotipos, materiales de marketing o gráficos para redes sociales, nuestro equipo crea diseños de alta calidad adaptados a tu marca.</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Obtén soluciones de diseño gráfico personalizadas según las necesidades de tu marca. Desde logotipos hasta tarjetas de presentación y empaques de productos, creamos diseños que refuerzan tu identidad visual y dejan una impresión duradera.</value>
+  </data>
+  <data name="Text3" xml:space="preserve">
+    <value>Diseñamos materiales de marketing atractivos, como folletos, volantes y banners, para ayudarte a promocionar tu negocio. Nuestros diseños están creados para captar la atención y generar interacción con tu audiencia.</value>
+  </data>
+  <data name="Text4" xml:space="preserve">
+    <value>Nuestro equipo crea gráficos atractivos para redes sociales que potencian tu presencia en línea. Desde publicaciones de Instagram hasta banners de Facebook, diseñamos contenido alineado con tu marca para captar la atención de tus seguidores.</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>Ayudamos a las empresas a desarrollar una identidad visual sólida mediante el diseño de logotipos, paletas de colores y tipografías que reflejan la personalidad y los valores de tu marca. Nuestras soluciones de identidad de marca te diferencian de la competencia.</value>
+  </data>
+  <data name="Text6" xml:space="preserve">
+    <value>Desde banners digitales hasta materiales impresos, ofrecemos diseños que se adaptan a todos los formatos. Ya sea para anuncios en línea, campañas impresas o materiales para ferias, creamos piezas visualmente impactantes y efectivas.</value>
   </data>
 </root>

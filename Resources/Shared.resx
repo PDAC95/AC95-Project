@@ -120,6 +120,9 @@
   <data name="AC95" xml:space="preserve">
     <value>AC95</value>
   </data>
+  <data name="AI" xml:space="preserve">
+    <value>AI Solutions for Business</value>
+  </data>
   <data name="AppDev" xml:space="preserve">
     <value>App Developtment</value>
   </data>
@@ -132,14 +135,23 @@
   <data name="Category" xml:space="preserve">
     <value>Category: </value>
   </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
   <data name="Date" xml:space="preserve">
     <value>Date:</value>
   </data>
   <data name="Ecom" xml:space="preserve">
     <value>E-Commerce</value>
   </data>
+  <data name="Getintouch" xml:space="preserve">
+    <value>Get in touch!</value>
+  </data>
   <data name="GetStarted" xml:space="preserve">
     <value>Get Started</value>
+  </data>
+  <data name="GoHome" xml:space="preserve">
+    <value>Go Home</value>
   </data>
   <data name="HireaTeam" xml:space="preserve">
     <value>Hire a Team</value>
@@ -153,8 +165,14 @@
   <data name="Monthly" xml:space="preserve">
     <value>Monthly Plans</value>
   </data>
+  <data name="Project" xml:space="preserve">
+    <value>Project</value>
+  </data>
   <data name="ReadMore" xml:space="preserve">
     <value>Read more</value>
+  </data>
+  <data name="Servicescategories" xml:space="preserve">
+    <value>Services categories:</value>
   </data>
   <data name="SoftwareDev" xml:space="preserve">
     <value>Software Development</value>
@@ -164,6 +182,9 @@
   </data>
   <data name="Subscribe" xml:space="preserve">
     <value>Subscribe Now</value>
+  </data>
+  <data name="Thank" xml:space="preserve">
+    <value>Thank you for reaching out!</value>
   </data>
   <data name="View" xml:space="preserve">
     <value>View all</value>

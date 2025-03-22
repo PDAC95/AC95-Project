@@ -117,79 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="Custom" xml:space="preserve">
+    <value>Soluciones de</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="Projects" xml:space="preserve">
+    <value>por Proyecto</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
-  </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
-  </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
-  </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
-  </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
-  </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
-  </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
-  </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
-  </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
-  </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
-  </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
-  </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
+  <data name="ProjectSolutions" xml:space="preserve">
+    <value>Soluciones por Proyecto</value>
   </data>
   <data name="Servicescategories" xml:space="preserve">
     <value>Categorías de Servicios:</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
+  <data name="SoftwareSolutions" xml:space="preserve">
+    <value>Software Personalizado</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Nuestros servicios de desarrollo web ofrecen soluciones personalizadas adaptadas a las necesidades de tu negocio. Diseñamos y desarrollamos sitios web responsivos y fáciles de usar, alineados con tu marca y objetivos.</value>
   </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Ofrecemos desarrollo de aplicaciones de ciclo completo, creando aplicaciones móviles robustas y escalables para iOS y Android. Nuestras apps están diseñadas para brindar la mejor experiencia de usuario y cumplir con los objetivos de tu negocio.</value>
   </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Nuestro equipo se especializa en crear plataformas de e-commerce que impulsan las ventas y mejoran la experiencia del cliente. Desde la integración de pagos seguros hasta la gestión personalizada de productos, desarrollamos soluciones escalables.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="Text4" xml:space="preserve">
+    <value>Ofrecemos desarrollo de software personalizado para empresas que necesitan soluciones únicas y escalables. Nuestro equipo trabaja contigo desde la concepción hasta la implementación, asegurando que el software cumpla con todos los requisitos de tu negocio.</value>
   </data>
 </root>

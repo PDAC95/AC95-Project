@@ -117,79 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="Let" xml:space="preserve">
+    <value>Platica</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="Sendmessage" xml:space="preserve">
+    <value>Enviar mensaje</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="Talk" xml:space="preserve">
+    <value>con nosotros</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="Tellusaboutourproject" xml:space="preserve">
+    <value>Tell us about our project</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Hemos recibido tu mensaje y te responderemos lo antes posible.</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Nos comprometemos a no divulgar tu información personal a terceros.</value>
   </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
+  <data name="Whatyourname" xml:space="preserve">
+    <value>Cual es tu nombre</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
-  </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
-  </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
-  </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
-  </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
-  </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
-  </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
-  </data>
-  <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
-  </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
-  </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
-  </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
-  </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="YourEmail" xml:space="preserve">
+    <value>Tu Email</value>
   </data>
 </root>

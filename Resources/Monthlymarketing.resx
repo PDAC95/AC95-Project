@@ -117,79 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="Analytics" xml:space="preserve">
+    <value>Analytics &amp; Reporting</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="Content" xml:space="preserve">
+    <value>Content Marketing</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="Digital Marketing" xml:space="preserve">
+    <value>Digital Marketing</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="DigitalMarketing" xml:space="preserve">
+    <value>Digital Marketing</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
-  </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
-  </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
-  </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
-  </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
-  </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
-  </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
-  </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
-  </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
+  <data name="Email" xml:space="preserve">
+    <value>Email Marketing</value>
   </data>
   <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
+    <value>Monthly</value>
   </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
+  <data name="Our" xml:space="preserve">
+    <value>Our</value>
   </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
+  <data name="Pay" xml:space="preserve">
+    <value>Pay-Per-Click Advertising (PPC)</value>
   </data>
-  <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
+  <data name="Search" xml:space="preserve">
+    <value>Search Engine Optimization (SEO)</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
+  <data name="Services" xml:space="preserve">
+    <value>Services</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
+  <data name="SocialMediaManagement" xml:space="preserve">
+    <value>Social Media Management</value>
   </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
+  <data name="Text1" xml:space="preserve">
+    <value>With our digital marketing subscription service, we help you grow your online presence through consistent marketing strategies. From social media management to SEO and paid ads, we work to achieve your business goals month after month.</value>
   </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
+  <data name="Text2" xml:space="preserve">
+    <value>We manage your social media platforms, creating and scheduling content that engages your audience and builds brand awareness. Our team ensures your social media presence remains active and aligned with your marketing goals.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Our SEO services focus on improving your website's ranking in search engines. We work on on-page and off-page SEO strategies to drive organic traffic to your website, ensuring long-term growth and visibility.</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="Text4" xml:space="preserve">
+    <value>We create and manage PPC campaigns on platforms like Google Ads and social media. Our team optimizes ad copy, targeting, and bidding strategies to maximize your return on investment and generate qualified leads.</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>We produce valuable content that resonates with your audience, from blog posts and articles to infographics and videos. Our content marketing strategy focuses on building trust with your audience and driving engagement.</value>
+  </data>
+  <data name="Text6" xml:space="preserve">
+    <value>Our email marketing service helps you maintain contact with your audience through well-crafted email campaigns. We design and execute strategies that drive conversions, increase customer retention, and build lasting relationships.</value>
+  </data>
+  <data name="Text7" xml:space="preserve">
+    <value>We provide monthly reports with detailed insights into your marketing performance. From traffic sources to conversion rates, we analyze the data to continually refine and improve your digital marketing efforts.</value>
   </data>
 </root>

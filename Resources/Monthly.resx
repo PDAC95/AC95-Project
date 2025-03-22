@@ -117,79 +117,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
-  </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
-  </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
-  </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="AppMaintenance" xml:space="preserve">
+    <value>App Maintenance</value>
   </data>
   <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+    <value>Brand Solutions</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="DigitalMarketing" xml:space="preserve">
+    <value>Digital Marketing</value>
   </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
+  <data name="ECommerceManagement" xml:space="preserve">
+    <value>E-Commerce Management</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
-  </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
-  </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
-  </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
-  </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
+  <data name="GraphicDesign" xml:space="preserve">
+    <value>Graphic Design</value>
   </data>
   <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
+    <value>Hire a Team</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
+  <data name="MonthlyCat" xml:space="preserve">
+    <value>Monthly</value>
   </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
+  <data name="MonthlyTitle" xml:space="preserve">
+    <value>Monthly</value>
   </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
+  <data name="PlanTitle" xml:space="preserve">
+    <value>Plans</value>
   </data>
   <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
+    <value>Services categories:</value>
   </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
+  <data name="ServicesTitle" xml:space="preserve">
+    <value>Services</value>
   </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
+  <data name="SoftwareDevelopment" xml:space="preserve">
+    <value>Software Development</value>
   </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Keep your website running smoothly with our monthly web maintenance service. We ensure regular updates, performance optimization, and security checks to provide your users with a seamless experience.</value>
   </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Our e-commerce management service ensures your online store operates efficiently. We handle product updates, order management, and inventory tracking, so you can focus on growing your business.</value>
   </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Keep your app functioning at its best with our app maintenance service. We provide updates, bug fixes, and performance enhancements to ensure your app remains stable and up to date.</value>
   </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="Text4" xml:space="preserve">
+    <value>From concept to deployment, our monthly software development service offers continuous support for your projects. We help you build, test, and refine software tailored to your specific needs.</value>
+  </data>
+  <data name="Text5" xml:space="preserve">
+    <value>Our monthly digital marketing service helps you grow your online presence through tailored strategies. From social media management to SEO and paid ads, we ensure that your business stays competitive and visible online.</value>
+  </data>
+  <data name="Text6" xml:space="preserve">
+    <value>Our monthly graphic design service provides you with ongoing design support. Whether you need logos, marketing materials, or social media graphics, our team delivers high-quality designs tailored to your brand.</value>
   </data>
 </root>

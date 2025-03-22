@@ -21,6 +21,16 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>App.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\Brand.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Brand.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Confirmation.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Confirmation.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\Design.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -61,6 +71,21 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>MonthEcom.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\Monthly.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Monthly.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\monthlydesign.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>monthlydesign.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Monthlymarketing.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Monthlymarketing.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\MonthSoftware.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -71,6 +96,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>MonthWeb.resx</DependentUpon>
     </Compile>
+    <Compile Update="Resources\services.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>services.resx</DependentUpon>
+    </Compile>
     <Compile Update="Resources\Shared.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
@@ -80,6 +110,16 @@
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
       <DependentUpon>Software.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Started.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Started.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Team.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Team.resx</DependentUpon>
     </Compile>
     <Compile Update="Resources\TeamMonth.Designer.cs">
       <DesignTime>True</DesignTime>
@@ -117,6 +157,20 @@
     <EmbeddedResource Update="Resources\App.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>App.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Brand.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Brand.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Brand.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Confirmation.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Confirmation.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Confirmation.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\Design.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -174,6 +228,27 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MonthEcom.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Monthly.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Monthly.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Monthly.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\monthlydesign.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\monthlydesign.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>monthlydesign.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Monthlymarketing.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Monthlymarketing.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Monthlymarketing.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Resources\MonthSoftware.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
@@ -188,6 +263,13 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>MonthWeb.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Resources\services.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\services.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>services.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Resources\Shared.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
@@ -201,6 +283,20 @@
     <EmbeddedResource Update="Resources\Software.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Software.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Started.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Started.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Started.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Team.es.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Team.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Team.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Update="Resources\TeamMonth.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

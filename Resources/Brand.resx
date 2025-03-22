@@ -117,79 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="BrandStrategy" xml:space="preserve">
+    <value>Brand Strategy</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="BrandTitle" xml:space="preserve">
+    <value>Brand</value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="DigitalMarketing" xml:space="preserve">
+    <value>Digital Marketing</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="forYourBusiness" xml:space="preserve">
+    <value>for Your Business</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+  <data name="GetStartedNow" xml:space="preserve">
+    <value>Get Started Now</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="OurServices" xml:space="preserve">
+    <value>Our Services:</value>
   </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
+  <data name="SocialMediaManagement" xml:space="preserve">
+    <value>Social Media Management</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
+  <data name="Solutions" xml:space="preserve">
+    <value>Solutions</value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Elevate your brand with custom graphic design services. From logos to full brand identity, we create visuals that align with your business values and attract your target audience. Stand out with stunning visuals across all platforms.</value>
   </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Reach your audience effectively with our digital marketing services. We specialize in SEO, social media, and video marketing to boost your brand's online presence. Our tailored strategies help you connect with your audience and grow your brand.</value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Craft a powerful brand strategy that resonates with your audience. We offer comprehensive services to define your brand’s mission, vision, and values, ensuring a consistent message across all platforms and driving long-term success.</value>
   </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
+  <data name="Text4" xml:space="preserve">
+    <value>Leverage the power of video to tell your brand's story. From promotional videos to engaging social media content, our video marketing services help you create impactful visual experiences that captivate your audience and drive conversions.</value>
   </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
+  <data name="Text5" xml:space="preserve">
+    <value>Keep your brand active on social media with our management services. From content creation to audience engagement, we manage your profiles on platforms like Instagram, Facebook, and LinkedIn to boost your brand's visibility and foster relationships with customers.</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
-  </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
-  </data>
-  <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
-  </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
-  </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
-  </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
-  </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="VideoMarketing" xml:space="preserve">
+    <value>Video Marketing</value>
   </data>
 </root>

@@ -1,6 +1,7 @@
 ﻿@{
     ViewData["Title"] = MultiLanguages.Resources.Menu.Language;
 }
+@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer Localizer
 
 <!-- preloader -->
 <div class="mil-preloader">
@@ -37,6 +38,8 @@
                     <div class="col-lg-9">
                         <div class="swiper-container mil-portfolio-slider mil-up">
                             <div class="swiper-wrapper">
+
+                                <!-- Opción en inglés -->
                                 <div class="swiper-slide">
                                     <div class="mil-portfolio-item mil-slider-item" data-swiper-parallax="-30">
                                         <div class="mil-cover-frame mil-drag">
@@ -52,13 +55,14 @@
                                                 <h5>Choose English to Continue</h5>
                                             </div>
                                             <div data-swiper-parallax-y="120" data-swiper-parallax-opacity="0">
-                                                <a asp-controller="Home" asp-action="Home" class="mil-button mil-arrow-place">
+                                                <a asp-controller="Language" asp-action="SetLanguage" asp-route-culture="en" class="mil-button mil-arrow-place">
                                                     <span>Get Started</span>
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="swiper-slide">
                                     <div class="mil-portfolio-item mil-slider-item" data-swiper-parallax="-30">
                                         <div class="mil-cover-frame mil-drag">
@@ -74,13 +78,15 @@
                                                 <h5>Elige español para continuar</h5>
                                             </div>
                                             <div data-swiper-parallax-y="120" data-swiper-parallax-opacity="0">
-                                                <a asp-controller="Home" asp-action="Home" class="mil-button mil-arrow-place">
+                                                <a asp-controller="Language" asp-action="SetLanguage" asp-route-culture="es" class="mil-button mil-arrow-place">
                                                     <span>Continuar</span>
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+
+
                             </div>
                         </div>
                     </div>
@@ -98,6 +104,7 @@
                 </div>
             </div>
         </section>
+
         <!-- portfolio end -->
         <!-- hidden elements -->
         <div class="mil-hidden-elements">

@@ -13,12 +13,12 @@ div class="mil-content">
             </div>
             <div class="container">
                 <ul class="mil-breadcrumbs mil-mb-60">
-                    <li><a asp-controller="Home" asp-action="Home">Homepage</a></li>
-                    <li><a asp-controller="Home" asp-action="Brand">Brand Solutions</a></li>
+                    <li><a asp-controller="Home" asp-action="Home">@MultiLanguages.Resources.Shared.Home</a></li>
+                    <li><a asp-controller="Home" asp-action="Brand">@MultiLanguages.Resources.Shared.BrandSolutions</a></li>
                 </ul>
-                <h1 class="mil-mb-60">Brand <br>Solutions <span class="mil-thin">for Your Business</span></h1>
+                <h1 class="mil-mb-60">@MultiLanguages.Resources.Brand.BrandTitle <br>Solutions <span class="mil-thin">@MultiLanguages.Resources.Brand.forYourBusiness</span></h1>
                 <a href="#BrandSolutions" class="mil-link mil-dark mil-arrow-place">
-                    <span>Get Started</span>
+                    <span>@MultiLanguages.Resources.Shared.GetStarted</span>
                 </a>
             </div>
         </div>
@@ -29,16 +29,16 @@ div class="mil-content">
         <div class="container mil-p-120-120">
             <div class="row align-items-center mil-mb-30">
                 <div class="col-lg-4 mil-mb-30">
-                    <h3 class="mil-up">Our Services:</h3>
+                    <h3 class="mil-up">@MultiLanguages.Resources.Brand.OurServices</h3>
                 </div>
                 <div class="col-lg-8 mil-mb-30">
                     <div class="mil-adaptive-right mil-up">
 
                         <ul class="mil-category-list">
-                            <li><a asp-controller="Home" asp-action="Services">Project</a></li>
-                            <li><a asp-controller="Home" asp-action="Monthly">Monthly</a></li>
-                            <li><a asp-controller="Home" asp-action="Team">Hire a Team</a></li>
-                            <li><a asp-controller="Home" asp-action="Brand" class="mil-active">Brand Solutions</a></li>
+                            <li><a asp-controller="Home" asp-action="Services">@MultiLanguages.Resources.Shared.Project</a></li>
+                            <li><a asp-controller="Home" asp-action="Monthly">@MultiLanguages.Resources.Shared.Monthly</a></li>
+                            <li><a asp-controller="Home" asp-action="Team">@MultiLanguages.Resources.Shared.HireaTeam</a></li>
+                            <li><a asp-controller="Home" asp-action="Brand" class="mil-active">@MultiLanguages.Resources.Shared.BrandSolutions</a></li>
                         </ul>
                     </div>
                 </div>
@@ -49,14 +49,14 @@ div class="mil-content">
                     <a asp-controller="Home" asp-action="Design" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                         <div class="mil-post-descr">
                             <div class="mil-labels mil-up mil-mb-30">
-                                <div class="mil-label mil-upper mil-accent">BRAND</div>
+                                <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Shared.BrandSolutions</div>
                             </div>
                             <h4 class="mil-up mil-mb-30">Graphic Design</h4>
                             <p class="mil-post-text mil-up mil-mb-30">
-                                Elevate your brand with custom graphic design services. From logos to full brand identity, we create visuals that align with your business values and attract your target audience. Stand out with stunning visuals across all platforms.
+                                @MultiLanguages.Resources.Brand.Text1
                             </p>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Get Started Now</span>
+                                <span>@MultiLanguages.Resources.Brand.GetStartedNow</span>
                             </div>
                         </div>
                     </a>
@@ -67,14 +67,14 @@ div class="mil-content">
                     <a asp-controller="Home" asp-action="Marketing" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                         <div class="mil-post-descr">
                             <div class="mil-labels mil-up mil-mb-30">
-                                <div class="mil-label mil-upper mil-accent">BRAND</div>
+                                <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Shared.BrandSolutions</div>
                             </div>
-                            <h4 class="mil-up mil-mb-30">Digital Marketing</h4>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Brand.DigitalMarketing</h4>
                             <p class="mil-post-text mil-up mil-mb-30">
-                                Reach your audience effectively with our digital marketing services. We specialize in SEO, social media, and video marketing to boost your brand's online presence. Our tailored strategies help you connect with your audience and grow your brand.
+                                @MultiLanguages.Resources.Brand.Text2
                             </p>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Get Started Now</span>
+                                <span>@MultiLanguages.Resources.Brand.GetStartedNow</span>
                             </div>
                         </div>
                     </a>
@@ -85,14 +85,14 @@ div class="mil-content">
                     <a asp-controller="Home" asp-action="Strategy" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                         <div class="mil-post-descr">
                             <div class="mil-labels mil-up mil-mb-30">
-                                <div class="mil-label mil-upper mil-accent">BRAND</div>
+                                <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Shared.BrandSolutions</div>
                             </div>
-                            <h4 class="mil-up mil-mb-30">Brand Strategy</h4>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Brand.BrandStrategy</h4>
                             <p class="mil-post-text mil-up mil-mb-30">
-                                Craft a powerful brand strategy that resonates with your audience. We offer comprehensive services to define your brand’s mission, vision, and values, ensuring a consistent message across all platforms and driving long-term success.
+                                @MultiLanguages.Resources.Brand.Text3
                             </p>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Get Started Now</span>
+                                <span>@MultiLanguages.Resources.Brand.GetStartedNow</span>
                             </div>
                         </div>
                     </a>
@@ -103,14 +103,14 @@ div class="mil-content">
                     <a asp-controller="Home" asp-action="Marketing" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                         <div class="mil-post-descr">
                             <div class="mil-labels mil-up mil-mb-30">
-                                <div class="mil-label mil-upper mil-accent">BRAND</div>
+                                <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Shared.BrandSolutions</div>
                             </div>
-                            <h4 class="mil-up mil-mb-30">Video Marketing</h4>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Brand.VideoMarketing</h4>
                             <p class="mil-post-text mil-up mil-mb-30">
-                                Leverage the power of video to tell your brand's story. From promotional videos to engaging social media content, our video marketing services help you create impactful visual experiences that captivate your audience and drive conversions.
+                                @MultiLanguages.Resources.Brand.Text4
                             </p>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Get Started Now</span>
+                                <span>@MultiLanguages.Resources.Brand.GetStartedNow</span>
                             </div>
                         </div>
                     </a>
@@ -121,14 +121,14 @@ div class="mil-content">
                     <a asp-controller="Home" asp-action="Marketing" class="mil-blog-card mil-blog-card-hori mil-more mil-mb-60">
                         <div class="mil-post-descr">
                             <div class="mil-labels mil-up mil-mb-30">
-                                <div class="mil-label mil-upper mil-accent">BRAND</div>
+                                <div class="mil-label mil-upper mil-accent">@MultiLanguages.Resources.Shared.BrandSolutions</div>
                             </div>
-                            <h4 class="mil-up mil-mb-30">Social Media Management</h4>
+                            <h4 class="mil-up mil-mb-30">@MultiLanguages.Resources.Brand.SocialMediaManagement</h4>
                             <p class="mil-post-text mil-up mil-mb-30">
-                                Keep your brand active on social media with our management services. From content creation to audience engagement, we manage your profiles on platforms like Instagram, Facebook, and LinkedIn to boost your brand's visibility and foster relationships with customers.
+                                @MultiLanguages.Resources.Brand.Text5
                             </p>
                             <div class="mil-link mil-dark mil-arrow-place mil-up">
-                                <span>Get Started Now</span>
+                                <span>@MultiLanguages.Resources.Brand.GetStartedNow</span>
                             </div>
                         </div>
                     </a>

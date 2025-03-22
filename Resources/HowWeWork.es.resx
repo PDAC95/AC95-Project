@@ -126,6 +126,9 @@
   <data name="Agile" xml:space="preserve">
     <value>Desarrolladores Agile</value>
   </data>
+  <data name="and" xml:space="preserve">
+    <value>y</value>
+  </data>
   <data name="AppMa" xml:space="preserve">
     <value>Mantenimiento y Soporte de Aplicaciones</value>
   </data>
@@ -236,6 +239,9 @@
   </data>
   <data name="ScrumMasters" xml:space="preserve">
     <value>Scrum Masters</value>
+  </data>
+  <data name="ServiceOptions" xml:space="preserve">
+    <value>Opciones de Servicio</value>
   </data>
   <data name="Services" xml:space="preserve">
     <value>Servicio</value>

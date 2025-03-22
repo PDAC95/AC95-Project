@@ -117,79 +117,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AC95" xml:space="preserve">
-    <value>AC95</value>
+  <data name="BrandStrategy" xml:space="preserve">
+    <value>Estrategia de Marca</value>
   </data>
-  <data name="AI" xml:space="preserve">
-    <value>Soluciones de IA para Empresas</value>
+  <data name="BrandTitle" xml:space="preserve">
+    <value>Soluciones de </value>
   </data>
-  <data name="AppDev" xml:space="preserve">
-    <value>Desarrollo de Apps</value>
+  <data name="DigitalMarketing" xml:space="preserve">
+    <value>Marketing Digital</value>
   </data>
-  <data name="Author" xml:space="preserve">
-    <value>Autor:</value>
+  <data name="forYourBusiness" xml:space="preserve">
+    <value>tu Negocio</value>
   </data>
-  <data name="BrandSolutions" xml:space="preserve">
-    <value>Soluciones de Marca</value>
+  <data name="GetStartedNow" xml:space="preserve">
+    <value>Comienza Ahora</value>
   </data>
-  <data name="Category" xml:space="preserve">
-    <value>Categoria:</value>
+  <data name="OurServices" xml:space="preserve">
+    <value>Nuestros Servicios:</value>
   </data>
-  <data name="Contact" xml:space="preserve">
-    <value>Contacto</value>
+  <data name="SocialMediaManagement" xml:space="preserve">
+    <value>Gestión de Redes Sociales</value>
   </data>
-  <data name="Date" xml:space="preserve">
-    <value>Fecha</value>
+  <data name="Solutions" xml:space="preserve">
+    <value>Marca para</value>
   </data>
-  <data name="Ecom" xml:space="preserve">
-    <value>E-Commerce</value>
+  <data name="Text1" xml:space="preserve">
+    <value>Eleva tu marca con servicios personalizados de diseño gráfico. Desde logotipos hasta una identidad de marca completa, creamos imágenes que reflejan los valores de tu negocio y atraen a tu público objetivo. Destaca con diseños impactantes en todas las plataformas.</value>
   </data>
-  <data name="Getintouch" xml:space="preserve">
-    <value>¡Contáctanos!</value>
+  <data name="Text2" xml:space="preserve">
+    <value>Llega a tu audiencia de manera efectiva con nuestros servicios de marketing digital. Nos especializamos en SEO, redes sociales y marketing en video para potenciar la presencia en línea de tu marca. Nuestras estrategias personalizadas te ayudan a conectar con tu público y hacer crecer tu negocio.</value>
   </data>
-  <data name="GetStarted" xml:space="preserve">
-    <value>Comenzar</value>
+  <data name="Text3" xml:space="preserve">
+    <value>Diseña una estrategia de marca sólida que conecte con tu audiencia. Ofrecemos servicios integrales para definir la misión, visión y valores de tu marca, asegurando un mensaje coherente en todas las plataformas y promoviendo el éxito a largo plazo.</value>
   </data>
-  <data name="GoHome" xml:space="preserve">
-    <value>Ir al Inicio</value>
+  <data name="Text4" xml:space="preserve">
+    <value>Aprovecha el poder del video para contar la historia de tu marca. Desde videos promocionales hasta contenido atractivo para redes sociales, nuestros servicios de marketing en video te ayudan a crear experiencias visuales impactantes que cautivan a tu audiencia y aumentan las conversiones.</value>
   </data>
-  <data name="HireaTeam" xml:space="preserve">
-    <value>Contrata un Equipo</value>
+  <data name="Text5" xml:space="preserve">
+    <value>Mantén tu marca activa en redes sociales con nuestros servicios de gestión. Desde la creación de contenido hasta la interacción con tu audiencia, administramos tus perfiles en plataformas como Instagram, Facebook y LinkedIn para aumentar tu visibilidad y fortalecer la relación con tus clientes.</value>
   </data>
-  <data name="Home" xml:space="preserve">
-    <value>Inicio</value>
-  </data>
-  <data name="HowWeWork" xml:space="preserve">
-    <value>Como Trabajamos</value>
-  </data>
-  <data name="Monthly" xml:space="preserve">
-    <value>Planes Mensuales</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proyectos</value>
-  </data>
-  <data name="ReadMore" xml:space="preserve">
-    <value>Leer más</value>
-  </data>
-  <data name="Servicescategories" xml:space="preserve">
-    <value>Categorías de Servicios:</value>
-  </data>
-  <data name="SoftwareDev" xml:space="preserve">
-    <value>Desarrollo de Software</value>
-  </data>
-  <data name="Start" xml:space="preserve">
-    <value>Inicia Tu Proyecto</value>
-  </data>
-  <data name="Subscribe" xml:space="preserve">
-    <value>Suscribirse Ahora</value>
-  </data>
-  <data name="Thank" xml:space="preserve">
-    <value>¡Gracias por contactarnos!</value>
-  </data>
-  <data name="View" xml:space="preserve">
-    <value>Ver todas</value>
-  </data>
-  <data name="WebDev" xml:space="preserve">
-    <value>WebApps</value>
+  <data name="VideoMarketing" xml:space="preserve">
+    <value>Marketing en Video</value>
   </data>
 </root>
