@@ -50,6 +50,20 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+// 🔁 Redireccionar sin www a www
+app.Use(async (context, next) =>
+{
+    var host = context.Request.Host.Host;
+    if (host == "ac95.ca")
+    {
+        var newHost = new HostString("www.ac95.ca");
+        var newUrl = $"{context.Request.Scheme}://{newHost}{context.Request.Path}{context.Request.QueryString}";
+        context.Response.Redirect(newUrl, permanent: true);
+        return;
+    }
+    await next();
+});
+
 app.UseRouting();
 app.UseAuthorization();
 
