@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using System.Globalization;
-using MultiLanguages.Models;  // Cambia "MultiLanguages" por el namespace correcto
+using MultiLanguages.Models;  
 
 var builder = WebApplication.CreateBuilder(args);
 
